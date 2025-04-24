@@ -1,4 +1,4 @@
-"Symbol","Market.Cap","Rating","Score","Rating.L","Score.L","Volume.Surge.L","EPS (Trailing 12 Months)","P/E Ratio"
+"Symbol","Market.Cap","Rating","Score","Rating.L","Score.L","Volume.Surge.L","EPS.TTM","PE.Ratio"
 "AAPL","Large","HOLD","Low","HOLD","Low","No",6.3,32.80714
 "BCPC","Mid","HOLD","Low","HOLD","Moderate","No",3.93,37.92621
 "BCTX","Nano","HOLD","Low","HOLD","Low","Yes",-4.75,NA
