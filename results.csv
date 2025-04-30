@@ -1,41 +1,44 @@
-"Symbol","RecommendedIntraDayBuyPrice","LatestPrice","LatestMacroBuyScore","HealthStatus","VolumeSurge","PriceForecast","EPS","PERatio"
-"AAL",9.49,9.79,"Low","Good","No","9.64 - 9.93",1,9.77
-"AMZN",180.1,180.92,"Moderate","Good","No","178.14 - 182.35",5.53,32.9
-"BAC",38.85,39.49,"Moderate","Good","No","39.06 - 39.91",3.35,11.79
-"BBIO",37.38,38.535,"Low","Good","Yes","36.67 - 40.38",-2.88,NA
-"BLCO",10.52,11.62,"High","Good","Yes","10.8 - 12.45",-0.9,NA
-"BTG",3.09,3.105,"Low","Good","No","3.05 - 3.17",-0.48,NA
-"COST",977.75,988.11,"Low","Good","No","978.12 - 998.1",17.16,57.69
-"CRM",265.12,265.83,"Moderate","Good","No","262.66 - 267.95",6.37,41.8
-"ENPH",44.3,44.34,"Moderate","Good","No","42.84 - 45.1",1.09,41.35
-"F",9.89,9.89,"Low","Good","No","9.75 - 10.02",1.46,6.81
-"FSLR",123.79,124.15,"High","Good","Yes","121.67 - 127.45",12.02,10.57
-"GDS",24.53,25.325,"Low","Good","No","24.53 - 26.08",-0.62,NA
-"GOOGL",155.9,156.53,"Moderate","Good","No","154.79 - 157.24",8.95,17.57
-"HD",353.17,355.87,"Moderate","Good","No","346.78 - 358.88",14.9,23.97
-"HIMS",32.19,32.9,"Low","Good","No","31.63 - 33.86",0.53,62.3
-"INTC",19.62,19.765,"Moderate","Good","No","19.5 - 19.97",-4.48,NA
-"IVF",2.39,2.67,"Low","Good","No","2.01 - 3.27",-12.12,NA
-"JNJ",155.3,155.61,"Low","Good","No","154.44 - 156.61",9,17.29
-"JPM",238.57,241.7809,"Moderate","Good","No","238.86 - 244.36",20.38,11.88
-"KC",13.37,13.43,"Low","Good","No","12.98 - 13.78",-1.11,NA
-"LCID",2.4,2.4397,"Low","Good","No","2.38 - 2.48",-1.25,NA
-"MA",530.22,539.79,"Low","Good","No","534.15 - 545.65",13.87,39.03
-"META",531.87,538.09,"Moderate","Good","No","530.38 - 543.97",23.84,22.69
-"NFLX",1109.88,1118.64,"Low","Good","No","1105.12 - 1127.92",21.16,52.97
-"NU",12.17,12.26,"Low","Good","No","12.09 - 12.41",0.4,30.66
-"NVDA",104.54,106,"Moderate","Good","No","104.92 - 106.68",2.94,36.28
-"PFE",24.16,24.225,"Low","Good","No","24.11 - 24.39",1.41,17.16
-"PLTR",109.97,116.18,"Low","Good","No","114.24 - 117.75",0.19,611.53
-"QRVO",68.42,68.7,"Low","Good","No","65.61 - 71.62",0.28,246.38
-"RGLS",7.79,7.8597,"Low","Good","Yes","5.67 - 10.03",-0.82,NA
-"SMCI",30.29,30.315,"High","Good","Yes","29.63 - 30.98",2.3,13.3
-"SNAP",7.49,7.78,"High","Good","Yes","7.54 - 7.96",-0.42,NA
-"STX",88.26,88.805,"Low","Good","Yes","86.12 - 90.97",5.5,16.35
-"TSLA",271.63,276.57,"Moderate","Good","No","271.43 - 279.31",1.75,159.54
-"UNH",401.96,409.56,"Moderate","Good","No","404.01 - 414.95",23.9,17.22
-"V",333.3,341.53,"Low","Good","No","332.99 - 349.94",9.9,34.48
-"WDC",42.67,43.19,"Low","Good","No","41.74 - 44.37",3.46,12.58
-"WGS",64.24,71.3154,"High","Good","Yes","45.44 - 95.92",-1.94,NA
-"XOM",104.29,104.96,"Moderate","Good","No","103.29 - 105.67",7.85,13.35
-"XPO",102.7,103.4,"Low","Good","No","97.25 - 108.98",3.23,32.24
+"Symbol","RecommendedIntraDayBuyPrice","LatestPrice","LatestMacroRating","HealthStatus","VolumeSurge","PriceForecast","EPS","PERatio"
+"AAL",9.49,9.815,"Uptrend or netural","Good","No","9.68 - 9.96",1,9.77
+"AMZN",180.1,181.58,"Mixed or Recovery","Good","No","179.38 - 183.12",5.53,32.9
+"APP",268.66,270.9001,"Mixed or Recovery","Good","No","254.03 - 288.08",4.54,59.91
+"AVGO",185,189.64,"Mixed or Recovery","Good","No","186.39 - 192.33",2.16,87.93
+"BAC",38.85,39.555,"Mixed or Recovery","Good","No","39.15 - 39.98",3.35,11.79
+"BTG",3.09,3.11,"Uptrend or netural","Good","No","3.06 - 3.17",-0.48,NA
+"CHEF",55.43,56.16,"Uptrend or netural","Good","No","44.73 - 69.87",1.32,42.82
+"COST",977.75,991.045,"Uptrend or netural","Good","No","981.3 - 1000.92",17.16,57.69
+"CRM",265.12,266.69,"Mixed or Recovery","Good","No","264 - 269.23",6.37,41.8
+"ENPH",44.3,44.61,"Mixed or Recovery","Good","No","43.16 - 45.37",1.09,41.35
+"ETSY",41.56,41.82,"Bearish or Oversold","Good","No","38.14 - 45.86",2.35,18.18
+"F",9.89,9.9365,"Mixed or Recovery","Good","No","9.79 - 10.06",1.46,6.81
+"FSLR",123.79,125.83,"Bearish or Oversold","Good","Yes","122.28 - 127.97",12.02,10.57
+"GDS",24.53,25.4,"Uptrend or netural","Good","No","24.62 - 26.15",-0.62,NA
+"GOOGL",155.9,157.08,"Mixed or Recovery","Good","No","155.97 - 158.48",8.95,17.57
+"HD",353.17,357.055,"Mixed or Recovery","Good","No","353.66 - 366.48",14.9,23.97
+"HIMS",32.19,32.8899,"Uptrend or netural","Good","No","31.78 - 33.97",0.53,62.3
+"INTC",19.62,19.7999,"Mixed or Recovery","Good","No","19.57 - 20.04",-4.48,NA
+"IVF",2.39,2.61,"Uptrend or netural","Good","No","2.01 - 3.25",-12.12,NA
+"JNJ",155.3,155.72,"Uptrend or netural","Good","No","154.66 - 156.77",9,17.29
+"JPM",238.57,242.31,"Mixed or Recovery","Good","No","239.7 - 245.08",20.38,11.88
+"KC",13.37,13.48,"Uptrend or netural","Good","No","13.09 - 13.87",-1.11,NA
+"LCID",2.4,2.45,"Mixed or Recovery","Good","No","2.4 - 2.5",-1.25,NA
+"MA",530.22,541.885,"Uptrend or netural","Good","No","536.15 - 547.52",13.87,39.03
+"META",531.87,540.7967,"Mixed or Recovery","Good","No","533.89 - 547.38",23.84,22.69
+"NFLX",1109.88,1121.07,"Uptrend or netural","Good","No","1110.53 - 1133.37",21.16,52.97
+"NU",12.17,12.3248,"Uptrend or netural","Good","No","12.12 - 12.53",0.4,30.66
+"NVDA",104.54,106.48,"Mixed or Recovery","Good","No","105.56 - 107.34",2.94,36.28
+"PFE",24.16,24.295,"Uptrend or netural","Good","No","24.17 - 24.44",1.41,17.16
+"PLTR",109.97,116.9,"Uptrend or netural","Good","No","115.14 - 118.62",0.19,611.53
+"QRVO",68.42,69.08,"Uptrend or netural","Good","No","66.15 - 72.01",0.28,246.38
+"RGLS",7.79,7.895,"Uptrend or netural","Good","Yes","5.75 - 10.03",-0.82,NA
+"SMCI",30.29,30.54,"Bearish or Oversold","Good","Yes","29.88 - 31.22",2.3,13.3
+"SNAP",7.49,7.8271,"Bearish or Oversold","Good","Yes","7.61 - 8.02",-0.42,NA
+"SOFI",12.1,12.4701,"Mixed or Recovery","Good","No","12.18 - 12.81",0.39,32.17
+"STX",88.26,88.765,"Uptrend or netural","Good","Yes","86.42 - 91.17",5.5,16.35
+"TSLA",271.63,278.08,"Mixed or Recovery","Good","No","274.14 - 281.99",1.75,159.54
+"UNH",401.96,409.84,"Mixed or Recovery","Good","No","405.07 - 415.72",23.9,17.22
+"V",333.3,342.42,"Uptrend or netural","Good","No","336.42 - 347.9",9.9,34.48
+"WDC",42.67,43.275,"Uptrend or netural","Good","Yes","41.88 - 44.46",3.46,12.58
+"WGS",64.24,72.08,"Bearish or Oversold","Good","Yes","47.4 - 96.9",-1.94,NA
+"XOM",104.29,105.1848,"Mixed or Recovery","Good","No","103.98 - 106.32",7.85,13.35
+"XPO",102.7,103.01,"Uptrend or netural","Good","No","97.53 - 108.95",3.23,32.24
