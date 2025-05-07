@@ -1,2 +1,7 @@
 "Symbol","Recommended Entry Price (at or below)","MarketCap","LatestPrice","Trend","HealthStatus","VolumeSurge","PriceForecast","EPS","PERatio","LastUpdate"
-"PLTR",107.81,"Large",107.63,"Mixed or Recovery","Good","Yes","106.78 - 108.35",0.19,654.68,"2025-05-07 09:06:39"
+"AMZN",185.81,"Large",185.7501,"Mixed or Recovery","Good","No","184.69 - 186.72",6.14,30.5,"2025-05-07 09:11:30"
+"F",10.42,"Large",10.43,"Uptrend or neutral","Good","No","10.41 - 10.51",1.46,6.95,"2025-05-07 09:11:30"
+"HOOD",48.7,"Large",48.88,"Uptrend or neutral","Good","No","48.19 - 49.22",1.75,27.36,"2025-05-07 09:11:30"
+"NVDA",113.44,"Large",113.5599,"Uptrend or neutral","Good","No","112.95 - 113.97",2.94,38.87,"2025-05-07 09:11:30"
+"PLTR",107.67,"Large",107.705,"Mixed or Recovery","Good","Yes","106.72 - 108.31",0.19,654.68,"2025-05-07 09:11:30"
+"TSLA",276.75,"Large",276.88,"Mixed or Recovery","Good","No","276.01 - 278.15",1.75,160.11,"2025-05-07 09:11:30"
