@@ -1,4 +1,5 @@
 "Symbol","Recommended Entry Price (at or below)","MarketCap","LatestPrice","Trend","HealthStatus","VolumeSurge","PriceForecast","EPS","PERatio","LastUpdate"
-"ABBV",183.89,"Large",183.89,"Mixed or Recovery","Good","No","Neutral",2.34,83.43,"2025-05-08 09:21:50"
-"BCE",20.95,"Large",20.95,"Bearish or Oversold","Good","No","Lower",0.13,162.66,"2025-05-08 09:21:50"
-"CPNG",26.29,"Large",26.13,"Uptrend or neutral","Good","Yes","Neutral",0.08,299.81,"2025-05-08 09:21:50"
+"ABBV",183.89,"Large",184.15,"Mixed or Recovery","Good","No","Neutral",2.34,83.43,"2025-05-08 09:26:54"
+"BCE",20.95,"Large",21.12,"Bearish or Oversold","Good","No","Neutral",0.13,162.66,"2025-05-08 09:26:54"
+"ORCL",150,"Large",149.79,"Uptrend or neutral","Good","No","Neutral",4.27,35.25,"2025-05-08 09:26:54"
+"WFC",73.28,"Large",73.2815,"Mixed or Recovery","Good","No","Neutral",5.56,13.43,"2025-05-08 09:26:54"
