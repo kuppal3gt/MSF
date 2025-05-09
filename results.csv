@@ -1,3 +1,5 @@
 "Symbol","Recommended Entry Price (at or below)","MarketCap","LatestPrice","Trend","HealthStatus","VolumeSurge","PriceForecast","EPS","PERatio","LastUpdate"
-"GOOGL",153.87,"Large",153.99,"Mixed or Recovery","Good","No","Neutral",8.96,18.43,"2025-05-09 09:06:39"
-"HIMS",48.77,"Mid",48.7499,"Uptrend or neutral","Good","No","Neutral",0.53,79.62,"2025-05-09 09:06:39"
+"BP",29.29,"Large",29.35,"Uptrend or neutral","Good","No","Neutral",-0.41,NA,"2025-05-09 09:11:39"
+"CLSK",8.37,"Mid",8.38,"Uptrend or neutral","Good","Yes","Neutral",0,NA,"2025-05-09 09:11:39"
+"GOOGL",153.87,"Large",153.9898,"Mixed or Recovery","Good","No","Neutral",8.96,18.43,"2025-05-09 09:11:39"
+"HIMS",48.61,"Mid",48.75,"Uptrend or neutral","Good","No","Neutral",0.53,79.62,"2025-05-09 09:11:39"
