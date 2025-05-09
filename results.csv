@@ -1,62 +1,64 @@
-"Symbol","MarketCap","LatestPrice","Rating","Trend","HealthStatus","VolumeSurge","PriceForecast","EPS"
-"AAL","Mid",10.975,"Neutral","Uptrend or neutral","Good","No","Neutral",1
-"AAPL","Large",198.21,"Neutral","Mixed or Recovery","Good","No","Neutral",6.43
-"ABBV","Large",187.57,"Neutral","Mixed or Recovery","Good","No","Neutral",2.34
-"ADP","Large",306.5638,"Neutral","Uptrend or neutral","Good","No","Neutral",9.77
-"AFRM","Large",46.895,"Neutral","Bearish or Oversold","Good","Yes","Neutral",-0.62
-"AMZN","Large",192.455,"Neutral","Uptrend or neutral","Good","No","Neutral",6.14
-"AQN","Mid",5.955,"Neutral","Uptrend or neutral","Good","No","Neutral",0.07
-"AVGO","Large",207.375,"Neutral","Uptrend or neutral","Good","No","Higher",2.16
-"BBD","Large",2.695,"Neutral","Uptrend or neutral","Good","No","Higher",0.27
-"BTG","Mid",3.11,"Neutral","Uptrend or neutral","Good","No","Neutral",-0.48
-"CARG","Mid",30.98,"Neutral","Uptrend or neutral","Good","No","Higher",0.2
-"CLSK","Mid",8.785,"Neutral","Uptrend or neutral","Good","Yes","Neutral",0
-"COMP","Mid",6.4,"Neutral","Bearish or Oversold","Good","Yes","Neutral",-0.31
-"COST","Large",1003.0323,"Neutral","Mixed or Recovery","Good","No","Neutral",17.14
-"CRM","Large",276.3481,"Neutral","Uptrend or neutral","Good","No","Neutral",6.35
-"CRWD","Large",409.165,"Neutral","Mixed or Recovery","Good","No","Neutral",-0.09
-"CSCO","Large",59.785,"Neutral","Uptrend or neutral","Good","No","Neutral",2.28
-"CVX","Large",138.34,"Neutral","Uptrend or neutral","Good","No","Neutral",8.75
-"F","Large",10.39,"Neutral","Uptrend or neutral","Good","No","Neutral",1.46
-"GDOT","Small",10.6899,"Neutral","Uptrend or neutral","Good","Yes","Neutral",-0.5
-"GE","Large",213.75,"Neutral","Uptrend or neutral","Good","No","Neutral",6.33
-"GMED","Mid",56.99,"Neutral","Bearish or Oversold","Good","Yes","Neutral",0.75
-"GOOGL","Large",152.95,"Neutral","Mixed or Recovery","Good","No","Higher",8.96
-"GSAT","Mid",17.3695,"Neutral","Bearish or Oversold","Good","Yes","Neutral",-0.59
-"HES","Large",131.7852,"Neutral","Uptrend or neutral","Good","No","Neutral",7.21
-"HIMS","Mid",49.78,"Neutral","Uptrend or neutral","Good","No","Neutral",0.53
-"HOOD","Large",53.9803,"Neutral","Uptrend or neutral","Good","No","Neutral",1.75
-"IBM","Large",248.89,"Neutral","Mixed or Recovery","Good","No","Neutral",5.84
-"JPM","Large",252.74,"Neutral","Uptrend or neutral","Good","No","Higher",20.38
-"KLAC","Large",698.9315,"Neutral","Uptrend or neutral","Good","No","Neutral",27.51
-"LLY","Large",753.24,"Neutral","Mixed or Recovery","Good","No","Higher",12.27
-"MA","Large",566.7,"Neutral","Uptrend or neutral","Good","No","Neutral",14.26
-"MARA","Mid",14.735,"Neutral","Uptrend or neutral","Good","No","Neutral",1.72
-"MCHP","Large",54.3816,"Neutral","Uptrend or neutral","Good","No","Neutral",0.57
-"META","Large",595.755,"Neutral","Mixed or Recovery","Good","No","Neutral",25.55
-"MP","Mid",21.2492,"Neutral","Bearish or Oversold","Good","No","Neutral",-0.57
-"MRK","Large",77.245,"Neutral","Mixed or Recovery","Good","No","Neutral",6.88
-"MSFT","Large",436.64,"Neutral","Uptrend or neutral","Good","No","Neutral",12.93
-"NET","Large",133.49,"Neutral","Uptrend or neutral","Good","Yes","Neutral",-0.24
-"NFLX","Large",1141.4657,"Neutral","Mixed or Recovery","Good","No","Neutral",21.16
-"NOW","Large",978.06,"Neutral","Uptrend or neutral","Good","No","Higher",7.33
-"NVDA","Large",116.2201,"Neutral","Uptrend or neutral","Good","No","Neutral",2.94
-"ONTO","Mid",89.4795,"Neutral","Bearish or Oversold","Good","Yes","Neutral",4.05
-"ORCL","Large",150,"Neutral","Mixed or Recovery","Good","No","Higher",4.27
-"PINS","Large",29.27,"Neutral","Uptrend or neutral","Good","Yes","Neutral",2.67
-"PLTR","Large",116.2,"Neutral","Mixed or Recovery","Good","No","Higher",0.19
-"PM","Large",170.65,"Neutral","Mixed or Recovery","Good","No","Neutral",6.36
-"QBTS","Mid",10.6011,"Neutral","Uptrend or neutral","Good","Yes","Higher",-0.75
-"QCOM","Large",144.915,"Neutral","Uptrend or neutral","Good","No","Neutral",9.8
-"RKLB","Large",20.78,"Neutral","Mixed or Recovery","Good","Yes","Neutral",-0.38
-"T","Large",27.905,"Neutral","Uptrend or neutral","Good","No","Neutral",1.63
-"TOST","Large",41.04,"Neutral","Uptrend or neutral","Good","Yes","Neutral",0.03
-"TSLA","Large",296.8,"Neutral","Uptrend or neutral","Good","No","Neutral",1.75
-"TTD","Large",72.41,"Neutral","Uptrend or neutral","Good","Yes","Neutral",0.78
-"UNH","Large",379.6,"Neutral","Bearish or Oversold","Good","No","Higher",23.88
-"V","Large",351.76,"Neutral","Uptrend or neutral","Good","No","Neutral",9.94
-"VMC","Large",268.39,"Neutral","Uptrend or neutral","Good","No","Neutral",7.1
-"WFC","Large",72.16,"Neutral","Mixed or Recovery","Good","No","Neutral",5.56
-"WMT","Large",96.8046,"Neutral","Mixed or Recovery","Good","No","Neutral",2.41
-"XOM","Large",107.3,"Neutral","Uptrend or neutral","Good","No","Neutral",7.54
-"YELP","Mid",39.24,"Neutral","Uptrend or neutral","Good","No","Higher",1.88
+"Symbol","MarketCap","LatestPrice","Rating","Trend","HealthStatus","VolumeSurge","PriceForecast","EPS","LastUpdate"
+"AAL","Mid",10.9616,"Neutral","Uptrend or neutral","Good","No","Neutral",1,"2025-05-09 12:33:06"
+"AAPL","Large",198.14,"Neutral","Mixed or Recovery","Good","No","Neutral",6.43,"2025-05-09 12:33:06"
+"ABBV","Large",187.615,"Neutral","Mixed or Recovery","Good","No","Higher",2.34,"2025-05-09 12:33:06"
+"ADP","Large",306.335,"Neutral","Uptrend or neutral","Good","No","Neutral",9.77,"2025-05-09 12:33:06"
+"AFRM","Large",46.6544,"Neutral","Bearish or Oversold","Good","Yes","Neutral",-0.62,"2025-05-09 12:33:06"
+"AMZN","Large",192.5144,"Neutral","Uptrend or neutral","Good","No","Neutral",6.14,"2025-05-09 12:33:06"
+"AQN","Mid",5.96,"Neutral","Uptrend or neutral","Good","No","Neutral",0.07,"2025-05-09 12:33:06"
+"AVGO","Large",207.27,"Neutral","Uptrend or neutral","Good","No","Neutral",2.16,"2025-05-09 12:33:06"
+"AVPT","Mid",19.19,"Neutral","Uptrend or neutral","Good","Yes","Higher",-0.16,"2025-05-09 12:33:06"
+"BBD","Large",2.7,"Neutral","Uptrend or neutral","Good","No","Higher",0.27,"2025-05-09 12:33:06"
+"BTG","Mid",3.1,"Neutral","Uptrend or neutral","Good","No","Neutral",-0.48,"2025-05-09 12:33:06"
+"CARG","Mid",31,"Neutral","Uptrend or neutral","Good","No","Higher",0.2,"2025-05-09 12:33:06"
+"CLSK","Mid",8.705,"Neutral","Uptrend or neutral","Good","Yes","Neutral",0,"2025-05-09 12:33:06"
+"COMP","Mid",6.395,"Neutral","Bearish or Oversold","Good","Yes","Neutral",-0.31,"2025-05-09 12:33:06"
+"COST","Large",1003,"Neutral","Mixed or Recovery","Good","No","Neutral",17.14,"2025-05-09 12:33:06"
+"CRM","Large",276,"Neutral","Uptrend or neutral","Good","No","Neutral",6.35,"2025-05-09 12:33:06"
+"CRWD","Large",408.7,"Neutral","Mixed or Recovery","Good","No","Neutral",-0.09,"2025-05-09 12:33:06"
+"CSCO","Large",59.725,"Neutral","Uptrend or neutral","Good","No","Neutral",2.28,"2025-05-09 12:33:06"
+"CVX","Large",138.13,"Neutral","Uptrend or neutral","Good","No","Neutral",8.75,"2025-05-09 12:33:06"
+"F","Large",10.39,"Neutral","Uptrend or neutral","Good","No","Neutral",1.46,"2025-05-09 12:33:06"
+"GDOT","Small",10.77,"Neutral","Uptrend or neutral","Good","Yes","Neutral",-0.5,"2025-05-09 12:33:06"
+"GE","Large",213.82,"Neutral","Uptrend or neutral","Good","No","Neutral",6.33,"2025-05-09 12:33:06"
+"GMED","Mid",57.25,"Neutral","Bearish or Oversold","Good","Yes","Neutral",0.75,"2025-05-09 12:33:06"
+"GOOGL","Large",152.85,"Neutral","Mixed or Recovery","Good","No","Higher",8.96,"2025-05-09 12:33:06"
+"GSAT","Mid",17.26,"Neutral","Bearish or Oversold","Good","Yes","Neutral",-0.59,"2025-05-09 12:33:06"
+"HES","Large",131.67,"Neutral","Uptrend or neutral","Good","No","Neutral",7.21,"2025-05-09 12:33:06"
+"HOOD","Large",54.02,"Neutral","Uptrend or neutral","Good","No","Neutral",1.75,"2025-05-09 12:33:06"
+"IBM","Large",248.665,"Neutral","Mixed or Recovery","Good","No","Neutral",5.84,"2025-05-09 12:33:06"
+"JPM","Large",252.78,"Neutral","Uptrend or neutral","Good","No","Neutral",20.38,"2025-05-09 12:33:06"
+"KLAC","Large",699.36,"Neutral","Uptrend or neutral","Good","No","Neutral",27.51,"2025-05-09 12:33:06"
+"LLY","Large",753.395,"Neutral","Mixed or Recovery","Good","No","Higher",12.27,"2025-05-09 12:33:06"
+"MA","Large",566.52,"Neutral","Uptrend or neutral","Good","No","Neutral",14.26,"2025-05-09 12:33:06"
+"MARA","Mid",14.65,"Neutral","Uptrend or neutral","Good","No","Neutral",1.72,"2025-05-09 12:33:06"
+"MCD","Large",312.485,"Neutral","Mixed or Recovery","Good","No","Higher",11.32,"2025-05-09 12:33:06"
+"MCHP","Large",54.2,"Neutral","Uptrend or neutral","Good","No","Neutral",0.57,"2025-05-09 12:33:06"
+"META","Large",596.21,"Neutral","Mixed or Recovery","Good","No","Neutral",25.55,"2025-05-09 12:33:06"
+"MP","Mid",21.37,"Neutral","Bearish or Oversold","Good","No","Neutral",-0.57,"2025-05-09 12:33:06"
+"MRK","Large",77.205,"Neutral","Mixed or Recovery","Good","No","Neutral",6.88,"2025-05-09 12:33:06"
+"MSFT","Large",436.53,"Neutral","Uptrend or neutral","Good","No","Neutral",12.93,"2025-05-09 12:33:06"
+"NET","Large",133.35,"Neutral","Uptrend or neutral","Good","Yes","Neutral",-0.24,"2025-05-09 12:33:06"
+"NFLX","Large",1142.1325,"Neutral","Mixed or Recovery","Good","No","Neutral",21.16,"2025-05-09 12:33:06"
+"NOW","Large",978.9774,"Neutral","Uptrend or neutral","Good","No","Higher",7.33,"2025-05-09 12:33:06"
+"NVDA","Large",116.4146,"Neutral","Uptrend or neutral","Good","No","Neutral",2.94,"2025-05-09 12:33:06"
+"ONTO","Mid",89.16,"Neutral","Bearish or Oversold","Good","Yes","Neutral",4.05,"2025-05-09 12:33:06"
+"ORCL","Large",150.1,"Neutral","Mixed or Recovery","Good","No","Neutral",4.27,"2025-05-09 12:33:06"
+"PG","Large",158,"Neutral","Bearish or Oversold","Good","No","Higher",6.29,"2025-05-09 12:33:06"
+"PINS","Large",29.31,"Neutral","Uptrend or neutral","Good","Yes","Neutral",2.67,"2025-05-09 12:33:06"
+"PLTR","Large",116.39,"Neutral","Mixed or Recovery","Good","No","Neutral",0.19,"2025-05-09 12:33:06"
+"PM","Large",170.45,"Neutral","Mixed or Recovery","Good","No","Neutral",6.36,"2025-05-09 12:33:06"
+"QBTS","Mid",10.725,"Neutral","Uptrend or neutral","Good","Yes","Higher",-0.75,"2025-05-09 12:33:06"
+"QCOM","Large",144.93,"Neutral","Uptrend or neutral","Good","No","Neutral",9.8,"2025-05-09 12:33:06"
+"RKLB","Large",20.815,"Neutral","Mixed or Recovery","Good","Yes","Neutral",-0.38,"2025-05-09 12:33:06"
+"T","Large",27.89,"Neutral","Uptrend or neutral","Good","No","Neutral",1.63,"2025-05-09 12:33:06"
+"TOST","Large",41.105,"Neutral","Uptrend or neutral","Good","Yes","Neutral",0.03,"2025-05-09 12:33:06"
+"TSLA","Large",296.89,"Neutral","Uptrend or neutral","Good","No","Neutral",1.75,"2025-05-09 12:33:06"
+"TTD","Large",72.3508,"Neutral","Uptrend or neutral","Good","Yes","Neutral",0.78,"2025-05-09 12:33:06"
+"UNH","Large",379.43,"Neutral","Bearish or Oversold","Good","No","Neutral",23.88,"2025-05-09 12:33:06"
+"V","Large",351.62,"Neutral","Uptrend or neutral","Good","No","Neutral",9.94,"2025-05-09 12:33:06"
+"VMC","Large",268.585,"Neutral","Uptrend or neutral","Good","No","Neutral",7.1,"2025-05-09 12:33:06"
+"WFC","Large",72.18,"Neutral","Mixed or Recovery","Good","No","Neutral",5.56,"2025-05-09 12:33:06"
+"WMT","Large",96.7808,"Neutral","Mixed or Recovery","Good","No","Neutral",2.41,"2025-05-09 12:33:06"
+"XOM","Large",107.1135,"Neutral","Uptrend or neutral","Good","No","Neutral",7.54,"2025-05-09 12:33:06"
+"YELP","Mid",39.335,"Neutral","Uptrend or neutral","Good","No","Higher",1.88,"2025-05-09 12:33:06"
