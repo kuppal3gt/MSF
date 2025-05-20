@@ -1,63 +1,70 @@
 "Symbol","MarketCap","LatestPrice","Buy at or below","Rating","PriceForecast","VolumeSurge","EPS","Value at Risk (%)"
-"AAL","Mid",11.6199,11.69,"Mixed trend","Neutral","No",1,-6.53
-"AAPL","Large",205.955,206.52,"Mixed trend","Higher","No",6.43,-4.2
-"ABBV","Large",184.51,183.68,"Mixed trend","Neutral","No",2.34,-3.68
+"AAL","Mid",11.61,11.69,"Mixed trend","Neutral","No",1,-6.53
+"AAPL","Large",205.715,206.16,"Mixed trend","Higher","No",6.43,-4.2
+"ABBV","Large",184.4,183.68,"Mixed trend","Neutral","No",2.34,-3.68
 "ABT","Large",134.75,134.65,"Uptrend","Neutral","No",7.7,-2.2
-"ADP","Large",321.645,321.73,"Uptrend","Neutral","No",9.79,-1.71
-"AMZN","Large",203.435,203.3,"Mixed trend","Neutral","No",6.14,-4.02
-"AS","Large",36.975,36.5,"Uptrend","Neutral","Yes",0.14,-5.32
-"AVGO","Large",228.985,226.43,"Mixed trend","Neutral","No",2.17,-6.3
-"BAC","Large",44.555,44.59,"Uptrend","Higher","No",3.35,-3.46
+"ADP","Large",321.87,321.66,"Uptrend","Neutral","No",9.79,-1.71
+"AGYS","Mid",101.83,100.36,"Uptrend","Higher","Yes",0.75,-4.34
+"AMZN","Large",203.4,203.31,"Mixed trend","Neutral","No",6.14,-4.02
+"AS","Large",36.875,36.57,"Uptrend","Neutral","Yes",0.14,-5.32
+"AVGO","Large",228.9,226.46,"Mixed trend","Neutral","No",2.17,-6.3
+"BAC","Large",44.5463,44.58,"Uptrend","Higher","No",3.35,-3.46
 "BBD","Large",2.765,2.76,"Uptrend","Higher","No",0.3,-3.63
-"CEP","Small",44.634,36.76,"Uptrend","Neutral","No",0.18,-5.76
-"CRM","Large",286.86,285.66,"Mixed trend","Neutral","No",6.36,-4.41
-"CSCO","Large",63.105,63.19,"Mixed trend","Neutral","No",2.45,-2.64
-"CVX","Large",137.28,137.44,"Mixed trend","Higher","No",8.75,-3.44
-"EQIX","Large",869.89,865.4,"Uptrend","Neutral","No",9.57,-3.36
+"CEP","Small",44.8443,36.76,"Uptrend","Neutral","No",0.18,-5.76
+"CRM","Large",286.57,285.68,"Mixed trend","Neutral","No",6.36,-4.41
+"CSCO","Large",63.1,63.16,"Mixed trend","Neutral","No",2.45,-2.64
+"CVX","Large",137.23,137.43,"Mixed trend","Neutral","No",8.75,-3.44
+"EQIX","Large",870.42,865.4,"Uptrend","Neutral","No",9.57,-3.36
 "ESLT","Large",410.3622,403.48,"Uptrend","Neutral","No",7.18,-2.85
-"EXP","Mid",222.4,223.69,"Downtrend","Neutral","Yes",13.98,-3.73
-"F","Large",10.73,10.74,"Mixed trend","Neutral","No",1.25,-3.83
-"FICO","Large",2028.814,1926.53,"Mixed trend","Neutral","Yes",23.16,-4.55
-"GOOGL","Large",164.49,163.77,"Uptrend","Neutral","No",8.96,-4.18
-"HD","Large",374.81,377.06,"Mixed trend","Neutral","No",14.91,-2.3
-"HES","Large",132.16,132.51,"Mixed trend","Neutral","No",7.21,-3.3
-"HOOD","Large",64.745,64.02,"Uptrend","Neutral","No",1.75,-7.94
+"EXP","Mid",222.15,223.69,"Downtrend","Higher","Yes",13.98,-3.73
+"F","Large",10.7231,10.74,"Mixed trend","Neutral","No",1.25,-3.83
+"FICO","Large",2032.615,1926.53,"Mixed trend","Neutral","Yes",23.16,-4.55
+"GE","Large",234.38,234.51,"Uptrend","Higher","No",6.33,-3.06
+"GOOG","Large",165.74,165.1,"Uptrend","Higher","No",8.96,-4.02
+"GOOGL","Large",164.41,163.77,"Uptrend","Higher","No",8.96,-4.18
+"HD","Large",374.8,376.46,"Mixed trend","Neutral","No",14.91,-2.3
+"HES","Large",132.06,132.13,"Mixed trend","Neutral","No",7.21,-3.3
+"HOOD","Large",64.63,64.02,"Uptrend","Neutral","No",1.75,-7.94
 "HTHT","Large",36.23,36.21,"Mixed trend","Neutral","No",1.33,-3.42
-"IBM","Large",266.48,266.19,"Uptrend","Neutral","No",5.85,-3.04
-"ITW","Large",250.06,250.43,"Uptrend","Higher","No",11.35,-2.62
-"JHX","Large",24.81,24.86,"Mixed trend","Neutral","No",1.01,-3.78
-"JNJ","Large",153.71,153.1,"Uptrend","Neutral","No",9,-1.81
-"JPM","Large",265.23,262.97,"Uptrend","Higher","No",20.37,-3.89
-"KEYS","Large",162.42,162.5,"Mixed trend","Higher","No",3.5,-4.91
-"LIN","Large",458.525,458.21,"Uptrend","Neutral","No",13.76,-1.82
-"LLY","Large",749.455,746.63,"Uptrend","Neutral","No",12.31,-4.56
-"MA","Large",577.95,578.69,"Mixed trend","Neutral","No",14.25,-2.95
-"MCD","Large",319.43,319.41,"Uptrend","Neutral","No",11.34,-1.87
-"META","Large",634.735,635.2,"Mixed trend","Higher","No",25.55,-4.42
-"MRK","Large",77.85,77.78,"Uptrend","Neutral","No",6.88,-4.71
-"MSFT","Large",455.4475,455.18,"Uptrend","Neutral","No",12.94,-2.95
-"NMAX","Mid",23.48,23.33,"Mixed trend","Neutral","Yes",-0.52,-27.04
-"NOW","Large",1018.8,1018.84,"Mixed trend","Neutral","No",7.39,-5.3
-"NU","Large",12.6538,12.68,"Mixed trend","Neutral","No",0.44,-5.98
-"NVDA","Large",133.68,133.07,"Mixed trend","Neutral","No",2.94,-7.31
-"ORCL","Large",159.34,159.6,"Mixed trend","Neutral","No",4.26,-4.64
-"PANW","Large",193.4,193.58,"Uptrend","Neutral","No",1.77,-3.92
-"PFE","Large",23.4523,23.12,"Uptrend","Neutral","No",1.38,-3.46
-"PG","Large",165.35,165.28,"Uptrend","Neutral","No",6.29,-2.68
-"PLTR","Large",125.96,125.47,"Mixed trend","Neutral","No",0.23,-10.08
-"PM","Large",173.42,172.94,"Uptrend","Neutral","No",6.36,-1.7
-"QBTS","Mid",16.9001,15.4,"Uptrend","Neutral","Yes",-0.66,-10.47
-"RGTI","Mid",11.8116,11.62,"Uptrend","Neutral","No",-0.8,-10.77
-"SMCI","Large",43.0417,43.16,"Uptrend","Neutral","No",1.84,-11.31
-"SOFI","Large",13.365,13.4,"Mixed trend","Neutral","No",0.43,-7.6
-"T","Large",27.7886,27.8,"Uptrend","Neutral","No",1.63,-2.94
-"TOL","Large",104.51,104.67,"Mixed trend","Higher","No",14.51,-4.22
-"TSLA","Large",351.75,345.56,"Uptrend","Neutral","No",1.74,-6.28
-"TT","Large",428.965,429.23,"Uptrend","Higher","No",12.15,-3.81
-"UNH","Large",322.5001,316.33,"Uptrend","Neutral","No",23.88,-6.14
-"VIK","Large",43.95,43.76,"Mixed trend","Neutral","Yes",0.36,-6.05
-"VMC","Large",273.61,272.63,"Uptrend","Neutral","No",7.12,-2.68
-"WFC","Large",75.21,75.19,"Mixed trend","Higher","No",5.56,-4.58
-"WMT","Large",97.55,97.57,"Uptrend","Neutral","No",2.34,-3.07
-"XOM","Large",105.09,105.16,"Mixed trend","Higher","No",7.54,-3.16
+"IBM","Large",266.428,266.19,"Uptrend","Neutral","No",5.85,-3.04
+"IBRX","Mid",2.9518,2.87,"Uptrend","Neutral","No",-0.57,-7.44
+"ITW","Large",249.9,250.31,"Uptrend","Higher","No",11.35,-2.62
+"JHX","Large",24.84,24.86,"Mixed trend","Neutral","No",1.01,-3.78
+"JNJ","Large",153.625,153.28,"Uptrend","Neutral","No",9,-1.81
+"JPM","Large",265.12,262.98,"Uptrend","Neutral","No",20.37,-3.89
+"KEYS","Large",162.42,162.35,"Mixed trend","Higher","No",3.5,-4.91
+"KLAC","Large",782.04,783.62,"Mixed trend","Higher","No",27.47,-5.3
+"LIN","Large",458.36,458.26,"Uptrend","Neutral","No",13.76,-1.82
+"LLY","Large",748.17,746.65,"Uptrend","Higher","No",12.31,-4.56
+"MA","Large",577.85,578.28,"Mixed trend","Neutral","No",14.25,-2.95
+"MCD","Large",319.55,319.41,"Uptrend","Neutral","No",11.34,-1.87
+"META","Large",634.23,634.81,"Mixed trend","Higher","No",25.55,-4.42
+"MRK","Large",77.735,77.78,"Uptrend","Neutral","No",6.88,-4.71
+"MSFT","Large",455.41,455.2,"Uptrend","Neutral","No",12.94,-2.95
+"NFLX","Large",1183.1525,1183.69,"Uptrend","Neutral","No",21.21,-2.74
+"NMAX","Mid",23.415,23.33,"Mixed trend","Neutral","Yes",-0.52,-27.04
+"NOW","Large",1017.95,1018.84,"Mixed trend","Neutral","No",7.39,-5.3
+"NU","Large",12.64,12.67,"Mixed trend","Neutral","No",0.44,-5.98
+"NVDA","Large",133.56,133.07,"Mixed trend","Neutral","No",2.94,-7.31
+"ORCL","Large",159.31,159.37,"Mixed trend","Neutral","No",4.26,-4.64
+"PANW","Large",193.385,193.58,"Uptrend","Neutral","No",1.77,-3.92
+"PFE","Large",23.425,23.12,"Uptrend","Neutral","No",1.38,-3.46
+"PG","Large",165.33,165.28,"Uptrend","Neutral","No",6.29,-2.68
+"PLTR","Large",125.975,125.47,"Mixed trend","Neutral","No",0.23,-10.08
+"PM","Large",173.405,172.94,"Uptrend","Neutral","No",6.36,-1.7
+"QCOM","Large",152.9,153.08,"Uptrend","Neutral","No",9.81,-4.76
+"RGTI","Mid",11.79,11.63,"Uptrend","Higher","No",-0.8,-10.77
+"SMCI","Large",43.0089,43.16,"Uptrend","Neutral","No",1.84,-11.31
+"SOFI","Large",13.3307,13.39,"Mixed trend","Neutral","No",0.43,-7.6
+"T","Large",27.77,27.8,"Uptrend","Neutral","No",1.63,-2.94
+"TOL","Large",104.51,104.64,"Mixed trend","Higher","No",14.51,-4.22
+"TSLA","Large",350.8387,345.56,"Uptrend","Neutral","No",1.74,-6.28
+"TT","Large",428.85,429.06,"Uptrend","Higher","No",12.15,-3.81
+"UNH","Large",322.43,316.33,"Uptrend","Neutral","No",23.88,-6.14
+"V","Large",365.475,365.54,"Uptrend","Neutral","No",9.93,-2.41
+"VIK","Large",43.875,43.76,"Mixed trend","Neutral","Yes",0.36,-6.05
+"VMC","Large",273.59,272.63,"Uptrend","Neutral","No",7.12,-2.68
+"WFC","Large",75.15,75.16,"Mixed trend","Higher","No",5.56,-4.58
+"WMT","Large",97.5065,97.55,"Uptrend","Neutral","No",2.34,-3.07
+"XOM","Large",105.035,105.14,"Mixed trend","Neutral","No",7.54,-3.16
 "ZTO","Large",17.57,17.68,"Downtrend","Neutral","No",1.48,-4.57
