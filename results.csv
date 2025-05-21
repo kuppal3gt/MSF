@@ -1,11 +1,15 @@
 "Symbol","MarketCap","LatestPrice","Buy at or below","Rating","PriceForecast","VolumeSurge","EPS","Value at Risk (%)"
-"AAPL","Large",205.73,205.45,"Mixed trend","Neutral","No",6.43,-4.2
-"AMZN","Large",201.67,201.78,"Mixed trend","Higher","No",6.14,-4.02
-"BAC","Large",44.23,44.25,"Uptrend","Neutral","No",3.35,-3.46
-"PANW","Large",182.7997,182.5,"Uptrend","Neutral","Yes",1.77,-3.92
-"QBTS","Mid",17.7698,17.56,"Uptrend","Neutral","Yes",-0.66,-10.47
-"RGTI","Mid",11.85,11.81,"Uptrend","Neutral","No",-0.8,-10.77
-"T","Large",27.73,27.73,"Uptrend","Neutral","No",1.63,-2.94
-"TGT","Large",90.73,91.85,"Mixed trend","Neutral","No",8.86,-3.85
-"TSLA","Large",344.26,344.41,"Uptrend","Neutral","No",1.74,-6.28
-"UNH","Large",302.08,301.4,"Uptrend","Neutral","No",23.88,-6.14
+"AAPL","Large",205.75,205.45,"Mixed trend","Higher","No",6.43,-4.2
+"AMZN","Large",201.6,201.78,"Mixed trend","Higher","No",6.14,-4.02
+"BAC","Large",44.34,44.25,"Uptrend","Neutral","No",3.35,-3.46
+"LOW","Large",234,232.15,"Mixed trend","Neutral","No",12.24,-2.84
+"NVDA","Large",133.17,133.04,"Mixed trend","Neutral","No",2.94,-7.31
+"PANW","Large",183.52,182.5,"Uptrend","Neutral","Yes",1.77,-3.92
+"PFE","Large",23.451,23.46,"Uptrend","Higher","No",1.38,-3.46
+"QBTS","Mid",17.4,17.56,"Uptrend","Neutral","Yes",-0.66,-10.47
+"RGTI","Mid",11.81,11.81,"Uptrend","Neutral","No",-0.8,-10.77
+"T","Large",27.74,27.73,"Uptrend","Neutral","No",1.63,-2.94
+"TGT","Large",91.29,90.87,"Mixed trend","Neutral","No",8.86,-3.85
+"TSLA","Large",344.7,344.18,"Uptrend","Neutral","No",1.74,-6.28
+"UNH","Large",302.2,301.4,"Uptrend","Neutral","No",23.88,-6.14
+"VFC","Mid",12.08,12,"Mixed trend","Neutral","Yes",-0.37,-7.84
