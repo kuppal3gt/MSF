@@ -1,4 +1,5 @@
 "Symbol","MarketCap","LatestPrice","Buy at or below","Rating","PriceForecast","VolumeSurge","EPS","Value at Risk (%)"
-"AAPL","Large",205.986,205.45,"Mixed trend","Neutral","No",6.43,-4.2
-"PANW","Large",184.5,184.2,"Uptrend","Neutral","Yes",1.77,-3.92
-"TGT","Large",92,91.85,"Mixed trend","Neutral","No",8.86,-3.85
+"AAPL","Large",205.7999,205.45,"Mixed trend","Neutral","No",6.43,-4.2
+"BAC","Large",44.2798,44.25,"Uptrend","Higher","No",3.35,-3.46
+"PANW","Large",183.92,184.2,"Uptrend","Neutral","Yes",1.77,-3.92
+"TGT","Large",91.99,91.85,"Mixed trend","Neutral","No",8.86,-3.85
