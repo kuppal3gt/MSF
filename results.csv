@@ -1,15 +1,18 @@
 "Symbol","MarketCap","LatestPrice","Buy at or below","Rating","PriceForecast","VolumeSurge","EPS","Value at Risk (%)"
-"AAPL","Large",205.75,205.45,"Mixed trend","Higher","No",6.43,-4.2
-"AMZN","Large",201.6,201.78,"Mixed trend","Higher","No",6.14,-4.02
-"BAC","Large",44.34,44.25,"Uptrend","Neutral","No",3.35,-3.46
-"LOW","Large",234,232.15,"Mixed trend","Neutral","No",12.24,-2.84
-"NVDA","Large",133.17,133.04,"Mixed trend","Neutral","No",2.94,-7.31
-"PANW","Large",183.52,182.5,"Uptrend","Neutral","Yes",1.77,-3.92
-"PFE","Large",23.451,23.46,"Uptrend","Higher","No",1.38,-3.46
-"QBTS","Mid",17.4,17.56,"Uptrend","Neutral","Yes",-0.66,-10.47
-"RGTI","Mid",11.81,11.81,"Uptrend","Neutral","No",-0.8,-10.77
-"T","Large",27.74,27.73,"Uptrend","Neutral","No",1.63,-2.94
-"TGT","Large",91.29,90.87,"Mixed trend","Neutral","No",8.86,-3.85
-"TSLA","Large",344.7,344.18,"Uptrend","Neutral","No",1.74,-6.28
-"UNH","Large",302.2,301.4,"Uptrend","Neutral","No",23.88,-6.14
-"VFC","Mid",12.08,12,"Mixed trend","Neutral","Yes",-0.37,-7.84
+"AAPL","Large",204.91,205.45,"Mixed trend","Higher","No",6.43,-4.19
+"AMZN","Large",200.91,201.78,"Mixed trend","Higher","No",6.14,-4
+"BAC","Large",44.325,44.25,"Mixed trend","Neutral","No",3.35,-3.44
+"CVX","Large",136.92,136.6,"Mixed trend","Lower","No",8.75,-3.41
+"GOOGL","Large",164.55,163.62,"Mixed trend","Higher","No",8.96,-4.17
+"LOW","Large",231.57,232.15,"Mixed trend","Neutral","No",12.24,-2.83
+"NVDA","Large",134.05,133.04,"Mixed trend","Neutral","No",2.94,-7.28
+"PANW","Large",180.8,182.5,"Mixed trend","Neutral","No",1.77,-4.46
+"PFE","Large",23.405,23.45,"Uptrend","Higher","No",1.38,-3.44
+"RGTI","Mid",12.0001,11.81,"Mixed trend","Neutral","No",-0.8,-10.77
+"T","Large",27.715,27.65,"Mixed trend","Higher","No",1.63,-2.93
+"TGT","Large",92.625,90.87,"Mixed trend","Neutral","No",8.86,-4.71
+"TJX","Large",131.105,130.68,"Mixed trend","Higher","No",4.25,-2.16
+"TSLA","Large",344.425,344.18,"Mixed trend","Neutral","No",1.74,-6.25
+"UNH","Large",306.3,301.4,"Mixed trend","Neutral","No",23.88,-6.39
+"VFC","Mid",12.37,12,"Mixed trend","Neutral","No",-0.37,-8.87
+"XOM","Large",104.56,104.5,"Mixed trend","Lower","No",7.54,-3.14
