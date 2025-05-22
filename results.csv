@@ -1,15 +1,18 @@
 "Symbol","MarketCap","LatestPrice","Buy at or below","Rating","PriceForecast","VolumeSurge","EPS","Value at Risk (%)"
-"AAPL","Large",200.7399,200.6,"Mixed trend","Neutral","No",6.41,-4.2
-"AMZN","Large",200.7,200.52,"Mixed trend","Higher","No",6.14,-4.02
-"COIN","Large",262.88,261.7,"Mixed trend","Neutral","No",5.33,-7.4
-"ENPH","Mid",38.2,37.86,"Mixed trend","Neutral","No",1.09,-6.52
-"GOOG","Large",171.4199,171.1,"Uptrend","Neutral","No",8.96,-4.02
-"GOOGL","Large",169.88,169.56,"Uptrend","Neutral","Yes",8.95,-4.18
-"HIMS","Large",52.2901,52.81,"Mixed trend","Higher","No",0.68,-9.92
-"HOOD","Large",63.852,63.53,"Mixed trend","Neutral","No",1.75,-7.94
-"LLY","Large",717,716.03,"Mixed trend","Neutral","No",12.33,-4.56
-"LUMN","Mid",4.16,4.19,"Downtrend","Neutral","Yes",-0.32,-6.95
-"MSFT","Large",450.44,450.25,"Mixed trend","Neutral","No",12.92,-2.95
-"NVDA","Large",131.15,131.17,"Mixed trend","Neutral","No",2.94,-7.31
-"TSLA","Large",327.93,327.71,"Mixed trend","Neutral","No",1.75,-6.28
-"XOM","Large",103,103,"Downtrend","Lower","No",7.54,-3.16
+"AAPL","Large",200.65,200.6,"Mixed trend","Neutral","No",6.41,-4.2
+"AMZN","Large",200.59,200.52,"Mixed trend","Neutral","No",6.14,-4.02
+"COIN","Large",263,261.7,"Mixed trend","Neutral","No",5.33,-7.4
+"ENPH","Mid",37.66,37.69,"Mixed trend","Neutral","No",1.09,-6.52
+"GOOG","Large",171.2501,171.1,"Uptrend","Neutral","No",8.96,-4.02
+"GOOGL","Large",170.01,169.56,"Uptrend","Neutral","Yes",8.95,-4.18
+"HIMS","Large",52.2,52.06,"Mixed trend","Higher","No",0.68,-9.92
+"HOOD","Large",64.08,63.53,"Mixed trend","Neutral","No",1.75,-7.94
+"LLY","Large",716.975,716.03,"Mixed trend","Neutral","No",12.33,-4.56
+"LUMN","Mid",4.17,4.19,"Downtrend","Neutral","Yes",-0.32,-6.95
+"MSFT","Large",450.3001,450.25,"Mixed trend","Lower","No",12.92,-2.95
+"NEE","Large",68.75,68.72,"Mixed trend","Neutral","No",2.67,-2.79
+"NVDA","Large",131.34,131.17,"Mixed trend","Neutral","No",2.94,-7.31
+"OSCR","Mid",14.61,14.55,"Mixed trend","Neutral","No",0.4,-6.5
+"PFE","Large",22.97,22.95,"Mixed trend","Neutral","No",1.38,-3.46
+"TSLA","Large",328.0001,327.71,"Mixed trend","Neutral","No",1.75,-6.28
+"XOM","Large",102.96,103,"Downtrend","Lower","No",7.54,-3.16
