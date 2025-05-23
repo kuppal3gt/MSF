@@ -1,43 +1,43 @@
 "Symbol","MarketCap","LatestPrice","Buy at or below","Rating","Signal","PriceForecast","VolumeSurge","EPS","Value at Risk (%)"
-"AAPL","Large",196.06,193.2,"Mixed trend","BUY","Neutral","No",6.42,-4.19
-"AMZN","Large",200.97,196.7,"Mixed trend","BUY","Neutral","No",6.13,-4
-"AVGO","Large",229.09,228.2,"Mixed trend","BUY","Neutral","No",2.17,-6.29
-"BAC","Large",43.1,42.15,"Mixed trend","BUY","Neutral","No",3.35,-3.46
-"CEG","Large",296.7576,293.68,"Uptrend","BUY","Neutral","No",9.5,-7.99
-"CRM","Large",279.5,275.75,"Mixed trend","BUY","Neutral","No",6.35,-4.39
-"CSCO","Large",62.78,62.47,"Mixed trend","BUY","Neutral","No",2.45,-2.63
-"CVX","Large",135.48,133.84,"Mixed trend","BUY","Neutral","No",8.75,-3.41
-"DECK","Large",101.825,97.67,"Downtrend","BUY","Neutral","Yes",6.33,-4.59
-"F","Large",10.335,10.27,"Mixed trend","BUY","Neutral","No",1.25,-3.75
-"FRO","Mid",18.14,17.1,"Mixed trend","BUY","Neutral","No",2.23,-5.02
-"GE","Large",231.635,230.39,"Mixed trend","BUY","Neutral","No",6.33,-3.05
-"GFI","Large",23.07,22.64,"Uptrend","BUY","Neutral","No",1.38,-4.66
-"GOOGL","Large",169.24,168.43,"Uptrend","BUY","Neutral","No",8.95,-4.17
-"HD","Large",362.56,361.26,"Mixed trend","BUY","Neutral","No",14.72,-2.3
-"HMY","Mid",15.9101,15.55,"Uptrend","BUY","Neutral","No",0.93,-6.42
-"HOOD","Large",63.1202,62.09,"Mixed trend","BUY","Neutral","No",1.75,-7.93
-"INTU","Large",719.65,718.45,"Uptrend","BUY","Neutral","Yes",12.26,-3.13
-"ITW","Large",241.52,240.91,"Mixed trend","BUY","Neutral","No",11.35,-2.61
-"JNJ","Large",152.585,152.28,"Mixed trend","BUY","Neutral","No",8.99,-1.8
-"LEU","Small",112,102.48,"Uptrend","BUY","Neutral","Yes",6.45,-7.21
-"LLY","Large",711.075,710.54,"Mixed trend","BUY","Higher","No",12.3,-4.55
-"MCD","Large",314.175,313.87,"Mixed trend","BUY","Neutral","No",11.32,-1.87
-"MNSO","Mid",17.81,17.87,"Downtrend","BUY","Neutral","Yes",1.16,-6.67
-"MRK","Large",77.3053,77.46,"Mixed trend","BUY","Neutral","No",6.88,-4.7
-"NNE","Small",35.125,28.9,"Uptrend","BUY","Neutral","Yes",-0.98,-7.8
-"NU","Large",11.925,11.8,"Mixed trend","BUY","Neutral","No",0.44,-6.13
-"NVDA","Large",130.772,128.09,"Mixed trend","BUY","Neutral","No",2.94,-7.28
-"ORCL","Large",155.23,155.12,"Mixed trend","BUY","Neutral","No",4.26,-4.64
-"PLTR","Large",122.396,120,"Mixed trend","BUY","Neutral","No",0.23,-10.07
-"QBTS","Mid",18.725,17.48,"Uptrend","BUY","Neutral","No",-0.66,-10.41
-"QCOM","Large",144.37,142.15,"Mixed trend","BUY","Neutral","No",9.8,-4.76
-"RGTI","Mid",13.72,12.78,"Uptrend","BUY","Neutral","No",-0.8,-10.77
-"ROST","Large",132.195,131.17,"Downtrend","BUY","Neutral","Yes",6.33,-2.61
-"T","Large",27.26,27.19,"Mixed trend","BUY","Neutral","No",1.63,-2.93
-"TSLA","Large",336.855,333.91,"Mixed trend","BUY","Neutral","No",1.74,-6.25
-"UEC","Mid",6.3899,5.62,"Uptrend","BUY","Neutral","Yes",-0.15,-5.85
+"AAPL","Large",196.181,193.2,"Mixed trend","BUY","Neutral","No",6.42,-4.19
+"AMZN","Large",201.0599,196.7,"Mixed trend","BUY","Neutral","No",6.13,-4
+"AVGO","Large",229.25,228.2,"Mixed trend","BUY","Neutral","No",2.17,-6.29
+"BAC","Large",43.095,42.15,"Mixed trend","BUY","Neutral","No",3.35,-3.46
+"CEG","Large",296.76,293.68,"Uptrend","BUY","Neutral","No",9.5,-7.99
+"CRM","Large",279.36,275.75,"Mixed trend","BUY","Neutral","No",6.35,-4.39
+"CSCO","Large",62.795,62.47,"Mixed trend","BUY","Neutral","No",2.45,-2.63
+"CVX","Large",135.32,133.84,"Mixed trend","BUY","Neutral","No",8.75,-3.41
+"DECK","Large",101.425,97.67,"Downtrend","BUY","Neutral","Yes",6.33,-4.59
+"F","Large",10.325,10.27,"Mixed trend","BUY","Neutral","No",1.25,-3.75
+"FRO","Mid",18.11,17.1,"Mixed trend","BUY","Neutral","No",2.23,-5.02
+"GE","Large",231.685,230.39,"Mixed trend","BUY","Neutral","No",6.33,-3.05
+"GOOGL","Large",169.35,168.43,"Uptrend","BUY","Neutral","No",8.95,-4.17
+"HD","Large",362.04,361.28,"Mixed trend","BUY","Higher","No",14.72,-2.3
+"HMY","Mid",15.89,15.55,"Uptrend","BUY","Neutral","No",0.93,-6.42
+"HOOD","Large",63.07,62.11,"Mixed trend","BUY","Neutral","No",1.75,-7.93
+"INTU","Large",717.5,718.45,"Uptrend","BUY","Higher","Yes",12.26,-3.13
+"ITW","Large",241.33,240.91,"Mixed trend","BUY","Neutral","No",11.35,-2.61
+"JNJ","Large",152.68,152.28,"Mixed trend","BUY","Neutral","No",8.99,-1.8
+"LEU","Small",111.44,102.48,"Uptrend","BUY","Neutral","Yes",6.45,-7.21
+"LLY","Large",710.93,710.45,"Mixed trend","BUY","Higher","No",12.3,-4.55
+"MCD","Large",314.22,313.87,"Mixed trend","BUY","Neutral","No",11.32,-1.87
+"MNSO","Mid",17.755,17.81,"Downtrend","BUY","Neutral","Yes",1.16,-6.67
+"MRK","Large",77.31,77.46,"Mixed trend","BUY","Neutral","No",6.88,-4.7
+"NNE","Small",34.33,28.9,"Uptrend","BUY","Neutral","Yes",-0.98,-7.8
+"NU","Large",11.915,11.8,"Mixed trend","BUY","Higher","No",0.44,-6.13
+"NVDA","Large",130.8197,128.09,"Mixed trend","BUY","Neutral","No",2.94,-7.28
+"ORCL","Large",155.305,155.12,"Mixed trend","BUY","Neutral","No",4.26,-4.64
+"PLTR","Large",122.405,120,"Mixed trend","BUY","Neutral","No",0.23,-10.07
+"QBTS","Mid",18.66,17.48,"Uptrend","BUY","Neutral","No",-0.66,-10.41
+"QCOM","Large",144.57,142.15,"Mixed trend","BUY","Neutral","No",9.8,-4.76
+"RGTI","Mid",13.65,12.78,"Uptrend","BUY","Higher","No",-0.8,-10.77
+"ROST","Large",132.31,131.17,"Downtrend","BUY","Neutral","Yes",6.33,-2.61
+"T","Large",27.25,27.19,"Mixed trend","BUY","Neutral","No",1.63,-2.93
+"TSLA","Large",337.795,333.91,"Mixed trend","BUY","Neutral","No",1.74,-6.25
+"UEC","Mid",6.32,5.62,"Uptrend","BUY","Neutral","Yes",-0.15,-5.85
+"UNH","Large",293.45,292.32,"Mixed trend","BUY","Higher","No",23.88,-6.25
 "URG","Small",0.8862,0.76,"Uptrend","BUY","Neutral","Yes",-0.13,-8.78
-"UUUU","Small",5.215,4.78,"Uptrend","BUY","Neutral","Yes",-0.43,-6.64
-"WDAY","Large",241.79,237.51,"Downtrend","BUY","Neutral","Yes",1.8,-3.3
+"UUUU","Small",5.1614,4.78,"Uptrend","BUY","Neutral","Yes",-0.43,-6.64
+"WDAY","Large",242.185,237.51,"Downtrend","BUY","Neutral","Yes",1.8,-3.3
 "WFC","Large",72.58,71.44,"Mixed trend","BUY","Neutral","No",5.56,-4.58
-"XOM","Large",102.665,101.9,"Mixed trend","BUY","Neutral","No",7.54,-3.14
+"XOM","Large",102.58,101.9,"Mixed trend","BUY","Neutral","No",7.54,-3.14
