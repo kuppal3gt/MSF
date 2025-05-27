@@ -1,6 +1,6 @@
 "Symbol","MarketCap","LatestPrice","Buy at or below","MicroRating","MacroRating","PriceForecast","VolumeSurge","EPS","Value at Risk (%)"
-"GME","Large",33.74,33.61,"Downtrend","Uptrend","Neutral","Yes",0.33,-3.89
-"NNE","Small",33.7,32.54,"Downtrend","Uptrend","Neutral","Yes",-0.98,-7.35
-"PDD","Large",98.36,94.4,"Downtrend","Mixed trend","Neutral","No",10.55,-5.89
-"SMCI","Large",41.5,41.31,"Downtrend","Mixed trend","Neutral","No",1.84,-9.62
+"GME","Large",33.71,33.61,"Downtrend","Uptrend","Neutral","Yes",0.33,-3.89
+"NNE","Small",34.28,32.54,"Downtrend","Uptrend","Neutral","Yes",-0.98,-7.35
+"PDD","Large",98.25,94.4,"Downtrend","Mixed trend","Neutral","No",10.55,-5.89
+"SMCI","Large",41.48,41.31,"Downtrend","Mixed trend","Neutral","No",1.84,-9.62
 "X","Large",52.25,52.04,"Downtrend","Uptrend","Neutral","Yes",0.37,-4.06
