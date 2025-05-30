@@ -1,1 +1,8 @@
 "Symbol","Price","Buy at or below","MicroRating","MacroRating","LastUpdate"
+"AAPL",200.3,NA,"Uptrend","Mixed trend","2025-05-30 08:02:00"
+"AMZN",205.63,NA,"Mixed trend","Mixed trend","2025-05-30 08:02:00"
+"GOOGL",172.09,NA,"Mixed trend","Mixed trend","2025-05-30 08:02:00"
+"META",641.2,NA,"Downtrend","Mixed trend","2025-05-30 08:00:00"
+"MSFT",457.37,NA,"Downtrend","Uptrend","2025-05-30 08:00:00"
+"NVDA",139.03,NA,"Uptrend","Uptrend","2025-05-30 08:02:00"
+"TSLA",355.8514,353.82,"Mixed trend","Uptrend","2025-05-30 08:02:00"
