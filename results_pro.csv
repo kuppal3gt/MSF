@@ -1,5 +1,5 @@
 "Symbol","MarketCap","Price","Buy at or below","MicroRating","MacroRating","SmartSignal","PriceForecast","VolumeSurge","EPS","Risk (%)","LastUpdate"
 "ORCL","Large",164.9886,163.77,"Mixed trend","Uptrend","-","Lower","Yes",4.27,4.54,"2025-06-02 08:49:00"
-"PLTR","Large",131.09,129.48,"Mixed trend","Uptrend","-","Neutral","Yes",0.23,10.08,"2025-06-02 08:59:00"
-"NVO","Large",71.97,71.06,"Mixed trend","Uptrend","-","Neutral","No",3.57,4.25,"2025-06-02 08:58:00"
-"GOOGL","Large",168.07,167.78,"Uptrend","Mixed trend","-","Neutral","No",8.95,4.02,"2025-06-02 08:59:00"
+"PLTR","Large",131,129.48,"Mixed trend","Uptrend","-","Neutral","Yes",0.23,10.08,"2025-06-02 09:02:00"
+"NVO","Large",72,71.06,"Uptrend","Uptrend","-","Neutral","No",3.57,4.25,"2025-06-02 09:01:00"
+"GOOGL","Large",168.3,167.78,"Uptrend","Mixed trend","-","Neutral","No",8.95,4.02,"2025-06-02 09:02:00"
