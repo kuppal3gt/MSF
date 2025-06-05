@@ -1,2 +1,11 @@
 "Symbol","MarketCap","Price","Buy at or below","MicroRating","MacroRating","VolumeSurge","EPS","LastUpdate"
-NA,NA,NA,NA,NA,NA,NA,NA,NA
+"AAPL","Large",202.5,202.4,"Mixed trend","Mixed trend","No",6.42,"2025-06-05 08:02:00"
+"AMZN","Large",208.5899,NA,"Mixed trend","Uptrend","No",6.13,"2025-06-05 08:02:00"
+"GOOGL","Large",170.626,NA,"Mixed trend","Mixed trend","No",8.96,"2025-06-05 08:02:00"
+"META","Large",689.5,NA,"Mixed trend","Uptrend","No",25.61,"2025-06-05 08:02:00"
+"MSFT","Large",465.26,NA,"Uptrend","Uptrend","No",12.92,"2025-06-05 08:00:00"
+"NVDA","Large",141.3301,141.28,"Mixed trend","Uptrend","No",3.11,"2025-06-05 08:02:00"
+"CSCO","Large",64.3,64.3,"Downtrend","Mixed trend","No",2.45,"2025-06-05 08:02:00"
+"AVGO","Large",262.95,263.08,"Mixed trend","Uptrend","No",2.16,"2025-06-05 08:02:00"
+"PLTR","Large",129.02,128.98,"Mixed trend","Mixed trend","No",0.23,"2025-06-05 08:02:00"
+"UNH","Large",300.8492,301.07,"Mixed trend","Mixed trend","No",23.89,"2025-06-05 08:02:00"
