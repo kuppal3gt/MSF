@@ -62,7 +62,6 @@
 "EDC",NA,35.69,"Mixed trend","Uptrend","-",35.64,"35.705-35.705","Value Zone: low price; confirm trend or set a stop-loss if the price continues to decline","Neutral","35.14-36.24",FALSE,6.2,NA,"2025-06-06 16:00:00","Moderate"
 "NVDU",NA,81.2681,"Mixed trend","Uptrend","-",80.19,"81-82.36","Overheated zone - risk of pullback or reversal","Neutral","79.97-82.57",FALSE,13.42,NA,"2025-06-06 19:07:00","Moderate"
 "ACHR","Mid",10.9701,"Downtrend","Uptrend","-",9.755,"9.755-9.755","Overheated zone - risk of pullback or reversal","Neutral","10.7-11.36",FALSE,9.51,-1.23,"2025-06-06 19:59:00","Moderate"
-"APGE","Mid",40.98,"Downtrend","Uptrend","-",40.59,"40.01-41.42","Momentum Zone: price is rising; watch for volatility or reversal","Higher","39.47-42.62",FALSE,7.42,-3.61,"2025-06-06 16:27:00","Weak"
 "EQIX","Large",914.43,"Downtrend","Uptrend","-",904.86,"915.8075-915.8075","Value Zone: low price; confirm trend or set a stop-loss if the price continues to decline","Higher","908.21-920.87",FALSE,3.28,9.55,"2025-06-06 16:00:00","Moderate"
 "TSLA","Large",297.6795,"Uptrend","Mixed trend","-",294.7975,"292.96-298.6093","Overheated zone - risk of pullback or reversal","Neutral","293.17-302.06",FALSE,7.18,1.74,"2025-06-06 19:59:00","Good"
 "GOOGL","Large",173.7,"Uptrend","Mixed trend","-",171.97,"169.6-174.01","Overheated zone - risk of pullback or reversal","Neutral","172.85-174.93",FALSE,3.68,8.97,"2025-06-06 19:59:00","Good"
