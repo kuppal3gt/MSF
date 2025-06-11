@@ -10,7 +10,6 @@
 "WBD","Large",10.0201,"Moderate","Mixed trend","Uptrend",9.2,FALSE,-4.4,"2025-06-10 19:58:00"
 "PLTR","Large",132.361,"Moderate","Downtrend","Mixed trend",130.68,FALSE,0.22,"2025-06-10 19:59:00"
 "SJM","Large",94.45,"Moderate","Mixed trend","Downtrend",93.06,TRUE,-2.4,"2025-06-10 19:59:00"
-"CSCO","Large",65.36,"Good","Mixed trend","Mixed trend",64.35,FALSE,2.45,"2025-06-10 19:54:00"
 "LLY","Large",807,"Moderate","Mixed trend","Uptrend",797.1,FALSE,12.3,"2025-06-10 19:46:00"
 "AVGO","Large",244.0001,"Good","Mixed trend","Mixed trend",241.56,FALSE,2.74,"2025-06-10 19:59:00"
 "JPM","Large",268.6,"Good","Mixed trend","Uptrend",266.31,FALSE,20.38,"2025-06-10 19:20:00"
@@ -19,3 +18,4 @@
 "COST","Large",1007.1,"Good","Mixed trend","Mixed trend",996.93,FALSE,17.61,"2025-06-10 19:54:00"
 "MA","Large",589.44,"Good","Mixed trend","Uptrend",583.11,FALSE,14.26,"2025-06-10 18:56:00"
 "UNH","Large",303.49,"Moderate","Mixed trend","Mixed trend",299.97,FALSE,23.89,"2025-06-10 19:59:00"
+"NFLX","Large",1202,"Good","Mixed trend","Mixed trend",1189.98,TRUE,21.18,"2025-06-10 18:32:00"
