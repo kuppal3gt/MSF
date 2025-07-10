@@ -1,6 +1,7 @@
 "Symbol","MarketCap","Price","Health Rating","Micro Trend Rating","Macro Trend Rating","Support","Resistance","Buy at or below","Volume Surge","EPS","UpdateTime"
 "AES","Mid",13.26,"Moderate","Mixed trend","Uptrend",10.79,13.335,13.13,"True",1.84,"2025-07-09 19:59:00"
 "PTC","Large",203.11,"Good","Mixed trend","Uptrend",171.65,213.14,201.08,"True",3.63,"2025-07-09 19:59:00"
+"BA","Large",226.6,"Good","Mixed trend","Uptrend",208.25,230.1999,227.42,"True",-17.96,"2025-07-09 19:59:00"
 "FICO","Large",1612.425,"Moderate","Uptrend","Downtrend",1520,1905.325,1625.12,"True",23.16,"2025-07-09 19:37:00"
 "PG","Large",157.55,"Moderate","Mixed trend","Downtrend",155.95,162.02,156.58,"True",6.3,"2025-07-09 19:46:00"
 "NVDA","Large",163.36,"Good","Uptrend","Uptrend",152.97,164.42,162.76,"False",3.1,"2025-07-09 19:59:00"
