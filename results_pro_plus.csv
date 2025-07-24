@@ -203,6 +203,7 @@
 "DRV","ETF","No",23.1,"Moderate","Moderate","Mixed trend","Downtrend",23.56,25.75,0,"Low Value Zone","22.95-23.11",23,"Neutral","22.88-23.23","False",5.19,NA,"2025-07-23 17:00:00"
 "PLTD","ETF","No",8.26,"Hold","Moderate","Mixed trend","Downtrend",8.55,9.51,0,"Low Value Zone","8.22-8.48",8.4,"Neutral","8.17-8.35","False",7.12,NA,"2025-07-23 19:52:00"
 "TSLS","ETF","No",7.75,"Moderate","Moderate","Mixed trend","Downtrend",7.4,8.2,120.45,"Balanced Zone","7.28-7.74",7.67,"Neutral","7.64-7.89","False",6.72,NA,"2025-07-23 19:59:00"
+"ETHA","ETF","No",27.48,"Hold","Good","Mixed trend","Downtrend",23.74,28.45,0.37,"Balanced Zone","26.75-27.85",27.26,"Neutral","27.18-27.77","False",6.08,NA,"2025-07-23 19:59:00"
 "IBIT","ETF","No",67.4896,"Hold","Good","Mixed trend","Downtrend",64.41,68.83,0.54,"High Value Zone - Price near resistance","66.71-67.4",67.04,"Neutral","67.14-67.82","False",3.52,NA,"2025-07-23 19:59:00"
 "TLT","ETF","No",86.08,"Moderate","Moderate","Mixed trend","Downtrend",84.77,87.64,1.25,"Low Value Zone - Price near support","85.81-86.23",85.98,"Neutral","85.89-86.27","False",1.69,NA,"2025-07-23 19:59:00"
 "COST","Large","Yes",941.3,"Hold","Moderate","Mixed trend","Downtrend",947.96,997.25,0,"Low Value Zone","941.29-946.24",943.5,"Neutral","936.27-946.33","False",1.68,17.61,"2025-07-23 19:58:00"
