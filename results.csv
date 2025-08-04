@@ -1,21 +1,21 @@
 "Symbol","MarketCap","FundamentalStrengthIndex","Price","Health Rating","Micro Trend Rating","Macro Trend Rating","Support","Resistance","BuyLimit","Volume Surge","EPS","UpdateTime","Fundamental Strength Index","Buy Limit"
-"AAPL","Large","Good",206.73,"Moderate","Strong Downtrend","Mixed trend",201.51,214.52,204.66,"False",6.6,"2025-08-04 11:09:00","Good",204.66
-"ABBV","Large","Moderate",196.32,"Good","Mixed trend","Uptrend",187.41,198.84,194.35,"False",2.11,"2025-08-04 11:11:00","Moderate",194.35
-"ABT","Large","Good",129.65,"Moderate","Uptrend","Mixed trend",125.91,132.08,127.65,"False",7.97,"2025-08-04 11:11:00","Good",127.65
-"ADP","Large","Good",303.065,"Moderate","Uptrend","Downtrend",300.02,317.75,298.52,"False",9.97,"2025-08-04 11:12:00","Good",298.52
-"AMD","Large","Moderate",175.88,"Good","Strong Downtrend","Mixed trend",156.76,178.85,174.12,"False",1.37,"2025-08-04 11:09:00","Moderate",174.12
-"AMZN","Large","Good",212.07,"Moderate","Strong Downtrend","Downtrend",215.06,231.6,209.95,"False",6.55,"2025-08-04 11:09:00","Good",209.95
-"AVGO","Large","Moderate",295.9499,"Moderate","Strong Downtrend","Mixed trend",276.63,302.67,292.99,"False",2.74,"2025-08-04 11:11:00","Moderate",292.99
-"AXON","Large","Moderate",745.88,"Weak","Downtrend","Downtrend",724.68,775.88,738.42,"False",4.16,"2025-08-04 11:08:00","Moderate",738.42
-"BAC","Large","Moderate",45.855,"Moderate","Mixed trend","Downtrend",45.56,48.29,45.4,"False",3.41,"2025-08-04 11:11:00","Moderate",45.4
-"COST","Large","Good",952.5725,"Weak","Mixed trend","Mixed trend",938.41,989.74,943.05,"False",17.62,"2025-08-04 11:11:00","Good",943.05
-"CRM","Large","Good",253.36,"Moderate","Uptrend","Downtrend",254.07,272.03,250.83,"False",6.39,"2025-08-04 11:11:00","Good",250.83
-"CSCO","Large","Good",68.255,"Moderate","Strong Downtrend","Mixed trend",66.29,69.2,67.23,"False",2.45,"2025-08-04 11:11:00","Good",67.23
-"CTRA","Large","Moderate",23.9601,"Moderate","Mixed trend","Downtrend",23.65,25.21,23.6,"False",1.71,"2025-08-04 11:08:00","Moderate",23.6
-"CVX","Large","Good",151.135,"Good","Mixed trend","Downtrend",148.18,156.73,149.62,"False",7.77,"2025-08-04 11:11:00","Good",149.62
-"EQIX","Large","Moderate",778.575,"Moderate","Uptrend","Downtrend",778.94,836.34,766.9,"False",10.19,"2025-08-04 11:12:00","Moderate",766.9
-"EQR","Large","Moderate",63.42,"Moderate","Strong Downtrend","Downtrend",63.28,67.52,62.79,"False",2.62,"2025-08-04 11:08:00","Moderate",62.79
-"F","Large","Moderate",10.935,"Moderate","Mixed trend","Mixed trend",10.7,11.47,10.83,"False",0.78,"2025-08-04 11:09:00","Moderate",10.83
-"FANG","Large","Good",147.125,"Good","Uptrend","Mixed trend",142.51,153.07,144.89,"False",16.08,"2025-08-04 11:08:00","Good",144.89
-"GE","Large","Good",274.52,"Moderate","Mixed trend","Uptrend",257.99,274.72,270.4,"False",7,"2025-08-04 11:11:00","Good",270.4
-"GOOGL","Large","Good",193.375,"Good","Strong Downtrend","Mixed trend",184.78,196.53,189.62,"False",9.38,"2025-08-04 11:11:00","Good",189.62
+"AAPL","Large","Good",206.905,"Good","Mixed trend","Mixed trend",201.51,214.52,204.84,"False",6.6,"2025-08-04 11:12:00","Good",204.84
+"ABBV","Large","Moderate",196.34,"Good","Mixed trend","Uptrend",187.41,198.84,194.35,"False",2.11,"2025-08-04 11:15:00","Moderate",194.35
+"ABT","Large","Good",129.63,"Moderate","Mixed trend","Mixed trend",125.91,132.08,127.65,"False",7.97,"2025-08-04 11:15:00","Good",127.65
+"ADP","Large","Good",302.79,"Moderate","Strong Downtrend","Downtrend",300.02,317.75,298.24,"False",9.97,"2025-08-04 11:15:00","Good",298.24
+"AMD","Large","Moderate",175.7801,"Good","Strong Downtrend","Mixed trend",156.76,178.85,174.02,"False",1.37,"2025-08-04 11:12:00","Moderate",174.02
+"AMZN","Large","Good",211.95,"Moderate","Strong Downtrend","Downtrend",215,231.58,209.83,"False",6.55,"2025-08-04 11:12:00","Good",209.83
+"AVGO","Large","Moderate",296.35,"Moderate","Mixed trend","Mixed trend",276.63,302.67,293.39,"False",2.74,"2025-08-04 11:14:00","Moderate",293.39
+"AXON","Large","Moderate",745.255,"Weak","Strong Downtrend","Downtrend",724.68,775.88,737.8,"False",4.16,"2025-08-04 11:11:00","Moderate",737.8
+"BAC","Large","Moderate",45.87,"Moderate","Downtrend","Downtrend",45.56,48.29,45.41,"False",3.41,"2025-08-04 11:15:00","Moderate",45.41
+"COST","Large","Good",952.64,"Weak","Strong Downtrend","Mixed trend",938.41,989.74,943.11,"False",17.62,"2025-08-04 11:15:00","Good",943.11
+"CRM","Large","Good",253.135,"Moderate","Strong Downtrend","Downtrend",254.07,272.03,250.6,"False",6.39,"2025-08-04 11:15:00","Good",250.6
+"CSCO","Large","Good",68.235,"Moderate","Strong Downtrend","Mixed trend",66.29,69.2,67.22,"False",2.45,"2025-08-04 11:15:00","Good",67.22
+"CTRA","Large","Moderate",23.965,"Moderate","Uptrend","Downtrend",23.65,25.21,23.6,"False",1.71,"2025-08-04 11:11:00","Moderate",23.6
+"CVX","Large","Good",151.08,"Good","Strong Downtrend","Downtrend",148.18,156.73,149.57,"False",7.77,"2025-08-04 11:15:00","Good",149.57
+"EQIX","Large","Moderate",778.585,"Moderate","Uptrend","Downtrend",778.94,836.34,766.9,"False",10.19,"2025-08-04 11:15:00","Moderate",766.9
+"EQR","Large","Moderate",63.615,"Moderate","Mixed trend","Downtrend",63.28,67.52,62.98,"False",2.62,"2025-08-04 11:11:00","Moderate",62.98
+"F","Large","Moderate",10.935,"Moderate","Mixed trend","Mixed trend",10.7,11.47,10.83,"False",0.78,"2025-08-04 11:12:00","Moderate",10.83
+"FANG","Large","Good",147.063,"Good","Downtrend","Mixed trend",142.51,153.07,144.86,"False",16.08,"2025-08-04 11:11:00","Good",144.86
+"GE","Large","Good",274.345,"Moderate","Strong Downtrend","Uptrend",257.99,274.72,270.24,"False",7,"2025-08-04 11:15:00","Good",270.24
+"GOOGL","Large","Good",193.39,"Good","Strong Downtrend","Mixed trend",184.78,196.53,191,"False",9.38,"2025-08-04 11:14:00","Good",191
