@@ -1,210 +1,212 @@
-"Symbol","MarketCap","FundamentalStrengthIndex","SP500 Stock","Price","BuyLimit","StopLossLimit","TakeProfitLimit","Health Rating","Micro Trend Rating","Macro Trend Rating","Support","Resistance","Reward to Risk Ratio","Price zone","Volume Surge","Risk (%)","EPS","UpdateTime"
-"AAAU","ETF",NA,"No",33.31,32.98,32.19,33.49,"Moderate","Strong Downtrend","Mixed trend",32.52,33.7,0.5,"Elevated Zone - Price near resistance","False",1.98,NA,"2025-08-04 11:01:00"
-"AAL","Mid","Moderate","No",11.17,11.06,10.44,20.75,"Moderate","Downtrend","Mixed trend",11.14,12.12,30.45,"Value Zone - Price near support","False",5.56,0.84,"2025-08-04 10:57:00"
-"AAPD","ETF",NA,"No",17.45,17.28,16.84,17.91,"Moderate","Strong Downtrend","Downtrend",17.01,18.14,1.59,"Price between support and resistance","False",2.49,NA,"2025-08-04 10:57:00"
-"AAPL","Large","Good","Yes",207.03,204.86,198.41,212.62,"Moderate","Mixed trend","Mixed trend",201.51,214.52,1.36,"Price between support and resistance","False",3.15,6.6,"2025-08-04 10:57:00"
-"AAPU","ETF",NA,"No",22.065,21.39,20.04,23.38,"Moderate","Mixed trend","Mixed trend",21.18,23.62,1.75,"Price between support and resistance","False",6.29,NA,"2025-08-04 10:57:00"
-"ABBV","Large","Moderate","Yes",195.7945,193.84,185.54,197.53,"Good","Uptrend","Mixed trend",187.41,198.84,0.36,"Elevated Zone - Price near resistance","False",2.9,2.11,"2025-08-04 11:00:00"
-"ABT","Large","Good","Yes",129.13,127.19,124.65,130.53,"Moderate","Mixed trend","Mixed trend",125.91,132.08,0.92,"Price between support and resistance","False",1.84,7.97,"2025-08-04 11:00:00"
-"ACM","Large","Good","No",111.475,109.8,108.26,113.27,"Weak","Strong Downtrend","Downtrend",109.64,115.2,2.03,"Value Zone - Price near support","False",1.4,4.67,"2025-08-04 10:56:00"
-"ADP","Large","Good","Yes",302.435,297.9,292.81,320.91,"Moderate","Strong Downtrend","Downtrend",300.02,317.75,6.34,"Value Zone - Price near support","False",1.71,9.97,"2025-08-04 11:00:00"
-"AGG","ETF",NA,"No",99.08,98.09,96.73,99.2,"Moderate","Mixed trend","Downtrend",97.71,99.83,0.55,"Value Zone - Price near support","False",0.59,NA,"2025-08-04 11:00:00"
-"ALAB","Large","Moderate","No",140.31,138.91,113.17,139.84,"Moderate","Mixed trend","Uptrend",114.31,138.9,-0.05,"Balanced Zone: near resistance; breakout possible, watch for rejection","False",6.49,1.31,"2025-08-04 10:57:00"
-"AMD","Large","Moderate","Yes",176.446,174.68,155.19,177.69,"Good","Mixed trend","Mixed trend",156.76,178.85,0.12,"Elevated Zone - Price near resistance","False",2.61,1.37,"2025-08-04 10:57:00"
-"AMDD","ETF",NA,"No",13.525,13.39,12.67,15.4,"Moderate","Strong Downtrend","Downtrend",14.51,16.74,-3.26,"Low Value Zone","False",5.41,NA,"2025-08-04 10:57:00"
-"AMUU","ETF",NA,"No",50.76,49.82,40.92,51.79,"Moderate","Strong Downtrend","Mixed trend",41.33,52.07,0.14,"Price between support and resistance","False",5.44,NA,"2025-08-04 10:55:00"
-"AMZD","ETF",NA,"No",11.25,10.94,10.47,11.23,"Moderate","Downtrend","Mixed trend",10.58,11.4,0.22,"Elevated Zone - Price near resistance","False",3.33,NA,"2025-08-04 10:57:00"
-"AMZN","Large","Good","Yes",212.71,210.58,205.07,225.02,"Moderate","Mixed trend","Downtrend",215.1,231.62,-7.91,"Value Zone - Price near support","False",2.62,6.55,"2025-08-04 10:57:00"
-"AMZU","ETF",NA,"No",33.77,33.43,31.78,37.7,"Moderate","Strong Downtrend","Downtrend",35.12,40.11,-4.71,"Low Value Zone - Price below support","False",4.94,NA,"2025-08-04 10:57:00"
-"AU","Large","Good","No",51.96,49.92,45.91,50.76,"Good","Downtrend","Uptrend",46.37,50.91,-0.19,"High Value Zone: breakout above resistance; strong trend but watch for pullback","False",5.35,3.78,"2025-08-04 10:57:00"
-"AVGO","Large","Moderate","Yes",296.885,292.09,273.86,299.29,"Good","Mixed trend","Mixed trend",276.63,302.67,0.29,"Elevated Zone - Price near resistance","False",2.95,2.74,"2025-08-04 10:59:00"
-"AVL","ETF",NA,"No",44.26,43.82,38.72,45.52,"Moderate","Mixed trend","Mixed trend",39.11,45.83,0.3,"Price between support and resistance","False",6,NA,"2025-08-04 10:55:00"
-"AVS","ETF",NA,"No",12.0409,11.86,11.28,12.98,"-",NA,"Downtrend",12.29,13.57,-6.17,"Low Value Zone - Price below support","False",4.89,NA,"2025-08-04 10:57:00"
-"AXON","Large","Moderate","Yes",745.61,738.15,714.9,772.82,"Weak","Strong Downtrend","Downtrend",724.68,775.88,1.45,"Price between support and resistance","False",3.15,4.16,"2025-08-04 10:56:00"
-"BAC","Large","Moderate","Yes",45.82,45.36,44.48,50.52,"Moderate","Strong Downtrend","Downtrend",45.56,48.29,9.56,"Value Zone - Price near support","False",1.95,3.41,"2025-08-04 11:00:00"
-"BMRN","Large","Moderate","No",59.21,58.33,56.12,59.41,"Moderate","Strong Downtrend","Mixed trend",56.69,59.91,0.28,"Elevated Zone - Price near resistance","False",2.59,2.7,"2025-08-04 10:56:00"
-"BND","ETF",NA,"No",73.54,72.8,71.81,73.69,"Moderate","Mixed trend","Downtrend",72.54,74.1,0.56,"Value Zone - Price near support","False",0.55,NA,"2025-08-04 11:00:00"
-"BOEU","ETF",NA,"No",43,42.36,40.66,65.23,"-","Uptrend","Downtrend",42.71,49.93,24.02,"Value Zone - Price near support","False",4,NA,"2025-08-04 10:42:00"
-"BRK.B","ETF",NA,"No",460.06,455.46,446.99,484.56,"Moderate","Strong Downtrend","Downtrend",468.38,490.54,-3.66,"Value Zone - Price near support","False",1.86,NA,"2025-08-04 10:57:00"
-"BRKR","Mid","Poor","No",33.82,33.48,31.46,34.1,"Moderate","Strong Downtrend","Downtrend",36.73,42.18,-2.87,"Low Value Zone","False",6.05,0.52,"2025-08-04 10:57:00"
-"BRKU","ETF",NA,"No",22.2266,22,21.14,24.5,"Moderate","Strong Downtrend","Downtrend",23.34,25.33,-2.78,"Low Value Zone","True",3.92,NA,"2025-08-04 10:57:00"
-"BWXT","Large","Moderate","No",153.105,150.57,139.27,152.68,"Moderate","Strong Downtrend","Uptrend",140.68,153.05,0,"Balanced Zone: near resistance; breakout possible, watch for rejection","False",2.56,3.14,"2025-08-04 10:56:00"
-"CHAT","ETF",NA,"No",50.9704,50.2,48.23,51.37,"Moderate","Strong Downtrend","Mixed trend",48.72,51.97,0.45,"Elevated Zone - Price near resistance","False",2.41,NA,"2025-08-04 10:57:00"
-"CNA","Large","Moderate","No",45.63,44.55,43.46,45.61,"Moderate","Uptrend","Mixed trend",43.9,46.03,0.23,"Elevated Zone - Price near resistance","False",1.81,3.28,"2025-08-04 10:56:00"
-"COMB","ETF",NA,"No",20.76,20.44,20.14,21.38,"-","Mixed trend","Mixed trend",20.77,21.56,-120.32,"Low Value Zone","False",1.49,NA,"2025-08-04 10:56:00"
-"CONY","ETF",NA,"No",7.3501,7.28,6.84,8.42,"Moderate","Strong Downtrend","Downtrend",7.88,9.22,-3.52,"Low Value Zone - Price below support","False",6.04,NA,"2025-08-04 10:59:00"
-"COST","Large","Good","Yes",952.505,942.98,928.46,978.58,"Moderate","Strong Downtrend","Mixed trend",938.41,989.74,2.64,"Value Zone - Price near support","False",1.54,17.62,"2025-08-04 10:59:00"
-"CRBG","Large","Moderate","No",34.55,34.2,33.29,35.83,"Moderate","Strong Downtrend","Mixed trend",33.89,36.07,2.3,"Value Zone - Price near support","False",2.67,1.12,"2025-08-04 10:56:00"
-"CRM","Large","Good","Yes",252.56,250.03,242.06,265.61,"Weak","Strong Downtrend","Downtrend",254.07,272.03,-12.93,"Low Value Zone","False",3.19,6.39,"2025-08-04 11:00:00"
-"CSCO","Large","Good","Yes",68.155,67.14,65.63,68.47,"Moderate","Strong Downtrend","Mixed trend",66.29,69.2,0.56,"Elevated Zone - Price near resistance","False",1.55,2.45,"2025-08-04 11:00:00"
-"CTRA","Large","Moderate","Yes",23.98,23.62,22.74,25.85,"Moderate","Mixed trend","Downtrend",23.65,25.21,3.77,"Value Zone - Price near support","False",3.72,1.71,"2025-08-04 10:56:00"
-"CURE","ETF",NA,"No",72.46,71.38,65.52,93.02,"Moderate","Downtrend","Downtrend",71.49,78.78,6.5,"Value Zone - Price near support","False",8.21,NA,"2025-08-04 10:56:00"
-"CVX","Large","Good","Yes",151.14,149.63,146.14,155.5,"Good","Strong Downtrend","Downtrend",148.18,156.73,1.89,"Value Zone - Price near support","False",2.33,7.77,"2025-08-04 11:00:00"
-"DFEN","ETF",NA,"No",59.0558,57.24,52.41,59.34,"Moderate","Mixed trend","Mixed trend",52.94,60.1,0.17,"Elevated Zone - Price near resistance","False",4.54,NA,"2025-08-04 10:58:00"
-"DIA","ETF",NA,"No",440.46,436.06,427.93,444.81,"Good","Strong Downtrend","Mixed trend",432.25,448.67,1,"Value Zone - Price near support","False",1.72,NA,"2025-08-04 11:00:00"
-"DPST","ETF",NA,"No",83.7,82.79,77.54,125.1,"Moderate","Strong Downtrend","Mixed trend",82.76,97.35,14.46,"Value Zone - Price near support","False",6.34,NA,"2025-08-04 10:58:00"
-"DRN","ETF",NA,"No",9.49,9.35,8.77,10.68,"Moderate","Mixed trend","Mixed trend",9.29,10.22,3.59,"Price between support and resistance","False",6.17,NA,"2025-08-04 10:58:00"
-"DRV","ETF",NA,"No",25.0739,24.82,23.44,26.23,"Weak","Strong Downtrend","Downtrend",23.93,26.47,1.22,"Buy signal generated - watch for further decline","False",5.58,NA,"2025-08-04 10:58:00"
-"EDC","ETF",NA,"No",39.51,39.11,37.59,41.34,"-","Mixed trend","Mixed trend",38.28,41.58,1.68,"Price between support and resistance","False",3.9,NA,"2025-08-04 10:56:00"
-"EDZ","ETF",NA,"No",5.31,5.23,4.88,6.81,"Moderate","Mixed trend","Downtrend",5.25,5.8,8.04,"Value Zone - Price near support","False",6.66,NA,"2025-08-04 10:54:00"
-"EEM","ETF",NA,"No",48.605,48.12,47.29,49.16,"Moderate","Strong Downtrend","Mixed trend",47.77,49.62,1.21,"Value Zone - Price near support","False",1.31,NA,"2025-08-04 10:59:00"
-"EHC","Large","Good","No",109.51,107.86,106.24,115.74,"Moderate","Mixed trend","Downtrend",108.74,114.66,6.68,"Value Zone - Price near support","False",1.51,4.86,"2025-08-04 10:56:00"
-"ELIL","ETF",NA,"No",17.5871,17.31,15.93,24.3,"-","Mixed trend","Downtrend",17.34,19.72,8.49,"Value Zone - Price near support","False",7.99,NA,"2025-08-04 10:53:00"
-"ENR","Small","Moderate","No",27.355,27.08,22.19,27.15,"Good","Strong Downtrend","Uptrend",22.41,25.95,-0.28,"Balanced Zone: near resistance; breakout possible, watch for rejection","False",4.02,0.74,"2025-08-04 10:57:00"
-"EQIX","Large","Moderate","Yes",776.26,764.62,750.01,817.91,"Moderate","Strong Downtrend","Downtrend",778.94,836.34,-22.38,"Low Value Zone","False",1.91,10.19,"2025-08-04 11:00:00"
-"EQR","Large","Moderate","Yes",63.285,62.65,60.89,838.32,"Moderate","Strong Downtrend","Downtrend",63.28,67.52,879.57,"Value Zone - Price near support","False",2.81,2.62,"2025-08-04 10:56:00"
-"ETH","ETF",NA,"No",34.2353,33.89,31.2,35.34,"Moderate","Strong Downtrend","Mixed trend",31.52,35.76,0.56,"Price between support and resistance","False",4.98,NA,"2025-08-04 10:59:00"
-"ETHA","ETF",NA,"No",27.54,27.18,25.06,28.32,"Good","Mixed trend","Mixed trend",25.31,28.75,0.54,"Price between support and resistance","False",4.82,NA,"2025-08-04 10:59:00"
-"EURL","ETF",NA,"No",31.8799,31.4,30.29,37.42,"-","Mixed trend","Mixed trend",31.57,34.72,9.05,"Value Zone - Price near support","False",3.53,NA,"2025-08-04 10:57:00"
-"F","Large","Moderate","Yes",10.93,10.82,10.53,11.38,"Moderate","Uptrend","Mixed trend",10.7,11.47,2.37,"Price between support and resistance","False",2.68,0.78,"2025-08-04 10:57:00"
-"FANG","Large","Good","Yes",147.0299,144.78,139.85,151.13,"Good","Mixed trend","Mixed trend",142.51,153.07,1.34,"Price between support and resistance","False",3.4,16.08,"2025-08-04 10:56:00"
-"FAS","ETF",NA,"No",160.335,157.94,149.26,179.71,"Moderate","Strong Downtrend","Mixed trend",157.32,172.3,3.97,"Value Zone - Price near support","False",5.49,NA,"2025-08-04 10:55:00"
-"FAZ","ETF",NA,"No",4.585,4.54,4.3,4.8,"Moderate","Strong Downtrend","Downtrend",4.39,4.84,1.29,"Price between support and resistance","False",5.37,NA,"2025-08-04 10:58:00"
-"FBTC","ETF",NA,"No",100.0714,99.07,96.16,103.27,"Moderate","Strong Downtrend","Mixed trend",97.7,104.16,1.72,"Price between support and resistance","False",2.94,NA,"2025-08-04 10:59:00"
-"FENY","ETF",NA,"No",23.72,23.48,22.9,24.65,"Moderate","Mixed trend","Mixed trend",23.42,24.54,2.74,"Value Zone - Price near support","False",2.48,NA,"2025-08-04 11:01:00"
-"FGDL","ETF",NA,"No",44.96,44.51,43.46,45.28,"-",NA,"Mixed trend",43.9,45.57,0.57,"Elevated Zone - Price near resistance","False",2.02,NA,"2025-08-04 10:56:00"
-"FTGC","ETF",NA,"No",24.73,24.36,24.01,26.22,"Moderate","Mixed trend","Mixed trend",24.62,25.62,8.24,"Value Zone - Price near support","False",1.43,NA,"2025-08-04 10:56:00"
-"FUTU","Large","Moderate","No",148.675,144.1,136.42,157.46,"Moderate","Mixed trend","Mixed trend",139.72,163.43,1.65,"Price between support and resistance","False",5.33,5.95,"2025-08-04 10:57:00"
-"FXI","ETF",NA,"No",37.365,36.99,36.31,38.09,"Moderate","Strong Downtrend","Mixed trend",36.68,38.55,1.72,"Value Zone - Price near support","False",1.63,NA,"2025-08-04 10:59:00"
-"GBTC","ETF",NA,"No",90.19,89.29,86.69,93.13,"Moderate","Strong Downtrend","Mixed trend",88.08,93.88,1.75,"Price between support and resistance","False",2.91,NA,"2025-08-04 10:59:00"
-"GDX","ETF",NA,"No",54.485,53.61,50.98,54.06,"Moderate","Strong Downtrend","Uptrend",51.5,54.23,-0.09,"High Value Zone: breakout above resistance; strong trend but watch for pullback","False",2.99,NA,"2025-08-04 11:01:00"
-"GE","Large","Good","Yes",274.485,270.36,255.41,273.37,"Moderate","Strong Downtrend","Uptrend",257.99,274.72,0.01,"Elevated Zone - Price near resistance","False",2.22,7,"2025-08-04 11:00:00"
-"GGLL","ETF",NA,"No",41.28,40.87,37.82,42.16,"Moderate","Downtrend","Mixed trend",38.2,42.38,0.36,"Buy signal generated - watch for recovery/decline","False",4.69,NA,"2025-08-04 10:58:00"
-"GGLS","ETF",NA,"No",11.305,11.19,10.87,12.15,"Moderate","Mixed trend","Downtrend",11.42,12.17,-7.63,"Value Zone - Price near support","False",2.89,NA,"2025-08-04 10:53:00"
-"GLD","ETF",NA,"No",310.5901,307.48,300.22,312.11,"Moderate","Strong Downtrend","Mixed trend",303.25,314.33,0.51,"Elevated Zone - Price near resistance","False",1.97,NA,"2025-08-04 11:00:00"
-"GLDM","ETF",NA,"No",66.81,66.14,64.55,67.14,"Moderate","Strong Downtrend","Mixed trend",65.2,67.57,0.49,"Elevated Zone - Price near resistance","False",1.98,NA,"2025-08-04 11:01:00"
-"GOOGL","Large","Good","Yes",193.55,189.62,182.93,193.91,"Good","Mixed trend","Mixed trend",184.78,196.53,0.34,"Elevated Zone - Price near resistance","False",2.31,9.38,"2025-08-04 10:59:00"
-"GTM","Large","Poor","No",10.365,10.21,9.84,11.25,"Moderate","Strong Downtrend","Mixed trend",10.13,11.24,3.71,"Price between support and resistance","False",3.7,0.12,"2025-08-04 10:56:00"
-"HD","Large","Good","Yes",380.17,374.47,360.48,379.67,"Good","Downtrend","Uptrend",364.12,381.23,0.07,"Elevated Zone - Price near resistance","False",2.02,14.72,"2025-08-04 11:00:00"
-"HGER","ETF",NA,"No",24.46,24.09,23.75,24.97,"-","Mixed trend","Mixed trend",24.22,25.14,2.81,"Value Zone - Price near support","False",1.43,NA,"2025-08-04 11:01:00"
-"HIBL","ETF",NA,"No",48.2,47.48,43.88,50.38,"-","Strong Downtrend","Mixed trend",44.32,51.3,0.8,"Price between support and resistance","False",7.09,NA,"2025-08-04 10:57:00"
-"HIMS","Large","Moderate","No",64.59,63.94,55.02,66.74,"Moderate","Strong Downtrend","Mixed trend",55.58,67.42,0.31,"Price between support and resistance","False",6.01,0.68,"2025-08-04 10:56:00"
-"HOOD","Large","Moderate","No",102.99,99.26,91.82,105.01,"Good","Mixed trend","Mixed trend",92.75,108.53,0.54,"Price between support and resistance","False",3.65,1.97,"2025-08-04 10:57:00"
-"HYG","ETF",NA,"No",80.13,79.33,78.53,80.47,"Moderate","Mixed trend","Mixed trend",79.32,81.01,1.09,"Value Zone - Price near support","False",0.53,NA,"2025-08-04 10:59:00"
-"IAUM","ETF",NA,"No",33.625,33.29,32.5,33.81,"Moderate","Strong Downtrend","Mixed trend",32.83,34.03,0.51,"Elevated Zone - Price near resistance","False",1.99,NA,"2025-08-04 11:00:00"
-"IBIT","ETF",NA,"No",65.1301,64.48,62.57,67.23,"Good","Strong Downtrend","Mixed trend",63.59,67.82,1.75,"Price between support and resistance","False",2.96,NA,"2025-08-04 10:59:00"
-"IBM","Large","Good","Yes",249.36,246.87,241.24,265.27,"Moderate","Mixed trend","Downtrend",255.39,273.74,-4.04,"Low Value Zone","False",2.28,6.2,"2025-08-04 11:00:00"
-"IDXX","Large","Good","Yes",677.28,592.49,532.51,631.83,"Good","Mixed trend","Uptrend",537.89,618.84,-0.42,"High Value Zone: breakout above resistance; strong trend but watch for pullback","True",1.55,10.82,"2025-08-04 10:56:00"
-"IEFA","ETF",NA,"No",82.53,81.7,80.57,83.65,"Moderate","Strong Downtrend","Mixed trend",81.38,84.48,1.7,"Value Zone - Price near support","False",1.23,NA,"2025-08-04 11:01:00"
-"ITOT","ETF",NA,"No",137.43,135.37,133.01,137.97,"Moderate","Downtrend","Mixed trend",134.35,139.65,0.72,"Elevated Zone - Price near resistance","False",1.71,NA,"2025-08-04 11:00:00"
-"ITW","Large","Good","Yes",254.68,250.86,246.72,257.86,"Moderate","Downtrend","Mixed trend",249.21,261.86,1.31,"Price between support and resistance","False",1.61,11.38,"2025-08-04 11:00:00"
-"IWM","ETF",NA,"No",217.53,215.35,211.02,221.66,"Moderate","Mixed trend","Mixed trend",213.15,224.32,1.55,"Price between support and resistance","False",2.01,NA,"2025-08-04 10:59:00"
-"IWY","ETF",NA,"No",254.28,251.74,244.52,257.47,"Moderate","Strong Downtrend","Mixed trend",246.99,258.97,0.64,"Elevated Zone - Price near resistance","False",1.65,NA,"2025-08-04 10:58:00"
-"IXUS","ETF",NA,"No",77.1135,76.34,75.19,78.05,"Moderate","Strong Downtrend","Mixed trend",75.95,78.79,1.44,"Value Zone - Price near support","False",1.14,NA,"2025-08-04 11:00:00"
-"JNJ","Large","Good","Yes",168.675,166.15,160.36,168.82,"Good","Mixed trend","Uptrend",161.98,170.1,0.21,"Elevated Zone - Price near resistance","False",1.5,9.34,"2025-08-04 11:00:00"
-"JNUG","ETF",NA,"No",77.2799,76.51,71.44,81.21,"Weak","Mixed trend","Mixed trend",73.02,81.28,0.94,"Price between support and resistance","False",6.62,NA,"2025-08-04 10:58:00"
-"JPM","Large","Good","Yes",293.115,288.72,280.58,295.87,"Moderate","Downtrend","Mixed trend",283.41,299.77,0.69,"Price between support and resistance","False",1.51,19.5,"2025-08-04 10:59:00"
-"KGC","Large","Good","No",17.03,16.33,15.37,16.67,"Good","Mixed trend","Uptrend",15.53,16.78,-0.17,"High Value Zone: breakout above resistance; strong trend but watch for pullback","False",3.73,1.24,"2025-08-04 10:57:00"
-"KLAC","Large","Good","Yes",904.8,895.75,851.82,921.41,"Moderate","Strong Downtrend","Mixed trend",860.42,929.99,0.57,"Price between support and resistance","False",3.75,30.41,"2025-08-04 11:00:00"
-"KOLD","ETF",NA,"No",34.41,31.87,28.1,32.77,"Good","Strong Downtrend","Uptrend",28.38,33.25,-0.19,"High Value Zone: breakout above resistance; strong trend but watch for pullback","False",10.26,NA,"2025-08-04 10:59:00"
-"KORU","ETF",NA,"No",80.04,79.24,73.75,83.6,"Moderate","Strong Downtrend","Mixed trend",75.03,84.55,0.9,"Price between support and resistance","False",6.93,NA,"2025-08-04 10:58:00"
-"KSPI","Large","Good","No",83.775,80.79,77.43,83.82,"Moderate","Strong Downtrend","Mixed trend",78.31,85.54,0.32,"Price between support and resistance","False",4.16,10.25,"2025-08-04 10:56:00"
-"L","Large","Good","Yes",92.99,91.19,88.22,92.49,"Moderate","Uptrend","Uptrend",89.11,92.66,-0.09,"High Value Zone: breakout above resistance; strong trend but watch for pullback","False",1.57,6.1,"2025-08-04 10:56:00"
-"LABU","ETF",NA,"No",60.09,59.49,54.95,76.06,"Moderate","Mixed trend","Downtrend",59.12,66.19,6.27,"Value Zone - Price near support","False",7.63,NA,"2025-08-04 10:58:00"
-"LIN","Large","Good","Yes",466.67,459.67,448.8,469.65,"Moderate","Strong Downtrend","Downtrend",453.33,474.17,0.56,"Elevated Zone - Price near resistance","False",1.48,14.06,"2025-08-04 11:00:00"
-"LLY","Large","Good","Yes",758,750.42,719.73,846.53,"Moderate","Mixed trend","Downtrend",748.73,803.89,4.95,"Value Zone - Price near support","False",4.09,12.27,"2025-08-04 10:59:00"
-"LYFT","Mid","Poor","No",13.96,13.82,13.3,21.34,"Moderate","Downtrend","Downtrend",13.92,14.98,27.54,"Value Zone - Price near support","False",3.74,0.15,"2025-08-04 10:57:00"
-"MA","Large","Good","Yes",565.515,559.86,548.72,576.01,"Moderate","Mixed trend","Mixed trend",554.66,581.56,1.48,"Value Zone - Price near support","False",1.99,14.84,"2025-08-04 10:59:00"
-"MCD","Large","Moderate","Yes",305.45,300.87,293.42,306.5,"Moderate","Strong Downtrend","Uptrend",296.38,309.33,0.43,"Elevated Zone - Price near resistance","False",1.43,11.33,"2025-08-04 11:00:00"
-"MELI","Large","Good","No",2373.51,2349.77,2287.27,2644.41,"Weak","Strong Downtrend","Downtrend",2359.44,2482.6,7.75,"Value Zone - Price near support","False",2.66,40.63,"2025-08-04 10:55:00"
-"META","Large","Good","Yes",765.52,757.86,701.42,770.81,"Good","Uptrend","Mixed trend",708.5,776.05,0.18,"Elevated Zone - Price near resistance","False",2.56,27.53,"2025-08-04 10:59:00"
-"METD","ETF",NA,"No",14,13.86,13.27,15.11,"Moderate","Strong Downtrend","Downtrend",14.24,15.74,-7.37,"Value Zone - Price near support","False",4.24,NA,"2025-08-04 10:58:00"
-"METU","ETF",NA,"No",47.61,47.13,41.29,48.43,"Moderate","Uptrend","Mixed trend",41.71,48.71,0.19,"Price between support and resistance","False",5.22,NA,"2025-08-04 10:58:00"
-"MIDU","ETF",NA,"No",45.6,44.92,42.58,48.43,"-","Mixed trend","Mixed trend",43.9,48.63,1.78,"Price between support and resistance","False",5.19,NA,"2025-08-04 10:50:00"
-"MRK","Large","Good","Yes",78.74,77.95,74.74,88.83,"Moderate","Mixed trend","Downtrend",77.87,83.64,5.64,"Value Zone - Price near support","False",4.12,6.49,"2025-08-04 11:00:00"
-"MSFD","ETF",NA,"No",10.495,10.39,10.15,11.12,"Moderate","Strong Downtrend","Downtrend",10.55,11.38,-17.06,"Low Value Zone","False",2.32,NA,"2025-08-04 10:58:00"
-"MSFT","Large","Good","Yes",534.6065,527.43,500.22,541.9,"Good","Mixed trend","Mixed trend",505.27,548.75,0.48,"Price between support and resistance","False",1.22,13.63,"2025-08-04 10:59:00"
-"MSFU","ETF",NA,"No",56.695,55.3,50.95,58.08,"Good","Mixed trend","Mixed trend",51.46,59.36,0.51,"Price between support and resistance","False",2.6,NA,"2025-08-04 10:54:00"
-"MSTU","ETF",NA,"No",7.146,6.95,5.92,8.22,"Moderate","Strong Downtrend","Mixed trend",7.22,8.91,-23.24,"Low Value Zone","False",14.86,NA,"2025-08-04 10:59:00"
-"MSTY","ETF",NA,"No",18.47,18.16,16.93,20.21,"Moderate","Strong Downtrend","Downtrend",18.9,21.32,-6.7,"Low Value Zone","False",6.76,NA,"2025-08-04 10:59:00"
-"MUFG","Large","Moderate","No",13.736,13.6,13.24,25.3,"Moderate","Mixed trend","Downtrend",13.72,14.53,64.15,"Value Zone - Price near support","False",2.61,1.06,"2025-08-04 10:56:00"
-"MUU","ETF",NA,"No",17.8614,17.52,16.1,20.11,"Weak","Downtrend","Downtrend",17.93,21.38,-51.25,"Low Value Zone","False",8.12,NA,"2025-08-04 10:57:00"
-"NAIL","ETF",NA,"No",64.16,63.27,56.99,66.15,"Moderate","Strong Downtrend","Mixed trend",57.57,66.74,0.39,"Price between support and resistance","False",8.48,NA,"2025-08-04 10:58:00"
-"NFLX","Large","Good","Yes",1163.41,1151.78,1121.25,1219.19,"Weak","Strong Downtrend","Downtrend",1167.02,1237.82,-20.64,"Value Zone - Price near support","False",2.65,23.52,"2025-08-04 11:00:00"
-"NFXL","ETF",NA,"No",54.79,54.24,51.38,59.67,"Weak","Strong Downtrend","Downtrend",55.56,61.77,-9.01,"Value Zone - Price near support","False",5.27,NA,"2025-08-04 10:53:00"
-"NFXS","ETF",NA,"No",14.4099,14.2,13.72,14.47,"Moderate","Uptrend","Mixed trend",13.86,14.58,0.3,"Elevated Zone - Price near resistance","False",2.52,NA,"2025-08-04 10:55:00"
-"NOW","Large","Moderate","Yes",919.48,905.69,878.07,974.55,"Moderate","Strong Downtrend","Downtrend",935.35,1005.63,-5.43,"Value Zone - Price near support","False",3.05,7.96,"2025-08-04 11:00:00"
-"NVDA","Large","Moderate","Yes",177.605,175.33,164.09,179.32,"Good","Strong Downtrend","Mixed trend",165.75,181.19,0.3,"Elevated Zone - Price near resistance","False",2.92,3.09,"2025-08-04 10:57:00"
-"NVDD","ETF",NA,"No",4.1447,4.1,3.93,4.49,"Moderate","Strong Downtrend","Downtrend",4.25,4.7,-5.5,"Low Value Zone - Price below support","False",4.2,NA,"2025-08-04 10:58:00"
-"NVDU","ETF",NA,"No",123.27,120.34,108.07,125.52,"Moderate","Mixed trend","Mixed trend",109.16,127.49,0.3,"Price between support and resistance","False",6.06,NA,"2025-08-04 10:58:00"
-"OKE","Large","Good","Yes",79.85,79.05,76.28,84.58,"Good","Downtrend","Mixed trend",78.69,83.23,2.91,"Value Zone - Price near support","False",3.51,5.12,"2025-08-04 10:56:00"
-"ON","Large","Moderate","Yes",50.55,50.04,46.54,57.95,"Moderate","Strong Downtrend","Downtrend",53.65,60.62,-3.25,"Low Value Zone - Price below support","False",7,1.44,"2025-08-04 10:56:00"
-"ORCL","Large","Moderate","Yes",250.23,247.73,230.5,254.86,"Moderate","Strong Downtrend","Mixed trend",232.83,257.14,0.4,"Price between support and resistance","False",2.7,4.35,"2025-08-04 11:00:00"
-"PALU","ETF",NA,"No",18.1166,17.94,16.06,22.15,"Weak","Strong Downtrend","Downtrend",20,24.7,-3.49,"Buy signal generated - watch for further decline","False",10.44,NA,"2025-08-04 10:56:00"
-"PG","Large","Good","Yes",150.515,148.25,145.43,157.9,"Moderate","Mixed trend","Downtrend",151.74,160.7,-8.32,"Low Value Zone","False",1.9,6.51,"2025-08-04 11:00:00"
-"PILL","ETF",NA,"No",5.4914,5.41,5.07,6.49,"-","Mixed trend","Downtrend",5.36,6.04,4.03,"Price between support and resistance","False",6.3,NA,"2025-08-04 10:54:00"
-"PLTD","ETF",NA,"No",8.005,7.92,7.36,8.69,"Moderate","Strong Downtrend","Downtrend",8.25,9.12,-4.62,"Low Value Zone - Price below support","False",7.13,NA,"2025-08-04 10:58:00"
-"PLTR","Large","Moderate","Yes",158.69,157.1,145.32,159.1,"Moderate","Strong Downtrend","Uptrend",146.79,159.86,0.1,"Elevated Zone - Price near resistance","False",4.14,0.23,"2025-08-04 10:56:00"
-"PLTU","ETF",NA,"No",81.63,80.81,70.25,82.19,"Moderate","Strong Downtrend","Mixed trend",70.96,82.25,0.06,"Balanced Zone: near resistance; breakout possible, watch for rejection","False",8.34,NA,"2025-08-04 10:58:00"
-"PM","Large","Moderate","Yes",163.3929,161.76,158.14,179.62,"Moderate","Strong Downtrend","Mixed trend",162.24,172.52,7.92,"Value Zone - Price near support","False",2.24,6.76,"2025-08-04 11:00:00"
-"PTIR","ETF",NA,"No",25.86,25.6,22.69,43.08,"Moderate","Strong Downtrend","Downtrend",61.15,108.35,-2.34,"Low Value Zone","False",11.39,NA,"2025-08-04 10:59:00"
-"QCOM","Large","Good","Yes",147.695,146.22,142.42,156.26,"Moderate","Strong Downtrend","Downtrend",148.23,159.7,-22.49,"Value Zone - Price near support","False",2.6,10.36,"2025-08-04 11:00:00"
-"QLD","ETF",NA,"No",121.31,120.1,115.23,123.81,"Good","Mixed trend","Mixed trend",116.39,125.14,0.78,"Price between support and resistance","False",3.72,NA,"2025-08-04 10:59:00"
-"QQQ","ETF",NA,"No",562.02,556.4,542.39,567.55,"Good","Mixed trend","Mixed trend",547.87,572.59,0.75,"Elevated Zone - Price near resistance","False",1.8,NA,"2025-08-04 10:59:00"
-"REMX","ETF",NA,"No",50.66,50.15,46.99,52.79,"Moderate","Strong Downtrend","Mixed trend",47.46,53.43,0.86,"Price between support and resistance","False",2.99,NA,"2025-08-04 10:59:00"
-"RETL","ETF",NA,"No",7.97,7.83,7.33,8.84,"Weak","Strong Downtrend","Mixed trend",7.66,8.83,2.8,"Price between support and resistance","False",6.33,NA,"2025-08-04 10:58:00"
-"RH","Mid","Moderate","No",213.29,206.34,192.33,214.48,"Moderate","Strong Downtrend","Mixed trend",194.27,217.55,0.22,"Elevated Zone - Price near resistance","False",5.74,4.22,"2025-08-04 10:57:00"
-"SBAC","Large","Moderate","Yes",228.99,225.56,221.65,235.59,"Weak","Strong Downtrend","Mixed trend",225.3,238.5,2.58,"Value Zone - Price near support","False",1.73,7.57,"2025-08-04 10:56:00"
-"SCHB","ETF",NA,"No",24.245,24,23.46,24.47,"Moderate","Strong Downtrend","Mixed trend",23.7,24.65,0.74,"Elevated Zone - Price near resistance","False",1.64,NA,"2025-08-04 11:00:00"
-"SCHD","ETF",NA,"No",26.505,26.24,25.82,27.25,"Moderate","Strong Downtrend","Mixed trend",26.25,27.3,3.1,"Value Zone - Price near support","False",1.61,NA,"2025-08-04 11:00:00"
-"SCHH","ETF",NA,"No",21.025,20.7,20.31,21.56,"Moderate","Mixed trend","Mixed trend",20.78,21.65,2.52,"Value Zone - Price near support","False",1.93,NA,"2025-08-04 11:00:00"
-"SCO","ETF",NA,"No",16.451,16.29,15.26,18.1,"Moderate","Strong Downtrend","Mixed trend",15.84,18.01,2.56,"Price between support and resistance","False",6.31,NA,"2025-08-04 10:59:00"
-"SCS","Small","Good","No",16.73,14.22,10.63,14.41,"Good","Mixed trend","Uptrend",10.74,13.69,-0.51,"High Value Zone: breakout above resistance; strong trend but watch for pullback","True",3.56,1.04,"2025-08-04 10:57:00"
-"SDCI","ETF",NA,"No",21.68,21.36,21.04,22.39,"-","Mixed trend","Mixed trend",21.48,22.41,3.6,"Value Zone - Price near support","False",1.46,NA,"2025-08-04 10:57:00"
-"SEZL","Mid","Moderate","No",151.4808,149.97,135.01,159.93,"Moderate","Downtrend","Mixed trend",136.37,162.75,0.75,"Price between support and resistance","False",7.06,2.97,"2025-08-04 10:57:00"
-"SGOL","ETF",NA,"No",32.1601,31.84,31.09,32.35,"Moderate","Strong Downtrend","Mixed trend",31.4,32.54,0.51,"Elevated Zone - Price near resistance","False",1.99,NA,"2025-08-04 11:00:00"
-"SMCI","Large","Moderate","Yes",58.91,57.88,51.54,59.62,"Good","Mixed trend","Mixed trend",52.06,60.47,0.23,"Price between support and resistance","False",6.33,1.84,"2025-08-04 10:57:00"
-"SOFI","Large","Poor","No",21.14,20.93,19.68,23.24,"Moderate","Mixed trend","Downtrend",19.88,23.96,2.24,"Price between support and resistance","False",3.65,0.5,"2025-08-04 10:57:00"
-"SOXL","ETF",NA,"No",24.731,24.48,22.62,26.68,"Moderate","Strong Downtrend","Mixed trend",23.11,27.15,1.49,"Price between support and resistance","False",7.61,NA,"2025-08-04 10:58:00"
-"SOXS","ETF",NA,"No",7.795,7.72,6.83,13.97,"Moderate","Mixed trend","Downtrend",7.64,9.75,12.88,"Price between support and resistance","False",11.46,NA,"2025-08-04 10:58:00"
-"SPDN","ETF",NA,"No",10.19,10.09,9.88,10.93,"Moderate","Mixed trend","Downtrend",10.13,10.59,6.57,"Value Zone - Price near support","False",2.07,NA,"2025-08-04 10:58:00"
-"SPG","Large","Good","Yes",162.875,160.44,157.11,165.87,"Moderate","Strong Downtrend","Mixed trend",159.71,167.64,1.51,"Value Zone - Price near support","False",2.07,6.28,"2025-08-04 10:56:00"
-"SPOT","Large","Moderate","No",667.21,660.54,631.45,697.75,"Moderate","Mixed trend","Downtrend",637.83,705.48,1.3,"Price between support and resistance","False",4.11,4.39,"2025-08-04 10:57:00"
-"SPXL","ETF",NA,"No",180.84,178.99,170.07,185.33,"Moderate","Strong Downtrend","Mixed trend",172.26,187.24,0.75,"Price between support and resistance","False",4.98,NA,"2025-08-04 10:58:00"
-"SPY","ETF",NA,"No",629.18,622.89,608.79,633.87,"Good","Mixed trend","Mixed trend",614.94,639.12,0.7,"Elevated Zone - Price near resistance","False",1.64,NA,"2025-08-04 10:59:00"
-"T","Large","Good","Yes",27.67,27.39,26.78,28.11,"Moderate","Mixed trend","Downtrend",27.05,28.38,1.14,"Price between support and resistance","False",2.24,1.75,"2025-08-04 11:00:00"
-"TECL","ETF",NA,"No",101.55,100.53,93.24,105.18,"Moderate","Strong Downtrend","Mixed trend",94.18,106.4,0.66,"Price between support and resistance","False",5.64,NA,"2025-08-04 10:58:00"
-"TGTX","Mid","Poor","No",28.97,28.68,27.36,29.99,"Weak","Strong Downtrend","Downtrend",33.42,37.51,-1.92,"Low Value Zone - Price below support","True",4.62,0.25,"2025-08-04 10:57:00"
-"TLT","ETF",NA,"No",87.785,86.91,84.96,87.91,"Moderate","Mixed trend","Downtrend",85.82,88.48,0.35,"Elevated Zone - Price near resistance","False",1.38,NA,"2025-08-04 10:59:00"
-"TMDX","Mid","Moderate","No",129.99,127.66,111.28,130.48,"Moderate","Uptrend","Mixed trend",112.4,129.73,-0.01,"High Value Zone: breakout above resistance; strong trend but watch for pullback","False",3.54,1.99,"2025-08-04 10:57:00"
-"TMF","ETF",NA,"No",38.84,38.45,36.48,38.99,"Moderate","Strong Downtrend","Downtrend",36.85,39.2,0.18,"Balanced Zone: near resistance; breakout possible, watch for rejection","False",4.23,NA,"2025-08-04 10:58:00"
-"TNA","ETF",NA,"No",33.705,33.22,31.2,36.54,"Moderate","Strong Downtrend","Mixed trend",32.42,36.61,2.26,"Price between support and resistance","False",6.08,NA,"2025-08-04 10:58:00"
-"TQQQ","ETF",NA,"No",86.54,85.63,80.75,89.29,"Good","Mixed trend","Mixed trend",81.83,90.43,0.83,"Price between support and resistance","False",5.7,NA,"2025-08-04 10:59:00"
-"TSEM","Mid","Moderate","No",48.71,46.27,43.22,47.97,"Moderate","Strong Downtrend","Uptrend",43.66,48.52,-0.04,"High Value Zone: breakout above resistance; strong trend but watch for pullback","False",2.91,1.8,"2025-08-04 10:57:00"
-"TSLA","Large","Moderate","No",304.06,301.02,283.71,324.61,"Moderate","Mixed trend","Downtrend",304.26,334.43,-154.26,"Value Zone - Price near support","False",5.75,1.69,"2025-08-04 10:57:00"
-"TSLL","ETF",NA,"No",10.4285,10.32,9.13,11.98,"Moderate","Mixed trend","Downtrend",10.67,13.02,-10.69,"Low Value Zone - Price below support","False",11.6,NA,"2025-08-04 10:58:00"
-"TSLS","ETF",NA,"No",8.03,7.86,7.33,8.33,"Moderate","Strong Downtrend","Downtrend",7.6,8.42,0.91,"Price between support and resistance","False",6.78,NA,"2025-08-04 10:58:00"
-"TSMX","ETF",NA,"No",34.965,34.62,32.85,36.69,"Moderate","Mixed trend","Mixed trend",33.18,37.31,1.31,"Price between support and resistance","False",4.93,NA,"2025-08-04 10:58:00"
-"TSMZ","ETF",NA,"No",16.2,15.96,15.32,28.45,"-","Mixed trend","Downtrend",16.17,17.5,37.76,"Value Zone - Price near support","False",3.99,NA,"2025-08-04 10:26:00"
-"TSN","Large","Moderate","Yes",54.72,53.95,51.98,54.97,"Moderate","Strong Downtrend","Mixed trend",52.51,55.31,0.27,"Elevated Zone - Price near resistance","False",1.57,2.57,"2025-08-04 10:56:00"
-"TT","Large","Good","Yes",437.46,433.09,425.24,458.19,"Moderate","Downtrend","Downtrend",429.54,466.26,3.64,"Buy signal generated - watch for further decline","False",1.42,12.69,"2025-08-04 11:00:00"
-"TYD","ETF",NA,"No",25.43,25.18,24.32,25.53,"-","Strong Downtrend","Downtrend",24.57,25.62,0.22,"Balanced Zone: near resistance; breakout possible, watch for rejection","False",1.91,NA,"2025-08-04 10:50:00"
-"TZA","ETF",NA,"No",11.5652,11.45,10.69,13.01,"Moderate","Mixed trend","Downtrend",11.13,12.88,3.02,"Price between support and resistance","False",6.6,NA,"2025-08-04 10:58:00"
-"UBOT","ETF",NA,"No",23.05,22.7,21.47,23.48,"-",NA,"Mixed trend",21.69,23.8,0.56,"Price between support and resistance","False",3.44,NA,"2025-08-04 10:44:00"
-"ULTY","ETF",NA,"No",6.0687,6.01,5.85,6.43,"Moderate","Strong Downtrend","Downtrend",6.01,6.31,4.13,"Value Zone - Price near support","False",2.59,NA,"2025-08-04 10:59:00"
-"UNH","Large","Good","Yes",240.34,237.94,222.85,266.35,"Moderate","Mixed trend","Downtrend",252.57,283.93,-3.56,"Low Value Zone","False",6.34,23.11,"2025-08-04 11:00:00"
-"UNIT","Small","Poor","No",8.09,7.11,5.05,7.4,"Good","Uptrend","Uptrend",5.1,6.85,-0.42,"High Value Zone: breakout above resistance; strong trend but watch for pullback","False",4.55,0.13,"2025-08-04 10:56:00"
-"UTSL","ETF",NA,"No",44.12,43.27,38.86,43.71,"Good","Uptrend","Uptrend",39.25,43.52,-0.12,"High Value Zone: breakout above resistance; strong trend but watch for pullback","False",4.28,NA,"2025-08-04 10:56:00"
-"V","Large","Good","Yes",343.335,338.19,330.31,373.86,"Moderate","Mixed trend","Downtrend",341.02,359.96,7.17,"Value Zone - Price near support","False",2.33,10.25,"2025-08-04 10:59:00"
-"VEA","ETF",NA,"No",56.6007,56.03,55.17,57.57,"Moderate","Strong Downtrend","Mixed trend",55.73,57.87,1.46,"Value Zone - Price near support","False",1.24,NA,"2025-08-04 11:00:00"
-"VFC","Mid","Poor","No",12.575,12.02,11.07,13.8,"Moderate","Strong Downtrend","Mixed trend",11.74,14.24,1.98,"Price between support and resistance","False",7.86,0.27,"2025-08-04 10:57:00"
-"VGT","ETF",NA,"No",686.72,676.42,657.87,693.37,"Moderate","Strong Downtrend","Mixed trend",664.52,701.31,0.66,"Price between support and resistance","False",2,NA,"2025-08-04 11:01:00"
-"VMC","Large","Good","Yes",283.1,278.51,262.73,280.61,"Good","Strong Downtrend","Uptrend",265.38,281.11,-0.11,"High Value Zone: breakout above resistance; strong trend but watch for pullback","False",1.79,7.2,"2025-08-04 11:00:00"
-"VNOM","Large","Good","No",37.06,36.47,35.08,41.72,"Moderate","Mixed trend","Downtrend",36.67,39.46,6.07,"Value Zone - Price near support","False",3.81,3.95,"2025-08-04 10:56:00"
-"VNQ","ETF",NA,"No",89.59,88.69,86.85,91.34,"Moderate","Strong Downtrend","Mixed trend",88.22,91.85,1.65,"Value Zone - Price near support","False",2.08,NA,"2025-08-04 11:00:00"
-"VOO","ETF",NA,"No",578.29,572.51,559.71,582.76,"Moderate","Mixed trend","Mixed trend",565.36,587.48,0.71,"Elevated Zone - Price near resistance","False",1.65,NA,"2025-08-04 10:59:00"
-"VT","ETF",NA,"No",129.775,128.48,125.91,130.8,"Moderate","Strong Downtrend","Mixed trend",127.18,131.84,0.79,"Buy signal generated - watch for recovery/decline","False",1.25,NA,"2025-08-04 11:00:00"
-"VTI","ETF",NA,"No",309.27,304.63,299.45,310.58,"Moderate","Strong Downtrend","Mixed trend",302.47,314.41,0.76,"Elevated Zone - Price near resistance","False",1.66,NA,"2025-08-04 11:00:00"
-"VWO","ETF",NA,"No",49.92,49.42,48.62,50.5,"Moderate","Strong Downtrend","Mixed trend",49.11,50.94,1.26,"Value Zone - Price near support","False",1.25,NA,"2025-08-04 11:01:00"
-"VXUS","ETF",NA,"No",68.87,68.18,67.13,69.72,"Moderate","Strong Downtrend","Mixed trend",67.81,70.39,1.44,"Value Zone - Price near support","False",1.24,NA,"2025-08-04 11:00:00"
-"WAT","Large","Good","Yes",285.25,280.59,269.17,307.52,"Moderate","Mixed trend","Downtrend",293.31,318.2,-4.09,"Low Value Zone","False",4.07,11.03,"2025-08-04 10:56:00"
-"WEBL","ETF",NA,"No",29.0322,28.74,27.4,31.11,"Moderate","Strong Downtrend","Mixed trend",27.96,31.36,2.17,"Buy signal generated - watch for recovery/decline","False",4.67,NA,"2025-08-04 10:57:00"
-"WFC","Large","Good","Yes",77.67,76.89,75.18,81.58,"Moderate","Strong Downtrend","Downtrend",77.73,83.13,-99.15,"Value Zone - Price near support","False",2.23,5.82,"2025-08-04 11:00:00"
-"WMB","Large","Moderate","Yes",60.97,60.36,57.49,61.22,"Moderate","Uptrend","Mixed trend",58.07,61.67,0.24,"Elevated Zone - Price near resistance","False",2.44,1.86,"2025-08-04 10:57:00"
-"WMT","Large","Moderate","Yes",99.435,98.17,95.3,99.44,"Moderate","Strong Downtrend","Mixed trend",96.26,100.01,0.18,"Elevated Zone - Price near resistance","False",1.56,2.34,"2025-08-04 11:00:00"
-"XLE","ETF",NA,"No",85.95,85.09,83.12,88.94,"Good","Mixed trend","Mixed trend",84.82,88.83,2.56,"Value Zone - Price near support","False",2.31,NA,"2025-08-04 11:01:00"
-"XLF","ETF",NA,"No",51.755,51.24,50.29,52.91,"Moderate","Uptrend","Mixed trend",51.08,53.2,2.15,"Value Zone - Price near support","False",1.85,NA,"2025-08-04 10:59:00"
-"XOM","Large","Good","Yes",109.14,108.05,105.26,115.74,"Good","Strong Downtrend","Downtrend",107.93,114.05,4.05,"Value Zone - Price near support","False",2.58,7.04,"2025-08-04 10:59:00"
-"YANG","ETF",NA,"No",29.24,28.81,26.07,35.72,"Moderate","Mixed trend","Downtrend",28.5,32.38,4.24,"Price between support and resistance","False",9.51,NA,"2025-08-04 10:59:00"
-"YINN","ETF",NA,"No",42.22,41.8,39.8,45.58,"Moderate","Strong Downtrend","Mixed trend",40.75,45.96,2.54,"Price between support and resistance","False",4.77,NA,"2025-08-04 10:59:00"
-"YMM","Large","Moderate","No",10.835,10.26,9.81,11.79,"Moderate","Strong Downtrend","Downtrend",10.88,12.09,-27.15,"Low Value Zone","True",4.36,0.5,"2025-08-04 10:57:00"
+"Symbol","MarketCap","FundamentalStrengthIndex","SP500 Stock","Price","BuyLimit","StopLossLimit","TakeProfitLimit","Health Rating","Micro Trend Rating","Macro Trend Rating","Support","Resistance","Reward to Risk Ratio","Price zone","Volume Surge","Risk (%)","EPS","UpdateTime","Fundamental Strength Index","Buy Limit","Stop Loss Limit","Take Profit Limit"
+"AAAU","ETF",NA,"No",33.32,32.99,32.19,33.49,"Moderate","Strong Downtrend","Mixed trend",32.52,33.7,0.48,"Elevated Zone - Price near resistance","False",1.98,NA,"2025-08-04 11:04:00",NA,32.99,32.19,33.49
+"AAL","Mid","Moderate","No",11.173,11.06,10.45,19.91,"Moderate","Strong Downtrend","Mixed trend",11.14,12.12,27.69,"Value Zone - Price near support","False",5.56,0.84,"2025-08-04 11:00:00","Moderate",11.06,10.45,19.91
+"AAPD","ETF",NA,"No",17.44,17.27,16.84,17.92,"Moderate","Mixed trend","Downtrend",17.01,18.14,1.66,"Price between support and resistance","False",2.49,NA,"2025-08-04 11:00:00",NA,17.27,16.84,17.92
+"AAPL","Large","Good","Yes",207.0294,204.86,198.41,212.62,"Moderate","Strong Downtrend","Mixed trend",201.51,214.52,1.36,"Price between support and resistance","False",3.15,6.6,"2025-08-04 11:00:00","Good",204.86,198.41,212.62
+"AAPU","ETF",NA,"No",22.07,21.39,20.04,23.38,"Moderate","Strong Downtrend","Mixed trend",21.18,23.62,1.74,"Price between support and resistance","False",6.29,NA,"2025-08-04 11:00:00",NA,21.39,20.04,23.38
+"ABBV","Large","Moderate","Yes",195.97,194.01,185.54,197.6,"Good","Mixed trend","Mixed trend",187.41,198.84,0.34,"Elevated Zone - Price near resistance","False",2.9,2.11,"2025-08-04 11:03:00","Moderate",194.01,185.54,197.6
+"ABT","Large","Good","Yes",129.29,127.35,124.65,130.6,"Moderate","Mixed trend","Mixed trend",125.91,132.08,0.83,"Price between support and resistance","False",1.84,7.97,"2025-08-04 11:03:00","Good",127.35,124.65,130.6
+"ACM","Large","Good","No",111.355,109.69,108.15,113.37,"Moderate","Strong Downtrend","Downtrend",109.64,115.2,2.24,"Value Zone - Price near support","False",1.4,4.67,"2025-08-04 10:59:00","Good",109.69,108.15,113.37
+"ADP","Large","Good","Yes",302.87,298.32,293.22,318.39,"Moderate","Mixed trend","Downtrend",300.02,317.75,5.22,"Value Zone - Price near support","False",1.71,9.97,"2025-08-04 11:03:00","Good",298.32,293.22,318.39
+"AGG","ETF",NA,"No",99.1,98.11,96.73,99.2,"Moderate","Downtrend","Downtrend",97.71,99.83,0.52,"Value Zone - Price near support","False",0.59,NA,"2025-08-04 11:04:00",NA,98.11,96.73,99.2
+"ALAB","Large","Moderate","No",139.79,138.39,113.17,139.78,"Moderate","Strong Downtrend","Uptrend",114.31,138.9,-0.03,"Balanced Zone: near resistance; breakout possible, watch for rejection","False",6.49,1.31,"2025-08-04 11:00:00","Moderate",138.39,113.17,139.78
+"AMD","Large","Moderate","Yes",175.9196,174.16,155.19,177.58,"Good","Strong Downtrend","Mixed trend",156.76,178.85,0.15,"Elevated Zone - Price near resistance","False",2.61,1.37,"2025-08-04 11:00:00","Moderate",174.16,155.19,177.58
+"AMDD","ETF",NA,"No",13.525,13.39,12.67,15.4,"Moderate","Strong Downtrend","Downtrend",14.51,16.74,-3.26,"Low Value Zone","False",5.41,NA,"2025-08-04 10:57:00",NA,13.39,12.67,15.4
+"AMUU","ETF",NA,"No",50.71,49.82,40.92,51.82,"Moderate","Strong Downtrend","Mixed trend",41.33,52.07,0.15,"Price between support and resistance","False",5.44,NA,"2025-08-04 11:00:00",NA,49.82,40.92,51.82
+"AMZD","ETF",NA,"No",11.24,10.94,10.47,11.23,"Moderate","Strong Downtrend","Mixed trend",10.58,11.4,0.24,"Elevated Zone - Price near resistance","False",3.33,NA,"2025-08-04 11:00:00",NA,10.94,10.47,11.23
+"AMZN","Large","Good","Yes",212.74,210.61,205.09,225.06,"Moderate","Mixed trend","Downtrend",215.1,231.62,-7.99,"Value Zone - Price near support","False",2.62,6.55,"2025-08-04 11:00:00","Good",210.61,205.09,225.06
+"AMZU","ETF",NA,"No",33.78,33.44,31.79,37.71,"Moderate","Strong Downtrend","Downtrend",35.12,40.11,-4.74,"Low Value Zone - Price below support","False",4.94,NA,"2025-08-04 11:00:00",NA,33.44,31.79,37.71
+"AU","Large","Good","No",51.98,49.92,45.91,50.76,"Good","Downtrend","Uptrend",46.37,50.91,-0.19,"High Value Zone: breakout above resistance; strong trend but watch for pullback","False",5.35,3.78,"2025-08-04 11:00:00","Good",49.92,45.91,50.76
+"AVGO","Large","Moderate","Yes",296.55,292.09,273.86,299.39,"Good","Mixed trend","Mixed trend",276.63,302.67,0.31,"Price between support and resistance","False",2.95,2.74,"2025-08-04 11:02:00","Moderate",292.09,273.86,299.39
+"AVL","ETF",NA,"No",44.26,43.82,38.72,45.52,"Moderate","Mixed trend","Mixed trend",39.11,45.83,0.3,"Price between support and resistance","False",6,NA,"2025-08-04 10:55:00",NA,43.82,38.72,45.52
+"AVS","ETF",NA,"No",12.0409,11.86,11.28,12.98,"-",NA,"Downtrend",12.29,13.57,-6.17,"Low Value Zone - Price below support","False",4.89,NA,"2025-08-04 10:57:00",NA,11.86,11.28,12.98
+"AXON","Large","Moderate","Yes",745.485,738.03,714.78,772.79,"Weak","Strong Downtrend","Downtrend",724.68,775.88,1.46,"Price between support and resistance","False",3.15,4.16,"2025-08-04 10:58:00","Moderate",738.03,714.78,772.79
+"BAC","Large","Moderate","Yes",45.87,45.41,44.53,49.81,"Moderate","Mixed trend","Downtrend",45.56,48.29,7.85,"Value Zone - Price near support","False",1.95,3.41,"2025-08-04 11:03:00","Moderate",45.41,44.53,49.81
+"BMRN","Large","Moderate","No",59.105,58.22,56.12,59.32,"Moderate","Strong Downtrend","Mixed trend",56.69,59.91,0.33,"Elevated Zone - Price near resistance","False",2.59,2.7,"2025-08-04 10:59:00","Moderate",58.22,56.12,59.32
+"BND","ETF",NA,"No",73.56,72.82,71.81,73.71,"Moderate","Mixed trend","Downtrend",72.54,74.1,0.53,"Value Zone - Price near support","False",0.55,NA,"2025-08-04 11:04:00",NA,72.82,71.81,73.71
+"BOEU","ETF",NA,"No",43.2949,42.62,40.92,54.8,"-","Uptrend","Downtrend",42.71,49.93,11.37,"Value Zone - Price near support","False",4,NA,"2025-08-04 11:00:00",NA,42.62,40.92,54.8
+"BRK.B","ETF",NA,"No",459.49,454.9,446.43,484.18,"Moderate","Strong Downtrend","Downtrend",468.38,490.54,-3.49,"Value Zone - Price near support","False",1.86,NA,"2025-08-04 11:00:00",NA,454.9,446.43,484.18
+"BRKR","Mid","Poor","No",33.985,33.55,31.52,34.09,"Moderate","Mixed trend","Downtrend",36.73,42.18,-2.98,"Low Value Zone","False",6.05,0.52,"2025-08-04 11:00:00","Poor",33.55,31.52,34.09
+"BRKU","ETF",NA,"No",22.19,21.97,21.11,24.5,"Moderate","Strong Downtrend","Downtrend",23.34,25.33,-2.73,"Low Value Zone","True",3.92,NA,"2025-08-04 11:00:00",NA,21.97,21.11,24.5
+"BWXT","Large","Moderate","No",153.27,150.66,139.27,152.63,"Moderate","Mixed trend","Uptrend",140.68,153.05,-0.02,"Balanced Zone: near resistance; breakout possible, watch for rejection","False",2.56,3.14,"2025-08-04 10:59:00","Moderate",150.66,139.27,152.63
+"CHAT","ETF",NA,"No",50.94,50.17,48.23,51.36,"Moderate","Strong Downtrend","Mixed trend",48.72,51.97,0.47,"Elevated Zone - Price near resistance","False",2.41,NA,"2025-08-04 11:01:00",NA,50.17,48.23,51.36
+"CNA","Large","Moderate","No",45.575,44.55,43.46,45.62,"Moderate","Downtrend","Mixed trend",43.9,46.03,0.27,"Elevated Zone - Price near resistance","False",1.81,3.28,"2025-08-04 10:58:00","Moderate",44.55,43.46,45.62
+"COMB","ETF",NA,"No",20.76,20.44,20.14,21.38,"-","Mixed trend","Mixed trend",20.77,21.56,-120.32,"Low Value Zone","False",1.49,NA,"2025-08-04 11:03:00",NA,20.44,20.14,21.38
+"CONY","ETF",NA,"No",7.3599,7.29,6.85,8.42,"Moderate","Strong Downtrend","Downtrend",7.88,9.22,-3.57,"Low Value Zone - Price below support","False",6.04,NA,"2025-08-04 11:02:00",NA,7.29,6.85,8.42
+"COST","Large","Good","Yes",951.535,942.02,927.51,979.8,"Weak","Mixed trend","Mixed trend",938.41,989.74,2.91,"Value Zone - Price near support","False",1.54,17.62,"2025-08-04 11:02:00","Good",942.02,927.51,979.8
+"CRBG","Large","Moderate","No",34.57,34.22,33.31,35.79,"Moderate","Mixed trend","Mixed trend",33.89,36.07,2.2,"Price between support and resistance","False",2.67,1.12,"2025-08-04 10:59:00","Moderate",34.22,33.31,35.79
+"CRM","Large","Good","Yes",252.82,250.29,242.31,265.72,"Weak","Mixed trend","Downtrend",254.07,272.03,-15.43,"Low Value Zone","False",3.19,6.39,"2025-08-04 11:03:00","Good",250.29,242.31,265.72
+"CSCO","Large","Good","Yes",68.2499,67.23,65.63,68.57,"Moderate","Mixed trend","Mixed trend",66.29,69.2,0.49,"Elevated Zone - Price near resistance","False",1.55,2.45,"2025-08-04 11:03:00","Good",67.23,65.63,68.57
+"CTRA","Large","Moderate","Yes",23.95,23.59,22.71,26.03,"Moderate","Strong Downtrend","Downtrend",23.65,25.21,4.25,"Value Zone - Price near support","False",3.72,1.71,"2025-08-04 10:59:00","Moderate",23.59,22.71,26.03
+"CURE","ETF",NA,"No",72.48,71.4,65.53,92.6,"Moderate","Mixed trend","Downtrend",71.49,78.78,6.35,"Value Zone - Price near support","False",8.21,NA,"2025-08-04 11:00:00",NA,71.4,65.53,92.6
+"CVX","Large","Good","Yes",151.185,149.67,146.19,155.44,"Good","Strong Downtrend","Downtrend",148.18,156.73,1.84,"Price between support and resistance","False",2.33,7.77,"2025-08-04 11:03:00","Good",149.67,146.19,155.44
+"DFEN","ETF",NA,"No",59.0558,57.24,52.41,59.34,"Moderate","Mixed trend","Mixed trend",52.94,60.1,0.17,"Elevated Zone - Price near resistance","False",4.54,NA,"2025-08-04 10:58:00",NA,57.24,52.41,59.34
+"DIA","ETF",NA,"No",440.91,436.5,427.93,445.08,"Good","Uptrend","Mixed trend",432.25,448.67,0.9,"Elevated Zone - Price near resistance","False",1.72,NA,"2025-08-04 11:03:00",NA,436.5,427.93,445.08
+"DPST","ETF",NA,"No",83.66,82.79,77.54,126.9,"Moderate","Strong Downtrend","Mixed trend",82.76,97.35,15.15,"Value Zone - Price near support","False",6.34,NA,"2025-08-04 11:00:00",NA,82.79,77.54,126.9
+"DRN","ETF",NA,"No",9.48,9.34,8.76,10.74,"Moderate","Strong Downtrend","Mixed trend",9.29,10.22,3.83,"Price between support and resistance","False",6.17,NA,"2025-08-04 11:00:00",NA,9.34,8.76,10.74
+"DRV","ETF",NA,"No",25.15,24.9,23.51,26.17,"Weak","Strong Downtrend","Downtrend",23.93,26.47,1.08,"Price between support and resistance","False",5.58,NA,"2025-08-04 10:59:00",NA,24.9,23.51,26.17
+"EDC","ETF",NA,"No",39.5764,39.18,37.65,41.29,"-","Mixed trend","Mixed trend",38.28,41.58,1.55,"Price between support and resistance","False",3.9,NA,"2025-08-04 11:00:00",NA,39.18,37.65,41.29
+"EDZ","ETF",NA,"No",5.32,5.24,4.89,6.59,"Moderate","Mixed trend","Downtrend",5.25,5.8,6.76,"Value Zone - Price near support","False",6.66,NA,"2025-08-04 11:01:00",NA,5.24,4.89,6.59
+"EEM","ETF",NA,"No",48.6,48.11,47.29,49.16,"Moderate","Strong Downtrend","Mixed trend",47.77,49.62,1.23,"Value Zone - Price near support","False",1.31,NA,"2025-08-04 11:02:00",NA,48.11,47.29,49.16
+"EHC","Large","Good","No",109.3,107.66,106.03,117.92,"Moderate","Mixed trend","Downtrend",108.74,114.66,9.56,"Value Zone - Price near support","False",1.51,4.86,"2025-08-04 10:59:00","Good",107.66,106.03,117.92
+"ELIL","ETF",NA,"No",17.5871,17.31,15.93,24.3,"-","Mixed trend","Downtrend",17.34,19.72,8.49,"Value Zone - Price near support","False",7.99,NA,"2025-08-04 10:53:00",NA,17.31,15.93,24.3
+"ENR","Small","Moderate","No",27.17,26.9,22.19,26.98,"Moderate","Mixed trend","Uptrend",22.41,25.95,-0.26,"Balanced Zone: near resistance; breakout possible, watch for rejection","False",4.02,0.74,"2025-08-04 11:00:00","Moderate",26.9,22.19,26.98
+"EQIX","Large","Moderate","Yes",777.185,765.52,750.9,818.15,"Moderate","Uptrend","Downtrend",778.94,836.34,-33.62,"Low Value Zone","False",1.91,10.19,"2025-08-04 11:03:00","Moderate",765.52,750.9,818.15
+"EQR","Large","Moderate","Yes",63.23,62.6,60.84,66.41,"Moderate","Strong Downtrend","Downtrend",63.28,67.52,-85.57,"Low Value Zone","False",2.81,2.62,"2025-08-04 10:59:00","Moderate",62.6,60.84,66.41
+"ETH","ETF",NA,"No",34.265,33.92,31.2,35.34,"Moderate","Strong Downtrend","Mixed trend",31.52,35.76,0.54,"Price between support and resistance","False",4.98,NA,"2025-08-04 11:02:00",NA,33.92,31.2,35.34
+"ETHA","ETF",NA,"No",27.54,27.18,25.06,28.32,"Good","Mixed trend","Mixed trend",25.31,28.75,0.54,"Price between support and resistance","False",4.82,NA,"2025-08-04 11:02:00",NA,27.18,25.06,28.32
+"EURL","ETF",NA,"No",31.7336,31.26,30.15,42.16,"-",NA,"Mixed trend",31.57,34.72,17.81,"Value Zone - Price near support","False",3.53,NA,"2025-08-04 11:00:00",NA,31.26,30.15,42.16
+"F","Large","Moderate","Yes",10.93,10.82,10.53,11.38,"Moderate","Mixed trend","Mixed trend",10.7,11.47,2.37,"Price between support and resistance","False",2.68,0.78,"2025-08-04 11:00:00","Moderate",10.82,10.53,11.38
+"FANG","Large","Good","Yes",146.81,144.61,139.69,151.32,"Good","Mixed trend","Mixed trend",142.51,153.07,1.46,"Price between support and resistance","False",3.4,16.08,"2025-08-04 10:59:00","Good",144.61,139.69,151.32
+"FAS","ETF",NA,"No",160.547,158.12,149.43,178.41,"Moderate","Uptrend","Mixed trend",157.32,172.3,3.64,"Price between support and resistance","False",5.49,NA,"2025-08-04 11:00:00",NA,158.12,149.43,178.41
+"FAZ","ETF",NA,"No",4.5848,4.54,4.3,4.8,"Moderate","Strong Downtrend","Downtrend",4.39,4.84,1.29,"Price between support and resistance","False",5.37,NA,"2025-08-04 11:01:00",NA,4.54,4.3,4.8
+"FBTC","ETF",NA,"No",100.0797,99.08,96.17,103.26,"Moderate","Mixed trend","Mixed trend",97.7,104.16,1.71,"Price between support and resistance","False",2.94,NA,"2025-08-04 11:02:00",NA,99.08,96.17,103.26
+"FENY","ETF",NA,"No",23.72,23.48,22.9,24.65,"Moderate","Strong Downtrend","Mixed trend",23.42,24.54,2.74,"Value Zone - Price near support","False",2.48,NA,"2025-08-04 11:04:00",NA,23.48,22.9,24.65
+"FGDL","ETF",NA,"No",44.96,44.51,43.46,45.28,"-",NA,"Mixed trend",43.9,45.57,0.57,"Elevated Zone - Price near resistance","False",2.02,NA,"2025-08-04 10:56:00",NA,44.51,43.46,45.28
+"FTGC","ETF",NA,"No",24.735,24.37,24.02,26.16,"Moderate","Mixed trend","Mixed trend",24.62,25.62,7.83,"Value Zone - Price near support","False",1.43,NA,"2025-08-04 11:04:00",NA,24.37,24.02,26.16
+"FUTU","Large","Moderate","No",148.565,144.11,136.43,157.29,"Moderate","Strong Downtrend","Mixed trend",139.72,163.43,1.68,"Price between support and resistance","False",5.33,5.95,"2025-08-04 11:00:00","Moderate",144.11,136.43,157.29
+"FXI","ETF",NA,"No",37.355,36.98,36.31,38.09,"Moderate","Strong Downtrend","Mixed trend",36.68,38.55,1.76,"Value Zone - Price near support","False",1.63,NA,"2025-08-04 11:02:00",NA,36.98,36.31,38.09
+"GBTC","ETF",NA,"No",90.16,89.26,86.66,93.15,"Moderate","Strong Downtrend","Mixed trend",88.08,93.88,1.79,"Buy signal generated - watch for recovery/decline","False",2.91,NA,"2025-08-04 11:02:00",NA,89.26,86.66,93.15
+"GDX","ETF",NA,"No",54.53,53.61,50.98,54.06,"Good","Mixed trend","Uptrend",51.5,54.23,-0.1,"High Value Zone: breakout above resistance; strong trend but watch for pullback","False",2.99,NA,"2025-08-04 11:04:00",NA,53.61,50.98,54.06
+"GE","Large","Good","Yes",274.2604,270.14,255.41,273.34,"Moderate","Strong Downtrend","Uptrend",257.99,274.72,0.03,"Elevated Zone - Price near resistance","False",2.22,7,"2025-08-04 11:03:00","Good",270.14,255.41,273.34
+"GGLL","ETF",NA,"No",41.27,40.86,37.82,42.15,"Moderate","Strong Downtrend","Mixed trend",38.2,42.38,0.36,"Price between support and resistance","False",4.69,NA,"2025-08-04 11:01:00",NA,40.86,37.82,42.15
+"GGLS","ETF",NA,"No",11.3,11.19,10.86,12.13,"Moderate","Downtrend","Downtrend",11.42,12.17,-7.35,"Value Zone - Price near support","False",2.89,NA,"2025-08-04 11:00:00",NA,11.19,10.86,12.13
+"GLD","ETF",NA,"No",310.8,307.69,300.22,312.14,"Moderate","Mixed trend","Mixed trend",303.25,314.33,0.47,"Elevated Zone - Price near resistance","False",1.97,NA,"2025-08-04 11:04:00",NA,307.69,300.22,312.14
+"GLDM","ETF",NA,"No",66.8299,66.16,64.55,67.13,"Moderate","Mixed trend","Mixed trend",65.2,67.57,0.46,"Elevated Zone - Price near resistance","False",1.98,NA,"2025-08-04 11:04:00",NA,66.16,64.55,67.13
+"GOOGL","Large","Good","Yes",193.6271,189.62,182.93,193.89,"Good","Mixed trend","Mixed trend",184.78,196.53,0.33,"Elevated Zone - Price near resistance","False",2.31,9.38,"2025-08-04 11:02:00","Good",189.62,182.93,193.89
+"GTM","Large","Poor","No",10.385,10.22,9.85,11.19,"Moderate","Mixed trend","Mixed trend",10.13,11.24,3.34,"Price between support and resistance","False",3.7,0.12,"2025-08-04 10:59:00","Poor",10.22,9.85,11.19
+"HD","Large","Good","Yes",380.75,375.04,360.48,379.85,"Good","Uptrend","Uptrend",364.12,381.24,0.03,"Elevated Zone - Price near resistance","False",2.02,14.72,"2025-08-04 11:03:00","Good",375.04,360.48,379.85
+"HGER","ETF",NA,"No",24.46,24.09,23.75,24.97,"-","Mixed trend","Mixed trend",24.22,25.14,2.81,"Value Zone - Price near support","False",1.43,NA,"2025-08-04 11:02:00",NA,24.09,23.75,24.97
+"HIBL","ETF",NA,"No",48.24,47.52,43.88,50.38,"-","Mixed trend","Mixed trend",44.32,51.3,0.78,"Price between support and resistance","False",7.09,NA,"2025-08-04 11:00:00",NA,47.52,43.88,50.38
+"HIMS","Large","Moderate","No",64.37,63.73,55.02,66.71,"Moderate","Strong Downtrend","Mixed trend",55.58,67.42,0.35,"Price between support and resistance","False",6.01,0.68,"2025-08-04 10:59:00","Moderate",63.73,55.02,66.71
+"HOOD","Large","Moderate","No",102.4699,99.26,91.82,105.2,"Good","Strong Downtrend","Mixed trend",92.75,108.53,0.62,"Price between support and resistance","False",3.65,1.97,"2025-08-04 11:00:00","Moderate",99.26,91.82,105.2
+"HYG","ETF",NA,"No",80.145,79.34,78.53,80.47,"Moderate","Uptrend","Mixed trend",79.32,81.01,1.05,"Value Zone - Price near support","False",0.53,NA,"2025-08-04 11:02:00",NA,79.34,78.53,80.47
+"IAUM","ETF",NA,"No",33.64,33.3,32.5,33.81,"Moderate","Mixed trend","Mixed trend",32.83,34.03,0.48,"Elevated Zone - Price near resistance","False",1.99,NA,"2025-08-04 11:04:00",NA,33.3,32.5,33.81
+"IBIT","ETF",NA,"No",65.13,64.48,62.57,67.23,"Good","Downtrend","Mixed trend",63.59,67.82,1.75,"Price between support and resistance","False",2.96,NA,"2025-08-04 11:02:00",NA,64.48,62.57,67.23
+"IBM","Large","Good","Yes",249.625,247.13,241.49,265.31,"Moderate","Uptrend","Downtrend",255.39,273.74,-4.18,"Low Value Zone","False",2.28,6.2,"2025-08-04 11:03:00","Good",247.13,241.49,265.31
+"IDXX","Large","Good","Yes",679.335,592.49,532.51,631.93,"Excellent","Mixed trend","Uptrend",537.89,618.84,-0.43,"High Value Zone: breakout above resistance; strong trend but watch for pullback","True",1.55,10.82,"2025-08-04 10:59:00","Good",592.49,532.51,631.93
+"IEFA","ETF",NA,"No",82.5561,81.73,80.57,83.65,"Moderate","Downtrend","Mixed trend",81.38,84.48,1.64,"Value Zone - Price near support","False",1.23,NA,"2025-08-04 11:04:00",NA,81.73,80.57,83.65
+"ITOT","ETF",NA,"No",137.49,135.43,133.01,138.01,"Moderate","Mixed trend","Mixed trend",134.35,139.65,0.69,"Elevated Zone - Price near resistance","False",1.71,NA,"2025-08-04 11:03:00",NA,135.43,133.01,138.01
+"ITW","Large","Good","Yes",254.97,251.14,246.72,258.15,"Moderate","Uptrend","Mixed trend",249.21,261.86,1.2,"Price between support and resistance","False",1.61,11.38,"2025-08-04 11:03:00","Good",251.14,246.72,258.15
+"IWM","ETF",NA,"No",217.655,215.48,211.02,221.69,"Good","Mixed trend","Mixed trend",213.15,224.32,1.48,"Price between support and resistance","False",2.01,NA,"2025-08-04 11:02:00",NA,215.48,211.02,221.69
+"IWY","ETF",NA,"No",254.32,251.78,244.52,257.6,"Moderate","Mixed trend","Mixed trend",246.99,258.97,0.63,"Elevated Zone - Price near resistance","False",1.65,NA,"2025-08-04 11:02:00",NA,251.78,244.52,257.6
+"IXUS","ETF",NA,"No",77.15,76.38,75.19,78.04,"Moderate","Strong Downtrend","Mixed trend",75.95,78.79,1.36,"Value Zone - Price near support","False",1.14,NA,"2025-08-04 11:03:00",NA,76.38,75.19,78.04
+"JNJ","Large","Good","Yes",168.84,166.3,160.36,168.86,"Good","Uptrend","Uptrend",161.98,170.11,0.18,"Elevated Zone - Price near resistance","False",1.5,9.34,"2025-08-04 11:03:00","Good",166.3,160.36,168.86
+"JNUG","ETF",NA,"No",77.18,76.41,71.35,81.2,"Weak","Strong Downtrend","Mixed trend",73.02,81.28,0.99,"Price between support and resistance","False",6.62,NA,"2025-08-04 11:01:00",NA,76.41,71.35,81.2
+"JPM","Large","Good","Yes",293.07,288.67,280.58,295.8,"Moderate","Mixed trend","Mixed trend",283.41,299.77,0.69,"Price between support and resistance","False",1.51,19.5,"2025-08-04 11:02:00","Good",288.67,280.58,295.8
+"KGC","Large","Good","No",17.0201,16.34,15.37,16.68,"Good","Mixed trend","Uptrend",15.53,16.78,-0.16,"High Value Zone: breakout above resistance; strong trend but watch for pullback","False",3.73,1.24,"2025-08-04 11:00:00","Good",16.34,15.37,16.68
+"KLAC","Large","Good","Yes",905.21,896.16,851.82,921.34,"Moderate","Mixed trend","Mixed trend",860.42,929.99,0.55,"Price between support and resistance","False",3.75,30.41,"2025-08-04 11:03:00","Good",896.16,851.82,921.34
+"KOLD","ETF",NA,"No",34.42,31.87,28.1,32.76,"Good","Mixed trend","Uptrend",28.38,33.25,-0.19,"High Value Zone: breakout above resistance; strong trend but watch for pullback","False",10.26,NA,"2025-08-04 11:02:00",NA,31.87,28.1,32.76
+"KORU","ETF",NA,"No",79.98,79.18,73.69,83.61,"Moderate","Strong Downtrend","Mixed trend",75.03,84.55,0.92,"Price between support and resistance","False",6.93,NA,"2025-08-04 11:01:00",NA,79.18,73.69,83.61
+"KSPI","Large","Good","No",83.87,80.79,77.43,83.8,"Moderate","Strong Downtrend","Mixed trend",78.31,85.54,0.3,"Elevated Zone - Price near resistance","False",4.16,10.25,"2025-08-04 10:59:00","Good",80.79,77.43,83.8
+"L","Large","Good","Yes",92.92,91.19,88.22,92.48,"Moderate","Strong Downtrend","Uptrend",89.11,92.66,-0.07,"High Value Zone: breakout above resistance; strong trend but watch for pullback","False",1.57,6.1,"2025-08-04 10:59:00","Good",91.19,88.22,92.48
+"LABU","ETF",NA,"No",60.02,59.42,54.89,77.27,"Moderate","Strong Downtrend","Downtrend",59.12,66.19,6.84,"Value Zone - Price near support","False",7.63,NA,"2025-08-04 11:01:00",NA,59.42,54.89,77.27
+"LIN","Large","Good","Yes",467.14,460.14,448.8,469.82,"Moderate","Mixed trend","Downtrend",453.33,474.17,0.51,"Elevated Zone - Price near resistance","False",1.48,14.06,"2025-08-04 11:03:00","Good",460.14,448.8,469.82
+"LLY","Large","Good","Yes",757.69,750.11,719.43,849.36,"Moderate","Strong Downtrend","Downtrend",748.73,803.89,5.16,"Value Zone - Price near support","False",4.09,12.27,"2025-08-04 11:02:00","Good",750.11,719.43,849.36
+"LYFT","Mid","Poor","No",13.962,13.82,13.31,20.96,"Moderate","Strong Downtrend","Downtrend",13.92,14.98,26.08,"Value Zone - Price near support","False",3.74,0.15,"2025-08-04 11:00:00","Poor",13.82,13.31,20.96
+"MA","Large","Good","Yes",567,561.33,549.11,576.09,"Moderate","Uptrend","Mixed trend",554.66,581.56,1.18,"Price between support and resistance","False",1.99,14.84,"2025-08-04 11:03:00","Good",561.33,549.11,576.09
+"MCD","Large","Moderate","Yes",306.02,301.43,293.42,306.67,"Good","Uptrend","Uptrend",296.38,309.33,0.34,"Elevated Zone - Price near resistance","False",1.43,11.33,"2025-08-04 11:03:00","Moderate",301.43,293.42,306.67
+"MELI","Large","Good","No",2373.2325,2349.5,2287,2649.73,"Weak","Strong Downtrend","Downtrend",2359.44,2482.6,7.93,"Value Zone - Price near support","False",2.66,40.63,"2025-08-04 10:59:00","Good",2349.5,2287,2649.73
+"META","Large","Good","Yes",766.32,758.5,701.42,771.15,"Good","Mixed trend","Uptrend",708.5,776.05,0.17,"Elevated Zone - Price near resistance","False",2.56,27.53,"2025-08-04 11:02:00","Good",758.5,701.42,771.15
+"METD","ETF",NA,"No",13.99,13.85,13.26,15.1,"Moderate","Strong Downtrend","Downtrend",14.24,15.74,-7.11,"Value Zone - Price near support","False",4.24,NA,"2025-08-04 11:01:00",NA,13.85,13.26,15.1
+"METU","ETF",NA,"No",47.71,47.23,41.29,48.45,"Moderate","Uptrend","Mixed trend",41.71,48.71,0.17,"Price between support and resistance","False",5.22,NA,"2025-08-04 11:01:00",NA,47.23,41.29,48.45
+"MEXX","ETF",NA,"No",16.25,16,15.22,24.62,"-","Mixed trend","Downtrend",16.18,17.69,20,"Value Zone - Price near support","False",4.93,NA,"2025-08-04 11:01:00",NA,16,15.22,24.62
+"MIDU","ETF",NA,"No",45.65,44.97,42.63,48.37,"-","Mixed trend","Mixed trend",43.9,48.63,1.7,"Price between support and resistance","False",5.19,NA,"2025-08-04 11:00:00",NA,44.97,42.63,48.37
+"MRK","Large","Good","Yes",78.94,78.15,74.93,87,"Moderate","Uptrend","Downtrend",77.87,83.64,4.4,"Value Zone - Price near support","False",4.12,6.49,"2025-08-04 11:03:00","Good",78.15,74.93,87
+"MSFD","ETF",NA,"No",10.4999,10.39,10.15,11.12,"Moderate","Downtrend","Downtrend",10.55,11.38,-18.74,"Low Value Zone","False",2.32,NA,"2025-08-04 10:59:00",NA,10.39,10.15,11.12
+"MSFT","Large","Good","Yes",534.33,527.43,500.22,542.11,"Good","Strong Downtrend","Mixed trend",505.27,548.75,0.5,"Price between support and resistance","False",1.22,13.63,"2025-08-04 11:02:00","Good",527.43,500.22,542.11
+"MSFU","ETF",NA,"No",56.6801,55.3,50.95,58.08,"Moderate","Strong Downtrend","Mixed trend",51.46,59.36,0.51,"Price between support and resistance","False",2.6,NA,"2025-08-04 11:01:00",NA,55.3,50.95,58.08
+"MSTU","ETF",NA,"No",7.1999,6.95,5.92,8.25,"Moderate","Mixed trend","Mixed trend",7.22,8.91,-77.3,"Low Value Zone","False",14.86,NA,"2025-08-04 11:02:00",NA,6.95,5.92,8.25
+"MSTY","ETF",NA,"No",18.535,18.16,16.93,20.26,"Moderate","Mixed trend","Downtrend",18.9,21.32,-7.73,"Low Value Zone","False",6.76,NA,"2025-08-04 11:02:00",NA,18.16,16.93,20.26
+"MUFG","Large","Moderate","No",13.7397,13.6,13.25,22.65,"Moderate","Mixed trend","Downtrend",13.72,14.53,49.19,"Value Zone - Price near support","False",2.61,1.06,"2025-08-04 10:59:00","Moderate",13.6,13.25,22.65
+"MUU","ETF",NA,"No",17.93,17.52,16.1,196255.43,"Moderate","Mixed trend","Downtrend",17.93,21.38,275879.93,"Low Value Zone","False",8.12,NA,"2025-08-04 11:01:00",NA,17.52,16.1,196255.43
+"NAIL","ETF",NA,"No",64.31,63.27,56.99,66.09,"Moderate","Mixed trend","Mixed trend",57.57,66.74,0.36,"Price between support and resistance","False",8.48,NA,"2025-08-04 11:01:00",NA,63.27,56.99,66.09
+"NFLX","Large","Good","Yes",1164.79,1153.14,1122.58,1219.83,"Weak","Strong Downtrend","Downtrend",1167.01,1237.82,-32.86,"Value Zone - Price near support","False",2.65,23.52,"2025-08-04 11:03:00","Good",1153.14,1122.58,1219.83
+"NFXL","ETF",NA,"No",54.41,53.87,51.03,59.5,"Weak","Strong Downtrend","Downtrend",55.56,61.77,-6.38,"Low Value Zone - Price below support","False",5.27,NA,"2025-08-04 11:01:00",NA,53.87,51.03,59.5
+"NFXS","ETF",NA,"No",14.4099,14.2,13.72,14.47,"Moderate","Uptrend","Mixed trend",13.86,14.58,0.3,"Elevated Zone - Price near resistance","False",2.52,NA,"2025-08-04 10:55:00",NA,14.2,13.72,14.47
+"NOW","Large","Moderate","Yes",921.25,907.43,879.75,974.73,"Moderate","Uptrend","Downtrend",935.35,1005.63,-5.99,"Low Value Zone","False",3.05,7.96,"2025-08-04 11:03:00","Moderate",907.43,879.75,974.73
+"NVDA","Large","Moderate","Yes",177.31,175.33,164.09,179.46,"Good","Strong Downtrend","Mixed trend",165.75,181.19,0.34,"Price between support and resistance","False",2.92,3.09,"2025-08-04 11:00:00","Moderate",175.33,164.09,179.46
+"NVDD","ETF",NA,"No",4.1501,4.11,3.94,4.5,"Moderate","Uptrend","Downtrend",4.25,4.7,-5.75,"Low Value Zone - Price below support","False",4.2,NA,"2025-08-04 11:01:00",NA,4.11,3.94,4.5
+"NVDU","ETF",NA,"No",122.9485,120.34,108.07,125.63,"Moderate","Strong Downtrend","Mixed trend",109.16,127.49,0.33,"Price between support and resistance","False",6.06,NA,"2025-08-04 11:01:00",NA,120.34,108.07,125.63
+"OKE","Large","Good","Yes",79.8,79,76.23,84.79,"Good","Mixed trend","Mixed trend",78.69,83.23,3.09,"Value Zone - Price near support","False",3.51,5.12,"2025-08-04 10:59:00","Good",79,76.23,84.79
+"ON","Large","Moderate","Yes",50.69,50.18,46.67,58.01,"Moderate","Strong Downtrend","Downtrend",53.65,60.62,-3.36,"Low Value Zone - Price below support","False",7,1.44,"2025-08-04 10:59:00","Moderate",50.18,46.67,58.01
+"ORCL","Large","Moderate","Yes",250.4439,247.94,230.5,254.88,"Moderate","Mixed trend","Mixed trend",232.83,257.14,0.38,"Price between support and resistance","False",2.7,4.35,"2025-08-04 11:03:00","Moderate",247.94,230.5,254.88
+"PALU","ETF",NA,"No",18.1166,17.94,16.06,22.15,"Weak","Strong Downtrend","Downtrend",20,24.7,-3.49,"Buy signal generated - watch for further decline","False",10.44,NA,"2025-08-04 10:56:00",NA,17.94,16.06,22.15
+"PG","Large","Good","Yes",150.73,148.47,145.65,158,"Moderate","Uptrend","Downtrend",151.74,160.7,-9.89,"Low Value Zone","False",1.9,6.51,"2025-08-04 11:03:00","Good",148.47,145.65,158
+"PILL","ETF",NA,"No",5.4914,5.41,5.07,6.49,"-","Mixed trend","Downtrend",5.36,6.04,4.03,"Price between support and resistance","False",6.3,NA,"2025-08-04 10:54:00",NA,5.41,5.07,6.49
+"PLTD","ETF",NA,"No",8.0299,7.95,7.38,8.7,"Moderate","Uptrend","Downtrend",8.25,9.12,-5.04,"Low Value Zone - Price below support","False",7.13,NA,"2025-08-04 11:01:00",NA,7.95,7.38,8.7
+"PLTR","Large","Moderate","Yes",158.88,157.29,145.32,159.1,"Good","Strong Downtrend","Uptrend",146.79,159.86,0.08,"Elevated Zone - Price near resistance","False",4.14,0.23,"2025-08-04 10:59:00","Moderate",157.29,145.32,159.1
+"PLTU","ETF",NA,"No",81.48,80.67,70.25,82.11,"Moderate","Strong Downtrend","Mixed trend",70.96,82.25,0.07,"Balanced Zone: near resistance; breakout possible, watch for rejection","False",8.34,NA,"2025-08-04 11:01:00",NA,80.67,70.25,82.11
+"PM","Large","Moderate","Yes",163.385,161.75,158.13,179.73,"Moderate","Mixed trend","Mixed trend",162.24,172.52,7.99,"Value Zone - Price near support","False",2.24,6.76,"2025-08-04 11:03:00","Moderate",161.75,158.13,179.73
+"PTIR","ETF",NA,"No",25.8596,25.6,22.69,43.08,"Moderate","Strong Downtrend","Downtrend",61.15,108.35,-2.34,"Buy signal generated - watch for further decline","False",11.39,NA,"2025-08-04 11:02:00",NA,25.6,22.69,43.08
+"QCOM","Large","Good","Yes",147.81,146.33,142.53,156.31,"Moderate","Mixed trend","Downtrend",148.23,159.7,-28.39,"Value Zone - Price near support","False",2.6,10.36,"2025-08-04 11:03:00","Good",146.33,142.53,156.31
+"QLD","ETF",NA,"No",121.3247,120.11,115.23,123.81,"Good","Mixed trend","Mixed trend",116.39,125.14,0.77,"Price between support and resistance","False",3.72,NA,"2025-08-04 11:02:00",NA,120.11,115.23,123.81
+"QQQ","ETF",NA,"No",562.015,556.39,542.39,567.54,"Good","Strong Downtrend","Mixed trend",547.87,572.59,0.75,"Elevated Zone - Price near resistance","False",1.8,NA,"2025-08-04 11:02:00",NA,556.39,542.39,567.54
+"REMX","ETF",NA,"No",50.7,50.19,46.99,52.8,"Moderate","Strong Downtrend","Mixed trend",47.46,53.43,0.84,"Price between support and resistance","False",2.99,NA,"2025-08-04 11:02:00",NA,50.19,46.99,52.8
+"RETL","ETF",NA,"No",7.9899,7.84,7.34,8.79,"Moderate","Strong Downtrend","Mixed trend",7.66,8.83,2.57,"Price between support and resistance","False",6.33,NA,"2025-08-04 11:00:00",NA,7.84,7.34,8.79
+"RH","Mid","Moderate","No",214.8799,206.34,192.33,214.26,"Good","Uptrend","Mixed trend",194.27,217.55,0.13,"Elevated Zone - Price near resistance","False",5.74,4.22,"2025-08-04 11:00:00","Moderate",206.34,192.33,214.26
+"SBAC","Large","Moderate","Yes",228.69,225.26,221.36,235.95,"Weak","Strong Downtrend","Mixed trend",225.3,238.5,2.89,"Value Zone - Price near support","False",1.73,7.57,"2025-08-04 10:59:00","Moderate",225.26,221.36,235.95
+"SCHB","ETF",NA,"No",24.2612,24.02,23.46,24.47,"Moderate","Mixed trend","Mixed trend",23.7,24.65,0.69,"Elevated Zone - Price near resistance","False",1.64,NA,"2025-08-04 11:03:00",NA,24.02,23.46,24.47
+"SCHD","ETF",NA,"No",26.5294,26.26,25.84,27.19,"Moderate","Downtrend","Mixed trend",26.25,27.3,2.74,"Value Zone - Price near support","False",1.61,NA,"2025-08-04 11:04:00",NA,26.26,25.84,27.19
+"SCHH","ETF",NA,"No",21.047,20.74,20.33,21.52,"Moderate","Mixed trend","Mixed trend",20.78,21.65,2.23,"Value Zone - Price near support","False",1.93,NA,"2025-08-04 11:04:00",NA,20.74,20.33,21.52
+"SCO","ETF",NA,"No",16.5,16.34,15.3,18,"Moderate","Mixed trend","Mixed trend",15.84,18.01,2.3,"Price between support and resistance","False",6.31,NA,"2025-08-04 11:02:00",NA,16.34,15.3,18
+"SCS","Small","Good","No",16.685,14.22,10.63,14.37,"Good","Mixed trend","Uptrend",10.74,13.69,-0.5,"High Value Zone: breakout above resistance; strong trend but watch for pullback","True",3.56,1.04,"2025-08-04 11:00:00","Good",14.22,10.63,14.37
+"SDCI","ETF",NA,"No",21.68,21.36,21.04,22.39,"-","Mixed trend","Mixed trend",21.48,22.41,3.6,"Value Zone - Price near support","False",1.46,NA,"2025-08-04 10:57:00",NA,21.36,21.04,22.39
+"SEZL","Mid","Moderate","No",151.7001,150.18,135.01,159.99,"Moderate","Strong Downtrend","Mixed trend",136.37,162.75,0.72,"Price between support and resistance","False",7.06,2.97,"2025-08-04 11:00:00","Moderate",150.18,135.01,159.99
+"SGOL","ETF",NA,"No",32.185,31.86,31.09,32.34,"Moderate","Mixed trend","Mixed trend",31.4,32.54,0.46,"Elevated Zone - Price near resistance","False",1.99,NA,"2025-08-04 11:04:00",NA,31.86,31.09,32.34
+"SMCI","Large","Moderate","Yes",58.7805,57.88,51.54,59.68,"Good","Strong Downtrend","Mixed trend",52.06,60.47,0.25,"Price between support and resistance","False",6.33,1.84,"2025-08-04 11:00:00","Moderate",57.88,51.54,59.68
+"SOFI","Large","Poor","No",21.115,20.9,19.68,23.24,"Moderate","Strong Downtrend","Downtrend",19.88,23.96,2.31,"Price between support and resistance","False",3.65,0.5,"2025-08-04 11:00:00","Poor",20.9,19.68,23.24
+"SOXL","ETF",NA,"No",24.69,24.44,22.58,26.71,"Moderate","Strong Downtrend","Mixed trend",23.11,27.15,1.56,"Buy signal generated - watch for recovery/decline","False",7.61,NA,"2025-08-04 11:01:00",NA,24.44,22.58,26.71
+"SOXS","ETF",NA,"No",7.8,7.72,6.84,13.78,"Moderate","Strong Downtrend","Downtrend",7.64,9.75,12.43,"Price between support and resistance","False",11.46,NA,"2025-08-04 11:01:00",NA,7.72,6.84,13.78
+"SPDN","ETF",NA,"No",10.19,10.09,9.88,10.93,"Moderate","Mixed trend","Downtrend",10.13,10.59,6.57,"Value Zone - Price near support","False",2.07,NA,"2025-08-04 11:01:00",NA,10.09,9.88,10.93
+"SPG","Large","Good","Yes",162.845,160.4,157.07,165.69,"Moderate","Strong Downtrend","Mixed trend",159.71,167.64,1.53,"Value Zone - Price near support","False",2.07,6.28,"2025-08-04 10:59:00","Good",160.4,157.07,165.69
+"SPOT","Large","Moderate","No",665.49,658.84,631.45,697.32,"Moderate","Mixed trend","Downtrend",637.83,705.48,1.45,"Price between support and resistance","False",4.11,4.39,"2025-08-04 11:00:00","Moderate",658.84,631.45,697.32
+"SPXL","ETF",NA,"No",180.7383,178.93,170.02,185.36,"Moderate","Strong Downtrend","Mixed trend",172.26,187.24,0.77,"Price between support and resistance","False",4.98,NA,"2025-08-04 11:01:00",NA,178.93,170.02,185.36
+"SPY","ETF",NA,"No",629.24,622.95,608.79,633.87,"Good","Mixed trend","Mixed trend",614.94,639.12,0.69,"Elevated Zone - Price near resistance","False",1.64,NA,"2025-08-04 11:02:00",NA,622.95,608.79,633.87
+"T","Large","Good","Yes",27.67,27.39,26.78,28.11,"Moderate","Mixed trend","Downtrend",27.05,28.38,1.14,"Price between support and resistance","False",2.24,1.75,"2025-08-04 11:03:00","Good",27.39,26.78,28.11
+"TECL","ETF",NA,"No",101.48,100.47,93.24,105.14,"Moderate","Strong Downtrend","Mixed trend",94.18,106.4,0.67,"Price between support and resistance","False",5.64,NA,"2025-08-04 11:01:00",NA,100.47,93.24,105.14
+"TGTX","Mid","Poor","No",28.7957,28.51,27.19,29.91,"Weak","Strong Downtrend","Downtrend",33.42,37.51,-1.89,"Low Value Zone - Price below support","True",4.62,0.25,"2025-08-04 11:00:00","Poor",28.51,27.19,29.91
+"TLT","ETF",NA,"No",87.85,86.97,84.96,87.95,"Moderate","Strong Downtrend","Downtrend",85.82,88.48,0.31,"Elevated Zone - Price near resistance","False",1.38,NA,"2025-08-04 11:02:00",NA,86.97,84.96,87.95
+"TMDX","Mid","Moderate","No",129.665,127.66,111.28,130.46,"Moderate","Uptrend","Mixed trend",112.4,129.73,0,"Elevated Zone - Price near resistance","False",3.54,1.99,"2025-08-04 11:00:00","Moderate",127.66,111.28,130.46
+"TMF","ETF",NA,"No",38.995,38.56,36.48,39.02,"Moderate","Mixed trend","Downtrend",36.85,39.2,0.1,"Elevated Zone - Price near resistance","False",4.23,NA,"2025-08-04 11:01:00",NA,38.56,36.48,39.02
+"TNA","ETF",NA,"No",33.71,33.22,31.2,36.52,"Moderate","Mixed trend","Mixed trend",32.42,36.61,2.24,"Price between support and resistance","False",6.08,NA,"2025-08-04 11:01:00",NA,33.22,31.2,36.52
+"TQQQ","ETF",NA,"No",86.5436,85.63,80.75,89.27,"Good","Mixed trend","Mixed trend",81.83,90.43,0.82,"Price between support and resistance","False",5.7,NA,"2025-08-04 11:02:00",NA,85.63,80.75,89.27
+"TSEM","Mid","Moderate","No",48.97,46.27,43.22,47.96,"Moderate","Mixed trend","Uptrend",43.66,48.52,-0.09,"High Value Zone: breakout above resistance; strong trend but watch for pullback","False",2.91,1.8,"2025-08-04 11:00:00","Moderate",46.27,43.22,47.96
+"TSLA","Large","Moderate","No",304.42,301.38,284.05,1904.95,"Moderate","Strong Downtrend","Downtrend",304.26,334.43,183.91,"Value Zone - Price near support","False",5.75,1.69,"2025-08-04 11:00:00","Moderate",301.38,284.05,1904.95
+"TSLL","ETF",NA,"No",10.455,10.35,9.15,12,"Moderate","Mixed trend","Downtrend",10.67,13.02,-11.88,"Low Value Zone - Price below support","False",11.6,NA,"2025-08-04 11:01:00",NA,10.35,9.15,12
+"TSLS","ETF",NA,"No",8.0285,7.86,7.33,8.32,"Moderate","Strong Downtrend","Downtrend",7.6,8.42,0.91,"Price between support and resistance","False",6.78,NA,"2025-08-04 11:01:00",NA,7.86,7.33,8.32
+"TSMX","ETF",NA,"No",34.965,34.62,32.85,36.69,"Moderate","Mixed trend","Mixed trend",33.18,37.31,1.31,"Price between support and resistance","False",4.93,NA,"2025-08-04 10:58:00",NA,34.62,32.85,36.69
+"TSMZ","ETF",NA,"No",16.2,15.96,15.32,28.45,"-","Mixed trend","Downtrend",16.17,17.5,37.76,"Value Zone - Price near support","False",3.99,NA,"2025-08-04 10:26:00",NA,15.96,15.32,28.45
+"TSN","Large","Moderate","Yes",54.56,53.95,51.98,55.09,"Moderate","Strong Downtrend","Mixed trend",52.51,55.31,0.36,"Elevated Zone - Price near resistance","False",1.57,2.57,"2025-08-04 10:59:00","Moderate",53.95,51.98,55.09
+"TT","Large","Good","Yes",437.42,433.05,425.24,458.15,"Moderate","Strong Downtrend","Downtrend",429.54,466.26,3.66,"Value Zone - Price near support","False",1.42,12.69,"2025-08-04 11:03:00","Good",433.05,425.24,458.15
+"TYD","ETF",NA,"No",25.43,25.18,24.32,25.53,"-","Strong Downtrend","Downtrend",24.57,25.62,0.22,"Balanced Zone: near resistance; breakout possible, watch for rejection","False",1.91,NA,"2025-08-04 10:50:00",NA,25.18,24.32,25.53
+"TZA","ETF",NA,"No",11.565,11.45,10.69,13.01,"Moderate","Strong Downtrend","Downtrend",11.13,12.88,3.02,"Price between support and resistance","False",6.6,NA,"2025-08-04 11:01:00",NA,11.45,10.69,13.01
+"UBOT","ETF",NA,"No",23.05,22.7,21.47,23.48,"-",NA,"Mixed trend",21.69,23.8,0.56,"Price between support and resistance","False",3.44,NA,"2025-08-04 10:44:00",NA,22.7,21.47,23.48
+"ULTY","ETF",NA,"No",6.0688,6.01,5.85,6.43,"Moderate","Mixed trend","Downtrend",6.01,6.31,4.13,"Value Zone - Price near support","False",2.59,NA,"2025-08-04 11:02:00",NA,6.01,5.85,6.43
+"UNH","Large","Good","Yes",240.54,238.13,223.04,266.45,"Moderate","Strong Downtrend","Downtrend",252.57,283.93,-3.61,"Low Value Zone","False",6.34,23.11,"2025-08-04 11:03:00","Good",238.13,223.04,266.45
+"UNIT","Small","Poor","No",8.08,7.1,5.05,7.4,"Moderate","Mixed trend","Uptrend",5.1,6.85,-0.41,"High Value Zone: breakout above resistance; strong trend but watch for pullback","False",4.55,0.13,"2025-08-04 11:00:00","Poor",7.1,5.05,7.4
+"UTSL","ETF",NA,"No",43.89,43.16,38.86,43.54,"Good","Strong Downtrend","Uptrend",39.25,43.52,-0.08,"High Value Zone: breakout above resistance; strong trend but watch for pullback","False",4.28,NA,"2025-08-04 11:01:00",NA,43.16,38.86,43.54
+"V","Large","Good","Yes",343.19,338.04,330.17,375.9,"Moderate","Mixed trend","Downtrend",341.02,359.96,7.72,"Value Zone - Price near support","False",2.33,10.25,"2025-08-04 11:02:00","Good",338.04,330.17,375.9
+"VCIT","ETF",NA,"No",83.0871,82.26,81.02,83.15,"Moderate","Mixed trend","Mixed trend",81.84,83.69,0.48,"Value Zone - Price near support","False",0.66,NA,"2025-08-04 11:02:00",NA,82.26,81.02,83.15
+"VEA","ETF",NA,"No",56.6384,56.07,55.17,57.64,"Moderate","Strong Downtrend","Mixed trend",55.73,57.87,1.34,"Value Zone - Price near support","False",1.24,NA,"2025-08-04 11:04:00",NA,56.07,55.17,57.64
+"VFC","Mid","Poor","No",12.525,12.4,11.43,14.16,"Moderate","Strong Downtrend","Mixed trend",11.74,14.24,2.17,"Price between support and resistance","False",7.86,0.27,"2025-08-04 11:00:00","Poor",12.4,11.43,14.16
+"VGT","ETF",NA,"No",687.03,676.72,657.87,693.5,"Moderate","Strong Downtrend","Mixed trend",664.52,701.31,0.63,"Price between support and resistance","False",2,NA,"2025-08-04 11:04:00",NA,676.72,657.87,693.5
+"VMC","Large","Good","Yes",283.06,280.23,262.73,281.32,"Good","Mixed trend","Uptrend",265.38,281.11,-0.11,"Buy signal generated - good momentum","False",1.79,7.2,"2025-08-04 11:03:00","Good",280.23,262.73,281.32
+"VNOM","Large","Good","No",37.04,36.45,35.07,41.97,"Moderate","Mixed trend","Downtrend",36.67,39.46,6.44,"Value Zone - Price near support","False",3.81,3.95,"2025-08-04 10:59:00","Good",36.45,35.07,41.97
+"VNQ","ETF",NA,"No",89.67,88.77,86.93,91.27,"Moderate","Mixed trend","Mixed trend",88.22,91.85,1.51,"Value Zone - Price near support","False",2.08,NA,"2025-08-04 11:04:00",NA,88.77,86.93,91.27
+"VOO","ETF",NA,"No",578.43,572.65,559.71,582.81,"Moderate","Mixed trend","Mixed trend",565.36,587.48,0.69,"Elevated Zone - Price near resistance","False",1.65,NA,"2025-08-04 11:02:00",NA,572.65,559.71,582.81
+"VT","ETF",NA,"No",129.86,128.56,125.91,130.8,"Moderate","Downtrend","Mixed trend",127.18,131.84,0.74,"Elevated Zone - Price near resistance","False",1.25,NA,"2025-08-04 11:04:00",NA,128.56,125.91,130.8
+"VTI","ETF",NA,"No",309.59,304.94,299.45,310.73,"Moderate","Mixed trend","Mixed trend",302.47,314.41,0.68,"Elevated Zone - Price near resistance","False",1.66,NA,"2025-08-04 11:03:00",NA,304.94,299.45,310.73
+"VWO","ETF",NA,"No",49.91,49.41,48.62,50.5,"Moderate","Strong Downtrend","Mixed trend",49.11,50.94,1.29,"Value Zone - Price near support","False",1.25,NA,"2025-08-04 11:04:00",NA,49.41,48.62,50.5
+"VXUS","ETF",NA,"No",68.91,68.22,67.13,69.72,"Moderate","Mixed trend","Mixed trend",67.81,70.39,1.35,"Value Zone - Price near support","False",1.24,NA,"2025-08-04 11:03:00",NA,68.22,67.13,69.72
+"WAT","Large","Good","Yes",285.37,280.61,269.19,307.53,"Moderate","Mixed trend","Downtrend",293.31,318.2,-4.14,"Low Value Zone","False",4.07,11.03,"2025-08-04 10:59:00","Good",280.61,269.19,307.53
+"WEBL","ETF",NA,"No",29,28.71,27.37,31.15,"Moderate","Strong Downtrend","Mixed trend",27.96,31.36,2.27,"Price between support and resistance","False",4.67,NA,"2025-08-04 11:00:00",NA,28.71,27.37,31.15
+"WFC","Large","Good","Yes",77.69,76.91,75.2,81.58,"Moderate","Strong Downtrend","Downtrend",77.73,83.13,-155.08,"Value Zone - Price near support","False",2.23,5.82,"2025-08-04 11:03:00","Good",76.91,75.2,81.58
+"WMB","Large","Moderate","Yes",60.905,60.3,57.49,61.21,"Moderate","Strong Downtrend","Mixed trend",58.07,61.67,0.27,"Elevated Zone - Price near resistance","False",2.44,1.86,"2025-08-04 10:59:00","Moderate",60.3,57.49,61.21
+"WMT","Large","Moderate","Yes",99.53,98.17,95.3,99.42,"Good","Uptrend","Mixed trend",96.26,100.01,0.15,"Elevated Zone - Price near resistance","False",1.56,2.34,"2025-08-04 11:03:00","Moderate",98.17,95.3,99.42
+"XLE","ETF",NA,"No",85.9,85.04,83.08,89.05,"Good","Strong Downtrend","Mixed trend",84.82,88.83,2.72,"Value Zone - Price near support","False",2.31,NA,"2025-08-04 11:04:00",NA,85.04,83.08,89.05
+"XLF","ETF",NA,"No",51.765,51.25,50.3,52.89,"Moderate","Uptrend","Mixed trend",51.08,53.2,2.1,"Value Zone - Price near support","False",1.85,NA,"2025-08-04 11:02:00",NA,51.25,50.3,52.89
+"XOM","Large","Good","Yes",109.08,107.99,105.2,116.07,"Moderate","Strong Downtrend","Downtrend",107.93,114.05,4.32,"Value Zone - Price near support","False",2.58,7.04,"2025-08-04 11:02:00","Good",107.99,105.2,116.07
+"YANG","ETF",NA,"No",29.28,28.81,26.07,35.37,"Moderate","Uptrend","Downtrend",28.5,32.38,3.98,"Price between support and resistance","False",9.51,NA,"2025-08-04 11:02:00",NA,28.81,26.07,35.37
+"YINN","ETF",NA,"No",42.18,41.76,39.77,45.65,"Moderate","Strong Downtrend","Mixed trend",40.75,45.96,2.64,"Price between support and resistance","False",4.77,NA,"2025-08-04 11:02:00",NA,41.76,39.77,45.65
+"YMM","Large","Moderate","No",10.85,10.26,9.81,11.8,"Moderate","Strong Downtrend","Downtrend",10.88,12.09,-39.71,"Low Value Zone","True",4.36,0.5,"2025-08-04 11:00:00","Moderate",10.26,9.81,11.8
