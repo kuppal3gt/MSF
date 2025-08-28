@@ -1,6 +1,7 @@
 "Symbol","MarketCap","Fundamental Strength Index","Price","Last 5min Average","Last 20min Average","Previous Day Close","% Change","Health Rating","Micro Trend Rating","Macro Trend Rating","Support","Resistance","Buy Signal Range","Volume Surge","EPS","UpdateTime"
 "NTAP","Large","Good",104.6,104.712,104.697,109.41,-4.4,"Moderate","Mixed trend","Uptrend",102.69,115,"104.25-110.98","True",5.67,"2025-08-27 19:59:00"
 "ALB","Large",NA,87.5101,87.562,87.566,81.53,7.33,"Good","Mixed trend","Uptrend",69.19,89.95,"82.5-87.71","True",-9.33,"2025-08-27 19:07:00"
+"WYNN","Large","Moderate",122.5501,122.806,123.123,119.08,2.91,"Good","Mixed trend","Uptrend",102.41,128.28,"122.5-123.49","True",3.38,"2025-08-27 19:57:00"
 "COO","Large","Moderate",65.23,65.174,65.285,73.66,-11.44,"Moderate","Mixed trend","Mixed trend",69.89,78.8,"65.23-74.59","True",2.07,"2025-08-27 19:59:00"
 "WSM","Large","Good",192.01,192.077,192.461,197.93,-2.99,"Moderate","Mixed trend","Mixed trend",175.46,215.34,"192.46-196.9","True",8.65,"2025-08-27 19:33:00"
 "WBA","Large",NA,12.04,12.043,12.038,11.92,1.01,"Good","Mixed trend","Mixed trend",11.35,12.53,"11.91-12.02","True",-7.29,"2025-08-27 19:48:00"
