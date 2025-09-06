@@ -1,7 +1,7 @@
 "Symbol","MarketCap","Fundamental Strength Index","Price","Last 5min Average","Last 20min Average","Previous Day Close","% Change","Health Rating","Micro Trend Rating","Macro Trend Rating","Support","Resistance","Buy Signal Range","Volume Surge","EPS","UpdateTime"
 "HD","Large","Good",419.4064,419.153,418.974,411.69,1.87,"Good","Uptrend","Uptrend",371.86,429.88,"417.53-418.4","True",14.7,"2025-09-05 19:31:00"
-"MU","Large","Good",130.82,130.8,130.866,124.21,5.32,"Good","Mixed trend","Uptrend",113.38,134.37,"129.4-131.14","True",5.55,"2025-09-05 19:59:00"
 "ENPH","Mid","Moderate",38.77,38.831,38.866,36.52,6.16,"Moderate","Mixed trend","Uptrend",35.42,44.88,"36.88-39.75","True",1.29,"2025-09-05 19:59:00"
+"MU","Large","Good",130.82,130.8,130.866,124.21,5.32,"Good","Mixed trend","Uptrend",113.38,134.37,"129.4-131.14","True",5.55,"2025-09-05 19:59:00"
 "AVGO","Large","Moderate",332.41,332.478,332.611,306.1,8.6,"Moderate","Downtrend","Uptrend",280.29,364.38,"332.68-352.19","True",2.75,"2025-09-05 19:59:00"
 "CPRT","Large","Moderate",48.56,48.529,48.476,49.97,-2.82,"Good","Uptrend","Mixed trend",45.92,51.24,"47.12-48.57","True",1.51,"2025-09-05 19:59:00"
 "WFC","Large","Good",79,78.995,79.018,81.83,-3.46,"Moderate","Mixed trend","Mixed trend",77.77,86.74,"79.08-81.81","True",5.82,"2025-09-05 19:52:00"
