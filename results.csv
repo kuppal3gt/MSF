@@ -1,5 +1,6 @@
 "Symbol","MarketCap","Fundamental Strength Index","Price","Last 5min Average","Last 20min Average","Previous Day Close","% Change","Health Rating","Micro Trend Rating","Macro Trend Rating","Support","Resistance","Buy Signal Range","Volume Surge","EPS","UpdateTime"
 "AMAT","Large","Good",200.560066666667,200.45,200.372,190.1,5.5,"-","Mixed trend","Uptrend",168.67,205.69,"194.59-194.59","True",8.38,"2025-09-22 19:49:00"
+"MRNA","Large",NA,26.6105,26.6,26.563,25.24,5.43,"-","Uptrend","Uptrend",23.42,36.39,"25.12-25.25","False",-7.51,"2025-09-22 19:56:00"
 "NVDA","Large","Good",182.58,182.583,182.546,176.67,3.35,"-","Mixed trend","Uptrend",167.99,188.71,"174.69-175.44","False",3.52,"2025-09-22 19:59:00"
 "AAPL","Large","Good",256.423733333333,256.422,256.392,245.5,4.45,"-","Mixed trend","Uptrend",217.64,262.43,"245.16-247.78","False",6.58,"2025-09-22 19:59:00"
 "TSLA","Large","Moderate",436.413333333333,436.319,436.294,426.07,2.43,"-","Mixed trend","Uptrend",328.63,455.01,"430.07-431.6","False",1.66,"2025-09-22 19:59:00"
