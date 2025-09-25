@@ -1,4 +1,5 @@
 "Symbol","MarketCap","Fundamental Strength Index","Price","Last 5min Average","Last 20min Average","Previous Day Close","% Change","Health Rating","Micro Trend Rating","Macro Trend Rating","Support","Resistance","Buy Signal Range","Volume Surge","EPS","UpdateTime"
-"AAPL","Large","Good",256.625762,256.779,256.539,252.31,1.74,"Moderate","Mixed trend","Uptrend",220.2,263.14,"251.46-252.6","False",6.59,"2025-09-25 16:07:00"
-"GOOGL","Large","Good",245.67,245.677,245.593,247.14,-0.6,"Good","Mixed trend","Mixed trend",206.58,261.77,"240.76-243.21","False",9.39,"2025-09-25 16:07:00"
-"AVGO","Large","Moderate",335.69,335.928,335.332,339.31,-0.99,"Moderate","Mixed trend","Mixed trend",300.47,382.67,"328.02-332.33","False",3.9,"2025-09-25 16:06:00"
+"INTC","Large",NA,34.172256,34.173,34.143,31.22,9.48,"Good","Mixed trend","Uptrend",22.89,35.02,"31.22-32.24","True",-4.77,"2025-09-25 16:35:00"
+"NVDA","Large","Good",177.48617,177.444,177.48,176.97,0.28,"Good","Mixed trend","Mixed trend",170,188.71,"173.68-175.72","False",3.5,"2025-09-25 16:35:00"
+"TSLA","Large","Moderate",423.437108,423.24,423.18,442.79,-4.39,"Good","Mixed trend","Mixed trend",335.19,455.01,"414.97-419.21","False",1.68,"2025-09-25 16:35:00"
+"CTAS","Large","Good",202.05,202.059,201.955,200.04,1.01,"Moderate","Mixed trend","Mixed trend",193.77,231.86,"197.52-200.03","False",4.5,"2025-09-25 16:18:00"
