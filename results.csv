@@ -10,7 +10,6 @@
 "UBER","Large","Good",100.2,100.289,100.32,96.5,3.83,"Moderate","Downtrend","Uptrend",92.28,104.29,"95-100","True",5.87,"2025-11-03 18:59:00"
 "BALL","Large","Moderate",47.77,47.32,47.177,47,1.64,"Moderate","Uptrend","Mixed trend",46.4,55.02,"43-47","True",2.02,"2025-11-03 18:21:00"
 "BR","Large","Good",222,221.562,221.756,220.4,0.73,"Moderate","Uptrend","Mixed trend",217.32,268.93,"209-221","True",7.1,"2025-11-03 17:47:00"
-"LYV","Large","Moderate",149.84,149.851,150.206,149.53,0.21,"Moderate","Mixed trend","Mixed trend",146.59,179.2,"140-150","True",2.35,"2025-11-03 16:27:00"
 "ON","Large","Moderate",50.3,50.359,50.314,50.08,0.44,"Good","Mixed trend","Mixed trend",48.2,57.25,"40-50","True",1.05,"2025-11-03 18:51:00"
 "PEG","Large","Good",81.37,81.39,81.406,80.56,1.01,"Moderate","Mixed trend","Mixed trend",79.43,88.03,"77-81","True",3.96,"2025-11-03 17:15:00"
 "PFE","Large","Good",24.7,24.704,24.702,24.65,0.2,"Good","Mixed trend","Mixed trend",24,28.31,"24-25","True",1.89,"2025-11-03 18:59:00"
@@ -19,3 +18,4 @@
 "CI","Large","Good",256,256.007,256.326,244.41,4.74,"Moderate","Mixed trend","Mixed trend",239.94,322.58,"208-253","True",22.58,"2025-11-03 18:54:00"
 "BDX","Large","Moderate",177.3,177.209,176.983,178.71,-0.79,"Moderate","Mixed trend","Mixed trend",176,203.97,"169-177","True",5.47,"2025-11-03 16:43:00"
 "DRI","Large","Good",178.01,177.803,177.445,180.15,-1.19,"Moderate","Mixed trend","Mixed trend",175.51,220.13,"168-177","True",9.33,"2025-11-03 17:18:00"
+"TFC","Large","Good",44.22,44.192,44.154,44.63,-0.92,"Moderate","Mixed trend","Mixed trend",43.55,48.53,"42-44","True",3.73,"2025-11-03 16:36:00"
