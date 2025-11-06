@@ -1,6 +1,5 @@
 "Symbol","MarketCap","Fundamental Strength Index","Price","Last 5min Average","Last 20min Average","Previous Day Close","% Change","Health Rating","Micro Trend Rating","Macro Trend Rating","Support","Resistance","Buy Signal Range","Volume Surge","EPS","UpdateTime"
 "AMGN","Large","Good",320,319.931,320.175,296.7,7.85,"Moderate","Mixed trend","Uptrend",278.8,330.26,"301-320","True",12.94,"2025-11-05 18:41:00"
-"COR","Large","Good",352.73,353.142,352.458,344.53,2.38,"Good","Mixed trend","Uptrend",300.41,369.53,"321-350","True",9.75,"2025-11-05 16:08:00"
 "JCI","Large","Moderate",120.86,120.833,120.938,111.04,8.84,"Good","Mixed trend","Uptrend",105.5,125.82,"111-121","True",3,"2025-11-05 16:39:00"
 "VTRS","Large",NA,10.76,10.771,10.763,10.49,2.57,"Good","Mixed trend","Uptrend",9.79,11.05,"10-11","True",-2.93,"2025-11-05 18:45:00"
 "TRGP","Large","Good",162.69,162.6,162.734,154.57,5.25,"Moderate","Mixed trend","Uptrend",149.62,179.74,"151-163","True",6.97,"2025-11-05 16:39:00"
@@ -19,3 +18,4 @@
 "CTVA","Large","Moderate",63.67,63.677,63.628,62.5,1.87,"Moderate","Mixed trend","Mixed trend",60.38,77.62,"59-63","True",2.47,"2025-11-05 16:39:00"
 "CDW","Large","Good",146,146.219,146.131,141.66,3.06,"Moderate","Mixed trend","Mixed trend",134.69,175.42,"132-145","True",7.9,"2025-11-05 17:21:00"
 "SWK","Large","Moderate",70,69.762,69.784,66.63,5.06,"Moderate","Mixed trend","Mixed trend",64.82,83.28,"60-70","True",2.9,"2025-11-05 17:30:00"
+"APD","Large","Good",239.77,238.671,237.413,240.77,-0.42,"Moderate","Uptrend","Downtrend",235.24,305.04,"216-237","True",7.05,"2025-11-05 18:54:00"
