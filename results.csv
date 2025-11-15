@@ -1,5 +1,6 @@
 "Symbol","MarketCap","Fundamental Strength Index","Price","Last 5min Average","Last 20min Average","Previous Day Close","% Change","Health Rating","Micro Trend Rating","Macro Trend Rating","Support","Resistance","Buy Signal Range","Volume Surge","EPS","UpdateTime"
 "AMAT","Large","Good",227.5,227.331,226.874,223.23,1.91,"Good","Uptrend","Mixed trend",203.76,247.97,"207-226","True",8.37,"2025-11-14 18:46:00"
+"PYPL","Large","Good",62.99,62.98,62.973,65.33,-3.58,"Moderate","Uptrend","Mixed trend",62.18,81,"62-64","True",4.98,"2025-11-14 18:58:00"
 "WMT","Large","Good",102.35,102.384,102.375,102.54,-0.19,"Good","Mixed trend","Mixed trend",99.92,112.05,"98-102","True",2.65,"2025-11-14 18:58:00"
 "ORCL","Large","Good",222.89,222.914,222.851,217.57,2.45,"Moderate","Mixed trend","Mixed trend",212.94,353.52,"212-222","True",4.33,"2025-11-14 18:59:00"
 "XOM","Large","Good",119.31,119.278,119.241,118.79,0.44,"Good","Uptrend","Uptrend",110.59,123.53,"115-119","False",6.88,"2025-11-14 18:32:00"
@@ -18,4 +19,3 @@
 "CMI","Large","Good",462.61,462.041,461.822,467.49,-1.04,"Good","Uptrend","Mixed trend",413.6,495.77,"425-462","False",19.31,"2025-11-14 16:34:00"
 "GD","Large","Good",345,344.47,344.333,344.06,0.27,"Good","Uptrend","Mixed trend",326.58,368.63,"330-344","False",15.41,"2025-11-14 18:49:00"
 "MMM","Large","Good",168.42,167.871,167.722,170.62,-1.29,"Good","Uptrend","Mixed trend",153.79,176.75,"158-168","False",6.26,"2025-11-14 16:46:00"
-"AMD","Large","Moderate",247.84,247.784,247.692,247.96,-0.05,"Moderate","Uptrend","Mixed trend",198.74,273.1,"240-247","False",1.91,"2025-11-14 18:59:00"
