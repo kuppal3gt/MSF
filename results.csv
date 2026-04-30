@@ -1,21 +1,21 @@
 Symbol,MarketCap,Fundamental Strength Index,Price,Last 5min Average,Last 20min Average,Previous Day Close,% Change,Health Rating,Micro Trend Rating,Macro Trend Rating,Support,Resistance,Buy Signal Range,Volume Surge,EPS,UpdateTime
-INTC,Large,,97.1,96.945,97.038,94.75,2.48,Moderate,Uptrend,Uptrend,50.65,97.09,89.55-96.88,True,-0.6,2026-04-30 07:00:00
-AMZN,Large,Good,270.44,269.957,269.382,263.04,2.81,Good,Uptrend,Uptrend,214.24,271.91,249.55-268.6,True,8.36,2026-04-30 07:06:00
-HUM,Large,Moderate,241.29,241.023,241.149,243.12,-0.75,-,Uptrend,Uptrend,178.91,250.06,192.07-241.24,True,9.36,2026-04-30 07:09:00
-STX,Large,Good,651.491,650.632,651.234,643.3,1.27,Moderate,Mixed trend,Uptrend,424.92,712.72,584.66-647.82,True,10.55,2026-04-30 07:03:00
-WDC,Large,Good,426.6486,426.093,426.033,412.76,3.36,Moderate,Mixed trend,Uptrend,294.73,451.96,384.9-424,True,10.57,2026-04-30 07:05:00
-GNRC,Large,Moderate,254.08,254.153,252.41,252.92,0.46,-,Mixed trend,Uptrend,202.08,261.65,198.67-254.93,True,3.21,2026-04-30 07:00:00
-MA,Large,Good,529,529.543,530.374,525.23,0.72,Moderate,Mixed trend,Uptrend,490.41,546.26,466-527.78,True,16.54,2026-04-30 07:10:00
-QCOM,Large,Good,171.99,172.334,172.788,156,10.25,Moderate,Mixed trend,Uptrend,130.18,164.63,141.41-172.54,True,9.3,2026-04-30 07:12:00
-VICI,Large,Good,28.4,28.479,28.569,28.6,-0.7,Very Weak,Mixed trend,Uptrend,27.48,30.68,22.98-28.18,True,2.92,2026-04-30 07:13:00
-V,Large,Good,332.76,333.161,332.911,334.86,-0.63,Moderate,Mixed trend,Uptrend,300.28,349.69,310.78-331.75,True,11.49,2026-04-30 07:07:00
-AOS,Mid,Good,62.3,62.619,63.183,63.32,-1.61,-,Mixed trend,Mixed trend,62.65,81.23,52.65-62.38,True,3.85,2026-04-30 07:05:00
-APH,Large,Good,147.78,147.996,148.51,148.38,-0.4,Very Weak,Mixed trend,Mixed trend,132.97,158.96,126.53-147.78,True,3.49,2026-04-30 05:31:00
-CMG,Large,Good,33.9783,33.965,33.93,32.99,3,Very Weak,Mixed trend,Mixed trend,32.38,40.08,28.17-33.64,True,1.09,2026-04-30 07:12:00
-META,Large,Good,608.8,608.144,608.159,669.12,-9.01,Moderate,Mixed trend,Mixed trend,608.79,707.11,553.67-612.99,True,27.5,2026-04-30 07:12:00
-TER,Large,Moderate,317.29,315.922,315.489,306.33,3.58,Moderate,Uptrend,Downtrend,303.27,431.63,263.68-312.5,True,3.46,2026-04-30 07:01:00
-GEHC,Large,Good,59.8055,59.61,59.644,59.485,0.54,Very Weak,Uptrend,Downtrend,58.89,89.04,52.84-59.45,True,4.17,2026-04-30 07:03:00
-RCL,Large,Good,274.93,273.571,270.509,254.01,8.24,Weak,Uptrend,Downtrend,252.82,332.85,189.91-265.63,True,15.62,2026-04-30 07:13:00
-BAX,Mid,,17.12,17.247,17.209,16.9,1.3,-,Mixed trend,Downtrend,16.73,22.57,10.06-17.33,True,-1.75,2026-04-30 07:08:00
-GOOGL,Large,Good,374.6,373.993,373.564,349.94,7.05,Moderate,Uptrend,Uptrend,300.98,363.81,352.63-372.63,False,13.12,2026-04-30 07:01:00
-GOOG,Large,Good,371.7,371.588,371.111,347.31,7.02,Moderate,Uptrend,Uptrend,299.97,361.37,349.84-369.94,False,13.09,2026-04-30 07:02:00
+INTC,Large,,97.43,97.365,97.195,94.75,2.83,Moderate,Uptrend,Uptrend,50.65,97.09,91.3-96.88,True,-0.6,2026-04-30 07:30:00
+STX,Large,Good,653,653.323,653.172,643.3,1.51,Moderate,Mixed trend,Uptrend,424.92,712.72,599.99-648.13,True,10.55,2026-04-30 07:34:00
+WDC,Large,Good,428.57,428.657,428.48,412.76,3.83,Moderate,Mixed trend,Uptrend,294.73,451.96,387.53-426.99,True,10.57,2026-04-30 07:35:00
+GNRC,Large,Moderate,254.54,254.282,252.613,252.92,0.64,-,Mixed trend,Uptrend,202.08,261.65,200.59-254.74,True,3.21,2026-04-30 07:16:00
+OKE,Large,Good,88.5,88.851,89.028,89.32,-0.92,-,Mixed trend,Uptrend,83.82,97.45,81.24-88.6,True,5.61,2026-04-30 07:33:00
+AMZN,Large,Good,270.18,270.355,270.572,263.04,2.71,Good,Mixed trend,Uptrend,214.24,271.91,251.13-269.76,True,8.36,2026-04-30 07:44:00
+HUM,Large,Moderate,241.645,241.23,241.196,243.12,-0.61,-,Mixed trend,Uptrend,178.91,250.06,192.99-241.25,True,9.36,2026-04-30 07:37:00
+MA,Large,Good,528.75,528.897,529.312,525.23,0.67,Moderate,Mixed trend,Uptrend,490.41,546.26,477.9-527.5,True,16.54,2026-04-30 07:34:00
+QCOM,Large,Good,173.175,173.496,173.303,156,11.01,Moderate,Mixed trend,Uptrend,130.18,164.63,145.79-172.5,True,9.3,2026-04-30 07:43:00
+VICI,Large,Good,28.53,28.466,28.546,28.6,-0.24,Very Weak,Mixed trend,Uptrend,27.48,30.68,22.89-28.18,True,2.92,2026-04-30 07:26:00
+VRSK,Large,Good,187.99,188.049,188.3,188.19,-0.11,Very Weak,Mixed trend,Uptrend,172.71,220.97,117.26-188.36,True,6.57,2026-04-30 07:26:00
+V,Large,Good,333.06,333.457,333.194,334.86,-0.54,Moderate,Mixed trend,Uptrend,300.28,349.69,304.91-331.75,True,11.49,2026-04-30 07:33:00
+AES,Large,Good,14.46,14.462,14.456,14.45,0.07,-,Mixed trend,Mixed trend,14.23,18.05,13.15-14.48,True,1.31,2026-04-30 07:27:00
+AOS,Mid,Good,62.3,62.513,63.099,63.32,-1.61,-,Mixed trend,Mixed trend,62.65,81.23,51.55-62.38,True,3.85,2026-04-30 07:15:00
+APH,Large,Good,148.43,148.141,148.502,148.38,0.03,Very Weak,Mixed trend,Mixed trend,132.97,158.96,125.72-147.78,True,3.49,2026-04-30 07:12:00
+CMG,Large,Good,34.3935,34.421,34.321,32.99,4.25,Very Weak,Mixed trend,Mixed trend,32.38,40.08,28.33-33.86,True,1.09,2026-04-30 07:42:00
+META,Large,Good,606.25,606.384,607.397,669.12,-9.4,Moderate,Mixed trend,Mixed trend,608.79,707.11,563.33-610.48,True,27.5,2026-04-30 07:42:00
+REGN,Large,Good,685.15,682.305,682.522,686.36,-0.18,-,Uptrend,Downtrend,679.5,813.99,569.03-681.2,True,41.49,2026-04-30 07:15:00
+TER,Large,Moderate,320.92,320.755,319.206,306.33,4.76,Moderate,Mixed trend,Downtrend,303.27,431.63,266.65-316.59,True,3.46,2026-04-30 07:33:00
+BAX,Mid,,18.16,18.095,17.763,16.9,7.46,-,Mixed trend,Downtrend,16.73,22.57,9.57-17.6,True,-1.75,2026-04-30 07:38:00
