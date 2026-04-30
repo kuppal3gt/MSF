@@ -1,12 +1,12 @@
 Symbol,Price,Buy Signal Range,% Change,Micro Trend Rating,Macro Trend Rating,UpdateTime
-NVDA,210.93,203.4-210.76,-1.05,Uptrend,Mixed trend,2026-04-29 19:31:00
-GOOGL,375,347.86-372.65,7.21,Uptrend,Uptrend,2026-04-29 19:32:00
-AAPL,270.5,263.4-270.08,-0.08,Uptrend,Mixed trend,2026-04-29 19:38:00
-QQQ,665.14,657.28-664.35,1.15,Uptrend,Mixed trend,2026-04-29 19:30:00
-SPY,713.05,706.57-712.44,0.19,Uptrend,Mixed trend,2026-04-29 19:30:00
-DIA,486.99,482.32-488.15,-0.9,Mixed trend,Mixed trend,2026-04-29 19:43:00
-AMZN,271.65,238.32-269.12,4.6,Mixed trend,Uptrend,2026-04-29 19:44:00
-META,622,599.42-669.63,-7.35,Downtrend,Mixed trend,2026-04-29 19:40:00
-MSFT,423.21,386.58-426.43,-1.41,Mixed trend,Mixed trend,2026-04-29 19:41:00
-VIXY,27.7102,24.66-27.85,1.17,Mixed trend,Mixed trend,2026-04-29 19:45:00
-TSLA,373.22,366.74-375.1,-0.74,Mixed trend,Mixed trend,2026-04-29 19:45:00
+NVDA,211.16,204.03-210.76,-0.94,Mixed trend,Mixed trend,2026-04-29 19:59:00
+GOOGL,375.29,347.86-374.2,7.29,Uptrend,Uptrend,2026-04-29 19:59:00
+AAPL,270.95,263.99-270.4,0.09,Mixed trend,Mixed trend,2026-04-29 19:59:00
+QQQ,666.87,655.4-665.49,1.42,Uptrend,Mixed trend,2026-04-29 19:59:00
+SPY,713.71,706.67-713.17,0.28,Mixed trend,Mixed trend,2026-04-29 19:59:00
+DIA,486.96,482.33-488.13,-0.91,Mixed trend,Mixed trend,2026-04-29 19:55:00
+AMZN,270.25,244.93-269.05,4.06,Mixed trend,Uptrend,2026-04-29 19:59:00
+META,622.2015,591.46-669.6,-7.32,Mixed trend,Mixed trend,2026-04-29 19:59:00
+MSFT,425.89,389.82-426.43,-0.78,Uptrend,Mixed trend,2026-04-29 19:59:00
+VIXY,27.7991,24.57-27.85,1.49,Mixed trend,Mixed trend,2026-04-29 19:47:00
+TSLA,372.8,366.63-373.42,-0.86,Mixed trend,Mixed trend,2026-04-29 19:59:00
