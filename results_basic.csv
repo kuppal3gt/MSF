@@ -1,12 +1,12 @@
 "Symbol","Price","Buy Signal Range","% Change","Micro Trend Rating","Macro Trend Rating","UpdateTime"
-"NVDA",205.63,"205.48-205.63",1.16,"Mixed trend","Mixed trend","2026-07-21T05:26:00-04:00"
-"MSFT",399.4,"399.03-399.4",-0.72,"Uptrend","Uptrend","2026-07-21T05:26:00-04:00"
-"TSLA",374.48,"374.19-374.48",1.33,"Mixed trend","Mixed trend","2026-07-21T05:26:00-04:00"
-"AAPL",325.16,"324.76-325.16",-0.44,"Uptrend","Mixed trend","2026-07-21T05:26:00-04:00"
+"NVDA",205.53,"205.38-205.53",1.11,"Mixed trend","Mixed trend","2026-07-21T05:30:00-04:00"
+"MSFT",399.49,"399.12-399.49",-0.7,"Mixed trend","Uptrend","2026-07-21T05:30:00-04:00"
+"TSLA",374.34,"374.05-374.34",1.29,"Mixed trend","Mixed trend","2026-07-21T05:30:00-04:00"
+"AAPL",324.86,"324.47-324.86",-0.53,"Mixed trend","Mixed trend","2026-07-21T05:30:00-04:00"
 "AMZN",NA,NA,NA,NA,NA,NA
-"GOOGL",355.32,"354.91-355.32",0.95,"Mixed trend","Mixed trend","2026-07-21T05:24:00-04:00"
-"META",647.11,"646.38-647.11",0.2,"Mixed trend","Mixed trend","2026-07-21T05:20:00-04:00"
-"SPY",746.17,"745.94-746.17",0.55,"Mixed trend","Downtrend","2026-07-21T05:26:00-04:00"
-"QQQ",705.41,"705.05-705.41",1.34,"Mixed trend","Mixed trend","2026-07-21T05:26:00-04:00"
+"GOOGL",354.7502,"354.34-354.75",0.78,"Mixed trend","Mixed trend","2026-07-21T05:31:00-04:00"
+"META",647.37,"646.63-647.37",0.24,"Mixed trend","Mixed trend","2026-07-21T05:30:00-04:00"
+"SPY",746.12,"745.89-746.12",0.54,"Mixed trend","Downtrend","2026-07-21T05:31:00-04:00"
+"QQQ",705.31,"704.95-705.31",1.33,"Mixed trend","Mixed trend","2026-07-21T05:31:00-04:00"
 "DIA",NA,NA,NA,NA,NA,NA
 "VIXY",NA,NA,NA,NA,NA,NA
