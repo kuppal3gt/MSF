@@ -1,69 +1,18 @@
 "Symbol","MarketCap","Fundamental Strength Index","Price","Last 5min Average","Last 20min Average","Previous Day Close","% Change","Health Rating","Micro Trend Rating","Macro Trend Rating","Support","Resistance","Buy Signal Range","Volume Surge","EPS","UpdateTime"
-"SCHW","Large","Good",103.01,102.908,101.715,102.54,0.46,"Very Weak","Mixed trend","Uptrend",101,104.69,"102.26-103.01","True",3.3,"2026-07-21T09:00:00-04:00"
-"HAL","Large","Good",33.9788,33.885,33.816,35.11,-3.22,"Very Weak","Mixed trend","Mixed trend",33.55,34,"33.72-33.98","True",2.39,"2026-07-21T09:00:00-04:00"
-"DHR","Large","Moderate",172,173.012,172.048,201.11,-14.47,"-","Downtrend","Mixed trend",170,174.2518,"170.3-172","True",5.17,"2026-07-21T09:00:00-04:00"
-"CRM","Large",NA,167.22,167.092,167.029,173.79,-3.78,"-","Uptrend","Uptrend",166.6303,167.29,"166.7-167.22","False",6.38,"2026-07-21T09:01:00-04:00"
-"MSFT","Large","Good",398.25,398.345,398.233,402.29,-1,"Moderate","Mixed trend","Uptrend",397.7645,398.48,"397.86-398.25","False",12.94,"2026-07-21T09:00:00-04:00"
-"PLTR","Large","Moderate",133.7,133.75,133.777,134.85,-0.85,"Moderate","Mixed trend","Uptrend",133.5,133.9845,"133.51-133.7","False",0.22,"2026-07-21T09:00:00-04:00"
-"INTC","Large",NA,102.62,102.298,102.161,97.06,5.73,"Moderate","Uptrend","Mixed trend",101.78,103.38,"102.39-102.62","False",-4.48,"2026-07-21T09:01:00-04:00"
-"MMM","Large","Good",169.85,169.94,169.884,159.11,6.75,"Very Weak","Mixed trend","Mixed trend",169.0002,170.5399,"168.95-169.85","False",8.02,"2026-07-21T09:01:00-04:00"
-"NVDA","Large","Good",206.15,206.166,205.992,203.28,1.41,"Moderate","Mixed trend","Mixed trend",205.5,206.35,"205.99-206.15","False",3.1,"2026-07-21T08:59:00-04:00"
-"TSLA","Large","Moderate",371.33,371.296,371.298,369.57,0.48,"Moderate","Mixed trend","Mixed trend",371.11,371.7405,"371.03-371.33","False",1.75,"2026-07-21T08:59:00-04:00"
-"ORCL","Large","Good",122.92,122.941,122.729,121.38,1.27,"Moderate","Mixed trend","Mixed trend",122.32,122.98,"122.73-122.92","False",4.26,"2026-07-21T09:00:00-04:00"
-"ADBE","Large","Good",223,223.03,223.242,234.74,-5,"Moderate","Mixed trend","Mixed trend",222.8,223.6284,"222.35-223","False",15.13,"2026-07-21T09:00:00-04:00"
-"AAPL","Large","Good",325,325.128,325.109,326.59,-0.49,"Moderate","Mixed trend","Mixed trend",324.95,325.4,"324.75-325","False",6.41,"2026-07-21T09:00:00-04:00"
-"AMZN","Large","Good",249.5,249.612,249.554,249.99,-0.2,"Moderate","Mixed trend","Mixed trend",249.2515,249.75,"249.23-249.5","False",6.14,"2026-07-21T09:00:00-04:00"
-"GOOGL","Large","Good",351.49,351.63,351.22,351.99,-0.14,"Moderate","Mixed trend","Mixed trend",350.51,351.77,"351.05-351.49","False",8.96,"2026-07-21T09:00:00-04:00"
-"AVGO","Large","Good",389.29,389.328,389.281,378.16,2.94,"Moderate","Mixed trend","Mixed trend",388.54,389.8,"388.72-389.29","False",2.16,"2026-07-21T09:00:00-04:00"
-"META","Large","Good",651.629,651.67,650.654,645.85,0.89,"Moderate","Mixed trend","Mixed trend",649,652.27,"650.76-651.63","False",25.56,"2026-07-21T09:01:00-04:00"
-"GOOG","Large","Good",350.83,350.832,350.474,351.37,-0.15,"Moderate","Mixed trend","Mixed trend",349.6221,351,"350.41-350.83","False",8.96,"2026-07-21T09:01:00-04:00"
-"KLAC","Large","Good",218.51,218.522,218.107,207.6,5.26,"Moderate","Mixed trend","Mixed trend",216.65,219,"217.7-218.51","False",27.52,"2026-07-21T09:01:00-04:00"
-"NOW","Large","Moderate",101.7,101.824,101.974,104.7,-2.87,"Moderate","Mixed trend","Mixed trend",101.67,102.19,"101.4-101.7","False",7.39,"2026-07-21T09:01:00-04:00"
-"QQQ","ETF",NA,705.3,705.294,705.257,696.06,1.33,"-","Mixed trend","Mixed trend",704.21,705.7,"704.93-705.3","False",NA,"2026-07-21T09:03:00-04:00"
-"DIA","ETF",NA,519.15,519.009,519.096,517.94,0.23,"-","Mixed trend","Mixed trend",518.47,519.57,"518.82-519.15","False",NA,"2026-07-21T09:01:00-04:00"
-"CSCO","Large","Good",112.05,111.964,111.629,110.7,1.22,"Weak","Mixed trend","Mixed trend",111.2699,112.55,"111.91-112.05","False",2.45,"2026-07-21T09:01:00-04:00"
-"IBM","Large","Good",211.8,211.756,211.532,213,-0.56,"Weak","Mixed trend","Mixed trend",211.14,211.94,"211.48-211.8","False",5.86,"2026-07-21T09:02:00-04:00"
-"QCOM","Large","Good",174.51,174.736,174.456,170.32,2.46,"Weak","Mixed trend","Mixed trend",174,174.9,"174.07-174.51","False",9.79,"2026-07-21T09:02:00-04:00"
-"WMT","Large","Moderate",111.75,111.846,111.862,112.2,-0.4,"Weak","Downtrend","Mixed trend",111.75,111.93,"111.65-111.75","False",2.34,"2026-07-21T09:01:00-04:00"
-"NFLX","Large","Good",67.4155,67.442,67.477,67.6,-0.27,"Moderate","Mixed trend","Downtrend",67.4,67.5639,"67.33-67.42","False",21.21,"2026-07-21T09:00:00-04:00"
-"SPY","ETF",NA,745.06,745.142,745.109,742.09,0.4,"-","Mixed trend","Downtrend",744.27,745.44,"744.82-745.06","False",NA,"2026-07-21T09:02:00-04:00"
-"CB","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"COF","ETF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"EFX","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"STLD","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SYF","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"BA","ETF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"UAL","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"T","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"WBD","ETF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"ACN","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"AMT","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"AES","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"ALL","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"VIXY","ETF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"JPM","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"LLY","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"V","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"XOM","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"COST","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"MA","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"UNH","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"PG","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"JNJ","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"HD","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"ABBV","ETF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"BAC","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"PM","ETF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"WFC","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"CVX","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"ABT","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"MCD","ETF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"GE","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"LIN","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"MRK","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"ADP","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"TT","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"EQIX","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"ITW","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"HES","ETF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"VMC","-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"CVX","Large","Moderate",190.265,190.205,190.158,189.71,0.29,"Very Weak","Uptrend","Uptrend",189.87,190.31,"185.22-190.02","False",5.81,"2026-07-21 12:41:00"
+"AES","Large","Good",14.835,14.835,14.835,14.8,0.24,"Very Weak","Mixed trend","Uptrend",14.83,14.84,"14.59-14.83","False",1.92,"2026-07-21 12:41:00"
+"STLD","Large","Good",236.485,236.307,235.857,230.49,2.6,"-","Uptrend","Mixed trend",233.965,236.63,"219.99-234.52","False",9.12,"2026-07-21 12:34:00"
+"PM","ETF",NA,190.89,190.713,190.667,192.72,-0.95,"-","Uptrend","Mixed trend",190.42,190.9,"183.52-190.42","False",NA,"2026-07-21 12:41:00"
+"IBM","Large","Good",211.88,211.657,211.31,213,-0.53,"Weak","Uptrend","Mixed trend",210.87,211.98,"199.31-210.94","False",11.31,"2026-07-21 12:42:00"
+"LIN","Large","Good",504.855,504.679,504.745,512.05,-1.41,"Very Weak","Uptrend","Mixed trend",504.19,505.15,"486.92-507.17","False",15.05,"2026-07-21 12:42:00"
+"SCHW","Large","Good",102.635,102.66,102.554,102.54,0.09,"Very Weak","Mixed trend","Mixed trend",102.185,102.75,"97.06-102.1","False",5.08,"2026-07-21 12:36:00"
+"SYF","Large","Good",72.38,72.479,72.489,73.41,-1.4,"-","Mixed trend","Mixed trend",72.18,72.85,"64.72-72.05","False",9.63,"2026-07-21 12:37:00"
+"ALL","Large","Good",251.91,251.835,251.729,253.73,-0.72,"-","Mixed trend","Mixed trend",251.35,252.175,"244.92-251.24","False",45.9,"2026-07-21 12:41:00"
+"SPY","ETF",NA,748.52,748.587,748.573,742.09,0.87,"-","Mixed trend","Mixed trend",748.44,748.78,"740.84-748.31","False",NA,"2026-07-21 12:42:00"
+"QQQ","ETF",NA,708.91,709.052,708.974,696.06,1.85,"-","Mixed trend","Mixed trend",708.6,709.41,"696.09-708.37","False",NA,"2026-07-21 12:42:00"
+"CRM","-",NA,169.48,169.439,169.513,173.79,-2.48,"-","Mixed trend","Mixed trend",168.7906,169.7251,"158.63-169.65","False",NA,"2026-07-21 12:41:00"
+"WFC","Large","Good",87.985,87.979,87.921,86.33,1.92,"-","Mixed trend","Mixed trend",87.815,88.02,"84.89-87.77","False",6.79,"2026-07-21 12:41:00"
+"CSCO","Large","Good",111.27,111.263,111.245,110.7,0.51,"Weak","Mixed trend","Mixed trend",111.12,111.33,"107.95-111.27","False",2.97,"2026-07-21 12:41:00"
+"ABT","-",NA,100.83,100.847,100.927,101.66,-0.82,"-","Mixed trend","Mixed trend",100.78,101.15,"97.55-100.92","False",NA,"2026-07-21 12:42:00"
+"MCD","ETF",NA,265.07,265.028,264.989,267.64,-0.96,"-","Mixed trend","Mixed trend",264.695,265.335,"258.51-264.66","False",NA,"2026-07-21 12:42:00"
+"GE","-",NA,342.58,342.761,342.834,341.3,0.38,"-","Mixed trend","Mixed trend",342.27,343.465,"329.67-342.03","False",NA,"2026-07-21 12:42:00"
