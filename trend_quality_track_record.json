@@ -1,0 +1,2127 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-09-09T23:30:17+00:00",
+  "model": {
+    "id": "locked_defensive_staggered_v25",
+    "display_name": "Trend Quality Rankings",
+    "research_horizon_sessions": 21,
+    "benchmark": "SPY"
+  },
+  "price_data_through": "2026-09-09",
+  "horizons": [
+    1,
+    3,
+    5,
+    21
+  ],
+  "summary": {
+    "overall": {
+      "cohorts": 4,
+      "positions": 80,
+      "by_horizon": {
+        "1": {
+          "n": 60,
+          "hit_rate": 0.75,
+          "avg_return": 0.0144,
+          "median_return": 0.0119,
+          "avg_excess_vs_spy": 0.0151,
+          "share_beating_spy": 0.7167,
+          "best_return": 0.0907,
+          "worst_return": -0.0321
+        },
+        "3": {
+          "n": 20,
+          "hit_rate": 0.9,
+          "avg_return": 0.0427,
+          "median_return": 0.0388,
+          "avg_excess_vs_spy": 0.0449,
+          "share_beating_spy": 0.9,
+          "best_return": 0.1405,
+          "worst_return": -0.0403
+        },
+        "5": {
+          "n": 0
+        },
+        "21": {
+          "n": 0
+        }
+      },
+      "current": {
+        "n": 60,
+        "hit_rate": 0.7333,
+        "avg_return": 0.019,
+        "median_return": 0.0127,
+        "avg_excess_vs_spy": 0.0245,
+        "share_beating_spy": 0.7833,
+        "best_return": 0.1405,
+        "worst_return": -0.0421
+      },
+      "best_current": {
+        "symbol": "AMD",
+        "observation_date": "2026-09-01",
+        "return": 0.1405,
+        "sessions_elapsed": 3
+      },
+      "worst_current": {
+        "symbol": "TGT",
+        "observation_date": "2026-09-04",
+        "return": -0.0421,
+        "sessions_elapsed": 2
+      }
+    },
+    "last_30_days": {
+      "cohorts": 4,
+      "by_horizon": {
+        "1": {
+          "n": 60,
+          "hit_rate": 0.75,
+          "avg_return": 0.0144,
+          "median_return": 0.0119,
+          "avg_excess_vs_spy": 0.0151,
+          "share_beating_spy": 0.7167,
+          "best_return": 0.0907,
+          "worst_return": -0.0321
+        },
+        "3": {
+          "n": 20,
+          "hit_rate": 0.9,
+          "avg_return": 0.0427,
+          "median_return": 0.0388,
+          "avg_excess_vs_spy": 0.0449,
+          "share_beating_spy": 0.9,
+          "best_return": 0.1405,
+          "worst_return": -0.0403
+        },
+        "5": {
+          "n": 0
+        },
+        "21": {
+          "n": 0
+        }
+      },
+      "current": {
+        "n": 60,
+        "hit_rate": 0.7333,
+        "avg_return": 0.019,
+        "median_return": 0.0127,
+        "avg_excess_vs_spy": 0.0245,
+        "share_beating_spy": 0.7833,
+        "best_return": 0.1405,
+        "worst_return": -0.0421
+      }
+    }
+  },
+  "cohorts": [
+    {
+      "observation_date": "2026-09-01",
+      "positions_count": 20,
+      "fully_matured": false,
+      "by_horizon": {
+        "1": {
+          "n": 20,
+          "hit_rate": 0.9,
+          "avg_return": 0.0274,
+          "median_return": 0.0291,
+          "avg_excess_vs_spy": 0.0198,
+          "share_beating_spy": 0.75,
+          "best_return": 0.0907,
+          "worst_return": -0.0174
+        },
+        "3": {
+          "n": 20,
+          "hit_rate": 0.9,
+          "avg_return": 0.0427,
+          "median_return": 0.0388,
+          "avg_excess_vs_spy": 0.0449,
+          "share_beating_spy": 0.9,
+          "best_return": 0.1405,
+          "worst_return": -0.0403
+        },
+        "5": {
+          "n": 0
+        },
+        "21": {
+          "n": 0
+        }
+      },
+      "current": {
+        "n": 20,
+        "hit_rate": 0.9,
+        "avg_return": 0.0427,
+        "median_return": 0.0388,
+        "avg_excess_vs_spy": 0.0449,
+        "share_beating_spy": 0.9,
+        "best_return": 0.1405,
+        "worst_return": -0.0403
+      },
+      "positions": [
+        {
+          "rank": 1,
+          "symbol": "AMD",
+          "score": 100,
+          "entry_close": 456.89,
+          "outcomes": {
+            "1": {
+              "close": 472.43,
+              "date": "2026-09-04",
+              "return": 0.034,
+              "excess_vs_spy": 0.0264
+            },
+            "3": {
+              "close": 521.095,
+              "date": "2026-09-09",
+              "return": 0.1405,
+              "excess_vs_spy": 0.1427
+            },
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 521.095,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 3,
+            "return": 0.1405,
+            "excess_vs_spy": 0.1427
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 2,
+          "symbol": "MU",
+          "score": 99,
+          "entry_close": 951.9,
+          "outcomes": {
+            "1": {
+              "close": 1009.47,
+              "date": "2026-09-04",
+              "return": 0.0605,
+              "excess_vs_spy": 0.0529
+            },
+            "3": {
+              "close": 1027.77,
+              "date": "2026-09-09",
+              "return": 0.0797,
+              "excess_vs_spy": 0.0819
+            },
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 1027.77,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 3,
+            "return": 0.0797,
+            "excess_vs_spy": 0.0819
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 3,
+          "symbol": "AMAT",
+          "score": 99,
+          "entry_close": 444.3,
+          "outcomes": {
+            "1": {
+              "close": 456.235,
+              "date": "2026-09-04",
+              "return": 0.0269,
+              "excess_vs_spy": 0.0192
+            },
+            "3": {
+              "close": 468.85,
+              "date": "2026-09-09",
+              "return": 0.0553,
+              "excess_vs_spy": 0.0574
+            },
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 468.85,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 3,
+            "return": 0.0553,
+            "excess_vs_spy": 0.0574
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 4,
+          "symbol": "CSCO",
+          "score": 98,
+          "entry_close": 109.15,
+          "outcomes": {
+            "1": {
+              "close": 109.32,
+              "date": "2026-09-04",
+              "return": 0.0016,
+              "excess_vs_spy": -0.0061
+            },
+            "3": {
+              "close": 109.43,
+              "date": "2026-09-09",
+              "return": 0.0026,
+              "excess_vs_spy": 0.0047
+            },
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 109.43,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 3,
+            "return": 0.0026,
+            "excess_vs_spy": 0.0047
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 5,
+          "symbol": "NUE",
+          "score": 98,
+          "entry_close": 251.0,
+          "outcomes": {
+            "1": {
+              "close": 261.07,
+              "date": "2026-09-04",
+              "return": 0.0401,
+              "excess_vs_spy": 0.0325
+            },
+            "3": {
+              "close": 257.91,
+              "date": "2026-09-09",
+              "return": 0.0275,
+              "excess_vs_spy": 0.0297
+            },
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 257.91,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 3,
+            "return": 0.0275,
+            "excess_vs_spy": 0.0297
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 6,
+          "symbol": "LRCX",
+          "score": 97,
+          "entry_close": 292.39,
+          "outcomes": {
+            "1": {
+              "close": 305.7,
+              "date": "2026-09-04",
+              "return": 0.0455,
+              "excess_vs_spy": 0.0379
+            },
+            "3": {
+              "close": 315.84,
+              "date": "2026-09-09",
+              "return": 0.0802,
+              "excess_vs_spy": 0.0824
+            },
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 315.84,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 3,
+            "return": 0.0802,
+            "excess_vs_spy": 0.0824
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 7,
+          "symbol": "TXN",
+          "score": 96,
+          "entry_close": 254.06,
+          "outcomes": {
+            "1": {
+              "close": 258.44,
+              "date": "2026-09-04",
+              "return": 0.0172,
+              "excess_vs_spy": 0.0096
+            },
+            "3": {
+              "close": 261.59,
+              "date": "2026-09-09",
+              "return": 0.0296,
+              "excess_vs_spy": 0.0318
+            },
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 261.59,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 3,
+            "return": 0.0296,
+            "excess_vs_spy": 0.0318
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 8,
+          "symbol": "STLD",
+          "score": 96,
+          "entry_close": 235.09,
+          "outcomes": {
+            "1": {
+              "close": 242.06,
+              "date": "2026-09-04",
+              "return": 0.0296,
+              "excess_vs_spy": 0.022
+            },
+            "3": {
+              "close": 240.69,
+              "date": "2026-09-09",
+              "return": 0.0238,
+              "excess_vs_spy": 0.026
+            },
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 240.69,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 3,
+            "return": 0.0238,
+            "excess_vs_spy": 0.026
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 9,
+          "symbol": "PSX",
+          "score": 95,
+          "entry_close": 248.02,
+          "outcomes": {
+            "1": {
+              "close": 255.09,
+              "date": "2026-09-04",
+              "return": 0.0285,
+              "excess_vs_spy": 0.0209
+            },
+            "3": {
+              "close": 260.78,
+              "date": "2026-09-09",
+              "return": 0.0514,
+              "excess_vs_spy": 0.0536
+            },
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 260.78,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 3,
+            "return": 0.0514,
+            "excess_vs_spy": 0.0536
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 10,
+          "symbol": "VLO",
+          "score": 94,
+          "entry_close": 358.38,
+          "outcomes": {
+            "1": {
+              "close": 370.72,
+              "date": "2026-09-04",
+              "return": 0.0344,
+              "excess_vs_spy": 0.0268
+            },
+            "3": {
+              "close": 388.95,
+              "date": "2026-09-09",
+              "return": 0.0853,
+              "excess_vs_spy": 0.0875
+            },
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 388.95,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 3,
+            "return": 0.0853,
+            "excess_vs_spy": 0.0875
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 11,
+          "symbol": "KLAC",
+          "score": 94,
+          "entry_close": 169.65,
+          "outcomes": {
+            "1": {
+              "close": 185.045,
+              "date": "2026-09-04",
+              "return": 0.0907,
+              "excess_vs_spy": 0.0831
+            },
+            "3": {
+              "close": 182.91,
+              "date": "2026-09-09",
+              "return": 0.0782,
+              "excess_vs_spy": 0.0803
+            },
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 182.91,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 3,
+            "return": 0.0782,
+            "excess_vs_spy": 0.0803
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 12,
+          "symbol": "MPC",
+          "score": 93,
+          "entry_close": 375.05,
+          "outcomes": {
+            "1": {
+              "close": 388.9,
+              "date": "2026-09-04",
+              "return": 0.0369,
+              "excess_vs_spy": 0.0293
+            },
+            "3": {
+              "close": 399.44,
+              "date": "2026-09-09",
+              "return": 0.065,
+              "excess_vs_spy": 0.0672
+            },
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 399.44,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 3,
+            "return": 0.065,
+            "excess_vs_spy": 0.0672
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 13,
+          "symbol": "FCX",
+          "score": 92,
+          "entry_close": 74.02,
+          "outcomes": {
+            "1": {
+              "close": 72.73,
+              "date": "2026-09-04",
+              "return": -0.0174,
+              "excess_vs_spy": -0.025
+            },
+            "3": {
+              "close": 76.23,
+              "date": "2026-09-09",
+              "return": 0.0299,
+              "excess_vs_spy": 0.032
+            },
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 76.23,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 3,
+            "return": 0.0299,
+            "excess_vs_spy": 0.032
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 14,
+          "symbol": "CAT",
+          "score": 92,
+          "entry_close": 782.95,
+          "outcomes": {
+            "1": {
+              "close": 813.94,
+              "date": "2026-09-04",
+              "return": 0.0396,
+              "excess_vs_spy": 0.032
+            },
+            "3": {
+              "close": 815.56,
+              "date": "2026-09-09",
+              "return": 0.0417,
+              "excess_vs_spy": 0.0438
+            },
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 815.56,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 3,
+            "return": 0.0417,
+            "excess_vs_spy": 0.0438
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 15,
+          "symbol": "ANET",
+          "score": 91,
+          "entry_close": 191.22,
+          "outcomes": {
+            "1": {
+              "close": 193.78,
+              "date": "2026-09-04",
+              "return": 0.0134,
+              "excess_vs_spy": 0.0058
+            },
+            "3": {
+              "close": 192.93,
+              "date": "2026-09-09",
+              "return": 0.0089,
+              "excess_vs_spy": 0.0111
+            },
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 192.93,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 3,
+            "return": 0.0089,
+            "excess_vs_spy": 0.0111
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 16,
+          "symbol": "ASML",
+          "score": 91,
+          "entry_close": 1657.69,
+          "outcomes": {
+            "1": {
+              "close": 1713.07,
+              "date": "2026-09-04",
+              "return": 0.0334,
+              "excess_vs_spy": 0.0258
+            },
+            "3": {
+              "close": 1729.52,
+              "date": "2026-09-09",
+              "return": 0.0433,
+              "excess_vs_spy": 0.0455
+            },
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 1729.52,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 3,
+            "return": 0.0433,
+            "excess_vs_spy": 0.0455
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 17,
+          "symbol": "UNH",
+          "score": 90,
+          "entry_close": 395.5,
+          "outcomes": {
+            "1": {
+              "close": 395.49,
+              "date": "2026-09-04",
+              "return": -0.0,
+              "excess_vs_spy": -0.0076
+            },
+            "3": {
+              "close": 393.06,
+              "date": "2026-09-09",
+              "return": -0.0062,
+              "excess_vs_spy": -0.004
+            },
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 393.06,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 3,
+            "return": -0.0062,
+            "excess_vs_spy": -0.004
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 18,
+          "symbol": "ADI",
+          "score": 89,
+          "entry_close": 352.43,
+          "outcomes": {
+            "1": {
+              "close": 362.25,
+              "date": "2026-09-04",
+              "return": 0.0279,
+              "excess_vs_spy": 0.0202
+            },
+            "3": {
+              "close": 365.07,
+              "date": "2026-09-09",
+              "return": 0.0359,
+              "excess_vs_spy": 0.038
+            },
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 365.07,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 3,
+            "return": 0.0359,
+            "excess_vs_spy": 0.038
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 19,
+          "symbol": "TGT",
+          "score": 89,
+          "entry_close": 164.13,
+          "outcomes": {
+            "1": {
+              "close": 164.44,
+              "date": "2026-09-04",
+              "return": 0.0019,
+              "excess_vs_spy": -0.0057
+            },
+            "3": {
+              "close": 157.52,
+              "date": "2026-09-09",
+              "return": -0.0403,
+              "excess_vs_spy": -0.0381
+            },
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 157.52,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 3,
+            "return": -0.0403,
+            "excess_vs_spy": -0.0381
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 20,
+          "symbol": "URI",
+          "score": 88,
+          "entry_close": 1007.13,
+          "outcomes": {
+            "1": {
+              "close": 1009.86,
+              "date": "2026-09-04",
+              "return": 0.0027,
+              "excess_vs_spy": -0.0049
+            },
+            "3": {
+              "close": 1028.77,
+              "date": "2026-09-09",
+              "return": 0.0215,
+              "excess_vs_spy": 0.0237
+            },
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 1028.77,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 3,
+            "return": 0.0215,
+            "excess_vs_spy": 0.0237
+          },
+          "status": "scored"
+        }
+      ]
+    },
+    {
+      "observation_date": "2026-09-04",
+      "positions_count": 20,
+      "fully_matured": false,
+      "by_horizon": {
+        "1": {
+          "n": 20,
+          "hit_rate": 0.75,
+          "avg_return": 0.0153,
+          "median_return": 0.012,
+          "avg_excess_vs_spy": 0.0204,
+          "share_beating_spy": 0.8,
+          "best_return": 0.0705,
+          "worst_return": -0.0179
+        },
+        "3": {
+          "n": 0
+        },
+        "5": {
+          "n": 0
+        },
+        "21": {
+          "n": 0
+        }
+      },
+      "current": {
+        "n": 20,
+        "hit_rate": 0.7,
+        "avg_return": 0.0136,
+        "median_return": 0.0109,
+        "avg_excess_vs_spy": 0.0233,
+        "share_beating_spy": 0.85,
+        "best_return": 0.103,
+        "worst_return": -0.0421
+      },
+      "positions": [
+        {
+          "rank": 1,
+          "symbol": "AMD",
+          "score": 100,
+          "entry_close": 472.43,
+          "outcomes": {
+            "1": {
+              "close": 505.74,
+              "date": "2026-09-08",
+              "return": 0.0705,
+              "excess_vs_spy": 0.0756
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 521.095,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 2,
+            "return": 0.103,
+            "excess_vs_spy": 0.1127
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 2,
+          "symbol": "MU",
+          "score": 99,
+          "entry_close": 1009.47,
+          "outcomes": {
+            "1": {
+              "close": 1000.26,
+              "date": "2026-09-08",
+              "return": -0.0091,
+              "excess_vs_spy": -0.004
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 1027.77,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 2,
+            "return": 0.0181,
+            "excess_vs_spy": 0.0278
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 3,
+          "symbol": "AMAT",
+          "score": 99,
+          "entry_close": 456.24,
+          "outcomes": {
+            "1": {
+              "close": 472.79,
+              "date": "2026-09-08",
+              "return": 0.0363,
+              "excess_vs_spy": 0.0414
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 468.85,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 2,
+            "return": 0.0276,
+            "excess_vs_spy": 0.0374
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 4,
+          "symbol": "CSCO",
+          "score": 98,
+          "entry_close": 109.32,
+          "outcomes": {
+            "1": {
+              "close": 109.17,
+              "date": "2026-09-08",
+              "return": -0.0014,
+              "excess_vs_spy": 0.0037
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 109.43,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 2,
+            "return": 0.001,
+            "excess_vs_spy": 0.0107
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 5,
+          "symbol": "NUE",
+          "score": 98,
+          "entry_close": 261.07,
+          "outcomes": {
+            "1": {
+              "close": 256.4,
+              "date": "2026-09-08",
+              "return": -0.0179,
+              "excess_vs_spy": -0.0128
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 257.91,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 2,
+            "return": -0.0121,
+            "excess_vs_spy": -0.0024
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 6,
+          "symbol": "STLD",
+          "score": 97,
+          "entry_close": 242.06,
+          "outcomes": {
+            "1": {
+              "close": 240.31,
+              "date": "2026-09-08",
+              "return": -0.0072,
+              "excess_vs_spy": -0.0021
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 240.69,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 2,
+            "return": -0.0057,
+            "excess_vs_spy": 0.0041
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 7,
+          "symbol": "TXN",
+          "score": 96,
+          "entry_close": 258.44,
+          "outcomes": {
+            "1": {
+              "close": 258.92,
+              "date": "2026-09-08",
+              "return": 0.0019,
+              "excess_vs_spy": 0.0069
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 261.59,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 2,
+            "return": 0.0122,
+            "excess_vs_spy": 0.0219
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 8,
+          "symbol": "LRCX",
+          "score": 96,
+          "entry_close": 305.7,
+          "outcomes": {
+            "1": {
+              "close": 320.42,
+              "date": "2026-09-08",
+              "return": 0.0482,
+              "excess_vs_spy": 0.0532
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 315.84,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 2,
+            "return": 0.0332,
+            "excess_vs_spy": 0.0429
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 9,
+          "symbol": "PSX",
+          "score": 95,
+          "entry_close": 255.09,
+          "outcomes": {
+            "1": {
+              "close": 259.14,
+              "date": "2026-09-08",
+              "return": 0.0159,
+              "excess_vs_spy": 0.021
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 260.78,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 2,
+            "return": 0.0223,
+            "excess_vs_spy": 0.032
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 10,
+          "symbol": "KLAC",
+          "score": 94,
+          "entry_close": 185.04,
+          "outcomes": {
+            "1": {
+              "close": 188.98,
+              "date": "2026-09-08",
+              "return": 0.0213,
+              "excess_vs_spy": 0.0264
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 182.91,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 2,
+            "return": -0.0115,
+            "excess_vs_spy": -0.0018
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 11,
+          "symbol": "VLO",
+          "score": 94,
+          "entry_close": 370.72,
+          "outcomes": {
+            "1": {
+              "close": 382.85,
+              "date": "2026-09-08",
+              "return": 0.0327,
+              "excess_vs_spy": 0.0378
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 388.95,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 2,
+            "return": 0.0492,
+            "excess_vs_spy": 0.0589
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 12,
+          "symbol": "URI",
+          "score": 93,
+          "entry_close": 1009.86,
+          "outcomes": {
+            "1": {
+              "close": 1015.17,
+              "date": "2026-09-08",
+              "return": 0.0053,
+              "excess_vs_spy": 0.0103
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 1028.77,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 2,
+            "return": 0.0187,
+            "excess_vs_spy": 0.0284
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 13,
+          "symbol": "ANET",
+          "score": 92,
+          "entry_close": 193.78,
+          "outcomes": {
+            "1": {
+              "close": 194.96,
+              "date": "2026-09-08",
+              "return": 0.0061,
+              "excess_vs_spy": 0.0112
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 192.93,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 2,
+            "return": -0.0044,
+            "excess_vs_spy": 0.0053
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 14,
+          "symbol": "MPC",
+          "score": 92,
+          "entry_close": 388.9,
+          "outcomes": {
+            "1": {
+              "close": 397.77,
+              "date": "2026-09-08",
+              "return": 0.0228,
+              "excess_vs_spy": 0.0279
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 399.44,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 2,
+            "return": 0.0271,
+            "excess_vs_spy": 0.0368
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 15,
+          "symbol": "CAT",
+          "score": 91,
+          "entry_close": 813.94,
+          "outcomes": {
+            "1": {
+              "close": 822.48,
+              "date": "2026-09-08",
+              "return": 0.0105,
+              "excess_vs_spy": 0.0156
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 815.56,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 2,
+            "return": 0.002,
+            "excess_vs_spy": 0.0117
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 16,
+          "symbol": "UNH",
+          "score": 91,
+          "entry_close": 395.49,
+          "outcomes": {
+            "1": {
+              "close": 400.84,
+              "date": "2026-09-08",
+              "return": 0.0135,
+              "excess_vs_spy": 0.0186
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 393.06,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 2,
+            "return": -0.0061,
+            "excess_vs_spy": 0.0036
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 17,
+          "symbol": "ASML",
+          "score": 90,
+          "entry_close": 1713.07,
+          "outcomes": {
+            "1": {
+              "close": 1764.85,
+              "date": "2026-09-08",
+              "return": 0.0302,
+              "excess_vs_spy": 0.0353
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 1729.52,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 2,
+            "return": 0.0096,
+            "excess_vs_spy": 0.0193
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 18,
+          "symbol": "ADI",
+          "score": 89,
+          "entry_close": 362.25,
+          "outcomes": {
+            "1": {
+              "close": 363.2,
+              "date": "2026-09-08",
+              "return": 0.0026,
+              "excess_vs_spy": 0.0077
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 365.07,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 2,
+            "return": 0.0078,
+            "excess_vs_spy": 0.0175
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 19,
+          "symbol": "TGT",
+          "score": 89,
+          "entry_close": 164.44,
+          "outcomes": {
+            "1": {
+              "close": 162.71,
+              "date": "2026-09-08",
+              "return": -0.0105,
+              "excess_vs_spy": -0.0054
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 157.52,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 2,
+            "return": -0.0421,
+            "excess_vs_spy": -0.0324
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 20,
+          "symbol": "AVGO",
+          "score": 88,
+          "entry_close": 356.34,
+          "outcomes": {
+            "1": {
+              "close": 368.56,
+              "date": "2026-09-08",
+              "return": 0.0343,
+              "excess_vs_spy": 0.0394
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 364.38,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 2,
+            "return": 0.0226,
+            "excess_vs_spy": 0.0323
+          },
+          "status": "scored"
+        }
+      ]
+    },
+    {
+      "observation_date": "2026-09-08",
+      "positions_count": 20,
+      "fully_matured": false,
+      "by_horizon": {
+        "1": {
+          "n": 20,
+          "hit_rate": 0.6,
+          "avg_return": 0.0006,
+          "median_return": 0.0033,
+          "avg_excess_vs_spy": 0.0052,
+          "share_beating_spy": 0.6,
+          "best_return": 0.0304,
+          "worst_return": -0.0321
+        },
+        "3": {
+          "n": 0
+        },
+        "5": {
+          "n": 0
+        },
+        "21": {
+          "n": 0
+        }
+      },
+      "current": {
+        "n": 20,
+        "hit_rate": 0.6,
+        "avg_return": 0.0006,
+        "median_return": 0.0033,
+        "avg_excess_vs_spy": 0.0052,
+        "share_beating_spy": 0.6,
+        "best_return": 0.0304,
+        "worst_return": -0.0321
+      },
+      "positions": [
+        {
+          "rank": 1,
+          "symbol": "AMD",
+          "score": 100,
+          "entry_close": 505.74,
+          "outcomes": {
+            "1": {
+              "close": 521.095,
+              "date": "2026-09-09",
+              "return": 0.0304,
+              "excess_vs_spy": 0.035
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 521.095,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 1,
+            "return": 0.0304,
+            "excess_vs_spy": 0.035
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 2,
+          "symbol": "MU",
+          "score": 99,
+          "entry_close": 1000.26,
+          "outcomes": {
+            "1": {
+              "close": 1027.77,
+              "date": "2026-09-09",
+              "return": 0.0275,
+              "excess_vs_spy": 0.0322
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 1027.77,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 1,
+            "return": 0.0275,
+            "excess_vs_spy": 0.0322
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 3,
+          "symbol": "CSCO",
+          "score": 99,
+          "entry_close": 109.17,
+          "outcomes": {
+            "1": {
+              "close": 109.43,
+              "date": "2026-09-09",
+              "return": 0.0024,
+              "excess_vs_spy": 0.007
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 109.43,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 1,
+            "return": 0.0024,
+            "excess_vs_spy": 0.007
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 4,
+          "symbol": "AMAT",
+          "score": 98,
+          "entry_close": 472.79,
+          "outcomes": {
+            "1": {
+              "close": 468.85,
+              "date": "2026-09-09",
+              "return": -0.0083,
+              "excess_vs_spy": -0.0037
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 468.85,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 1,
+            "return": -0.0083,
+            "excess_vs_spy": -0.0037
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 5,
+          "symbol": "NUE",
+          "score": 98,
+          "entry_close": 256.4,
+          "outcomes": {
+            "1": {
+              "close": 257.91,
+              "date": "2026-09-09",
+              "return": 0.0059,
+              "excess_vs_spy": 0.0105
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 257.91,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 1,
+            "return": 0.0059,
+            "excess_vs_spy": 0.0105
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 6,
+          "symbol": "STLD",
+          "score": 97,
+          "entry_close": 240.31,
+          "outcomes": {
+            "1": {
+              "close": 240.69,
+              "date": "2026-09-09",
+              "return": 0.0016,
+              "excess_vs_spy": 0.0062
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 240.69,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 1,
+            "return": 0.0016,
+            "excess_vs_spy": 0.0062
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 7,
+          "symbol": "TXN",
+          "score": 96,
+          "entry_close": 258.92,
+          "outcomes": {
+            "1": {
+              "close": 261.59,
+              "date": "2026-09-09",
+              "return": 0.0103,
+              "excess_vs_spy": 0.015
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 261.59,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 1,
+            "return": 0.0103,
+            "excess_vs_spy": 0.015
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 8,
+          "symbol": "LRCX",
+          "score": 96,
+          "entry_close": 320.42,
+          "outcomes": {
+            "1": {
+              "close": 315.84,
+              "date": "2026-09-09",
+              "return": -0.0143,
+              "excess_vs_spy": -0.0096
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 315.84,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 1,
+            "return": -0.0143,
+            "excess_vs_spy": -0.0096
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 9,
+          "symbol": "KLAC",
+          "score": 95,
+          "entry_close": 188.98,
+          "outcomes": {
+            "1": {
+              "close": 182.91,
+              "date": "2026-09-09",
+              "return": -0.0321,
+              "excess_vs_spy": -0.0275
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 182.91,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 1,
+            "return": -0.0321,
+            "excess_vs_spy": -0.0275
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 10,
+          "symbol": "URI",
+          "score": 94,
+          "entry_close": 1015.17,
+          "outcomes": {
+            "1": {
+              "close": 1028.77,
+              "date": "2026-09-09",
+              "return": 0.0134,
+              "excess_vs_spy": 0.018
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 1028.77,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 1,
+            "return": 0.0134,
+            "excess_vs_spy": 0.018
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 11,
+          "symbol": "PSX",
+          "score": 94,
+          "entry_close": 259.14,
+          "outcomes": {
+            "1": {
+              "close": 260.78,
+              "date": "2026-09-09",
+              "return": 0.0063,
+              "excess_vs_spy": 0.011
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 260.78,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 1,
+            "return": 0.0063,
+            "excess_vs_spy": 0.011
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 12,
+          "symbol": "CAT",
+          "score": 93,
+          "entry_close": 822.48,
+          "outcomes": {
+            "1": {
+              "close": 815.56,
+              "date": "2026-09-09",
+              "return": -0.0084,
+              "excess_vs_spy": -0.0038
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 815.56,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 1,
+            "return": -0.0084,
+            "excess_vs_spy": -0.0038
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 13,
+          "symbol": "MPC",
+          "score": 92,
+          "entry_close": 397.77,
+          "outcomes": {
+            "1": {
+              "close": 399.44,
+              "date": "2026-09-09",
+              "return": 0.0042,
+              "excess_vs_spy": 0.0088
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 399.44,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 1,
+            "return": 0.0042,
+            "excess_vs_spy": 0.0088
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 14,
+          "symbol": "VLO",
+          "score": 92,
+          "entry_close": 382.85,
+          "outcomes": {
+            "1": {
+              "close": 388.95,
+              "date": "2026-09-09",
+              "return": 0.0159,
+              "excess_vs_spy": 0.0206
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 388.95,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 1,
+            "return": 0.0159,
+            "excess_vs_spy": 0.0206
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 15,
+          "symbol": "ADI",
+          "score": 91,
+          "entry_close": 363.2,
+          "outcomes": {
+            "1": {
+              "close": 365.07,
+              "date": "2026-09-09",
+              "return": 0.0051,
+              "excess_vs_spy": 0.0098
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 365.07,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 1,
+            "return": 0.0051,
+            "excess_vs_spy": 0.0098
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 16,
+          "symbol": "ASML",
+          "score": 91,
+          "entry_close": 1764.85,
+          "outcomes": {
+            "1": {
+              "close": 1729.52,
+              "date": "2026-09-09",
+              "return": -0.02,
+              "excess_vs_spy": -0.0154
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 1729.52,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 1,
+            "return": -0.02,
+            "excess_vs_spy": -0.0154
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 17,
+          "symbol": "UNH",
+          "score": 90,
+          "entry_close": 400.84,
+          "outcomes": {
+            "1": {
+              "close": 393.06,
+              "date": "2026-09-09",
+              "return": -0.0194,
+              "excess_vs_spy": -0.0148
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 393.06,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 1,
+            "return": -0.0194,
+            "excess_vs_spy": -0.0148
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 18,
+          "symbol": "ANET",
+          "score": 89,
+          "entry_close": 194.96,
+          "outcomes": {
+            "1": {
+              "close": 192.93,
+              "date": "2026-09-09",
+              "return": -0.0104,
+              "excess_vs_spy": -0.0058
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 192.93,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 1,
+            "return": -0.0104,
+            "excess_vs_spy": -0.0058
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 19,
+          "symbol": "QCOM",
+          "score": 89,
+          "entry_close": 174.09,
+          "outcomes": {
+            "1": {
+              "close": 176.4,
+              "date": "2026-09-09",
+              "return": 0.0133,
+              "excess_vs_spy": 0.0179
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 176.4,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 1,
+            "return": 0.0133,
+            "excess_vs_spy": 0.0179
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 20,
+          "symbol": "AVGO",
+          "score": 88,
+          "entry_close": 368.56,
+          "outcomes": {
+            "1": {
+              "close": 364.38,
+              "date": "2026-09-09",
+              "return": -0.0113,
+              "excess_vs_spy": -0.0067
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 364.38,
+            "as_of": "2026-09-09",
+            "sessions_elapsed": 1,
+            "return": -0.0113,
+            "excess_vs_spy": -0.0067
+          },
+          "status": "scored"
+        }
+      ]
+    },
+    {
+      "observation_date": "2026-09-09",
+      "positions_count": 20,
+      "fully_matured": false,
+      "by_horizon": {
+        "1": {
+          "n": 0
+        },
+        "3": {
+          "n": 0
+        },
+        "5": {
+          "n": 0
+        },
+        "21": {
+          "n": 0
+        }
+      },
+      "current": {
+        "n": 0
+      },
+      "positions": [
+        {
+          "rank": 1,
+          "symbol": "AMD",
+          "score": 100,
+          "entry_close": 521.1,
+          "outcomes": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 2,
+          "symbol": "MU",
+          "score": 99,
+          "entry_close": 1027.77,
+          "outcomes": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 3,
+          "symbol": "CSCO",
+          "score": 99,
+          "entry_close": 109.43,
+          "outcomes": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 4,
+          "symbol": "NUE",
+          "score": 98,
+          "entry_close": 257.91,
+          "outcomes": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 5,
+          "symbol": "STLD",
+          "score": 98,
+          "entry_close": 240.69,
+          "outcomes": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 6,
+          "symbol": "AMAT",
+          "score": 97,
+          "entry_close": 468.85,
+          "outcomes": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 7,
+          "symbol": "TXN",
+          "score": 96,
+          "entry_close": 261.59,
+          "outcomes": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 8,
+          "symbol": "URI",
+          "score": 96,
+          "entry_close": 1028.77,
+          "outcomes": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 9,
+          "symbol": "UNH",
+          "score": 95,
+          "entry_close": 393.06,
+          "outcomes": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 10,
+          "symbol": "PSX",
+          "score": 94,
+          "entry_close": 260.78,
+          "outcomes": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 11,
+          "symbol": "MPC",
+          "score": 94,
+          "entry_close": 399.44,
+          "outcomes": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 12,
+          "symbol": "VLO",
+          "score": 93,
+          "entry_close": 388.95,
+          "outcomes": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 13,
+          "symbol": "KLAC",
+          "score": 92,
+          "entry_close": 182.91,
+          "outcomes": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 14,
+          "symbol": "LRCX",
+          "score": 92,
+          "entry_close": 315.84,
+          "outcomes": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 15,
+          "symbol": "CAT",
+          "score": 91,
+          "entry_close": 815.56,
+          "outcomes": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 16,
+          "symbol": "SPG",
+          "score": 91,
+          "entry_close": 204.53,
+          "outcomes": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 17,
+          "symbol": "ADI",
+          "score": 90,
+          "entry_close": 365.07,
+          "outcomes": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 18,
+          "symbol": "SFM",
+          "score": 89,
+          "entry_close": 73.11,
+          "outcomes": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 19,
+          "symbol": "GOOGL",
+          "score": 89,
+          "entry_close": 330.65,
+          "outcomes": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 20,
+          "symbol": "GOOG",
+          "score": 88,
+          "entry_close": 328.38,
+          "outcomes": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "status": "scored"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Each ranked symbol is followed for 21 trading sessions (the model's research horizon). Cohorts younger than that show partial results; 'current' is a mark-to-market at the latest close with sessions_elapsed shown.",
+    "Returns are simple price returns from the published close, dividends excluded. 'excess_vs_spy' subtracts SPY's return over the identical window.",
+    "Every ranked position is included -- losing and lagging names are not removed.",
+    "This is a research screen, not investment advice, and past results do not predict future results."
+  ]
+}
