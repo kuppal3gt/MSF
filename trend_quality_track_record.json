@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-09-15T14:01:32+00:00",
+  "generated_at": "2026-09-15T15:23:22+00:00",
   "model": {
     "id": "locked_defensive_staggered_v25",
     "display_name": "Trend Quality Rankings",
     "research_horizon_sessions": 21,
     "benchmark": "SPY"
   },
-  "price_data_through": "2026-09-11",
+  "price_data_through": "2026-09-14",
   "horizons": [
     1,
     3,
@@ -16,112 +16,112 @@
   ],
   "summary": {
     "overall": {
-      "cohorts": 6,
-      "positions": 120,
+      "cohorts": 7,
+      "positions": 140,
       "by_horizon": {
         "1": {
-          "n": 100,
-          "hit_rate": 0.66,
-          "avg_return": 0.0075,
-          "median_return": 0.0057,
-          "avg_excess_vs_spy": 0.0074,
-          "share_beating_spy": 0.57,
+          "n": 120,
+          "hit_rate": 0.6,
+          "avg_return": 0.002,
+          "median_return": 0.003,
+          "avg_excess_vs_spy": 0.0027,
+          "share_beating_spy": 0.525,
           "best_return": 0.0907,
-          "worst_return": -0.0565
+          "worst_return": -0.0829
         },
         "3": {
-          "n": 60,
-          "hit_rate": 0.55,
-          "avg_return": 0.0099,
-          "median_return": 0.0058,
-          "avg_excess_vs_spy": 0.0165,
-          "share_beating_spy": 0.6333,
+          "n": 80,
+          "hit_rate": 0.4875,
+          "avg_return": 0.0013,
+          "median_return": -0.0025,
+          "avg_excess_vs_spy": 0.0068,
+          "share_beating_spy": 0.55,
           "best_return": 0.1405,
-          "worst_return": -0.0693
+          "worst_return": -0.1341
         },
         "5": {
-          "n": 20,
-          "hit_rate": 0.8,
-          "avg_return": 0.0314,
-          "median_return": 0.0305,
-          "avg_excess_vs_spy": 0.0311,
-          "share_beating_spy": 0.8,
+          "n": 40,
+          "hit_rate": 0.55,
+          "avg_return": 0.0023,
+          "median_return": 0.0135,
+          "avg_excess_vs_spy": 0.008,
+          "share_beating_spy": 0.575,
           "best_return": 0.1297,
-          "worst_return": -0.0506
+          "worst_return": -0.1054
         },
         "21": {
           "n": 0
         }
       },
       "current": {
-        "n": 100,
-        "hit_rate": 0.63,
-        "avg_return": 0.0079,
-        "median_return": 0.0071,
-        "avg_excess_vs_spy": 0.0075,
-        "share_beating_spy": 0.57,
-        "best_return": 0.1297,
-        "worst_return": -0.0693
+        "n": 120,
+        "hit_rate": 0.3,
+        "avg_return": -0.0224,
+        "median_return": -0.0185,
+        "avg_excess_vs_spy": -0.0182,
+        "share_beating_spy": 0.3417,
+        "best_return": 0.0799,
+        "worst_return": -0.1465
       },
       "best_current": {
         "symbol": "AMD",
         "observation_date": "2026-09-01",
-        "return": 0.1297,
-        "sessions_elapsed": 5
+        "return": 0.0799,
+        "sessions_elapsed": 6
       },
       "worst_current": {
         "symbol": "LRCX",
         "observation_date": "2026-09-08",
-        "return": -0.0693,
-        "sessions_elapsed": 3
+        "return": -0.1465,
+        "sessions_elapsed": 4
       }
     },
     "last_30_days": {
-      "cohorts": 6,
+      "cohorts": 7,
       "by_horizon": {
         "1": {
-          "n": 100,
-          "hit_rate": 0.66,
-          "avg_return": 0.0075,
-          "median_return": 0.0057,
-          "avg_excess_vs_spy": 0.0074,
-          "share_beating_spy": 0.57,
+          "n": 120,
+          "hit_rate": 0.6,
+          "avg_return": 0.002,
+          "median_return": 0.003,
+          "avg_excess_vs_spy": 0.0027,
+          "share_beating_spy": 0.525,
           "best_return": 0.0907,
-          "worst_return": -0.0565
+          "worst_return": -0.0829
         },
         "3": {
-          "n": 60,
-          "hit_rate": 0.55,
-          "avg_return": 0.0099,
-          "median_return": 0.0058,
-          "avg_excess_vs_spy": 0.0165,
-          "share_beating_spy": 0.6333,
+          "n": 80,
+          "hit_rate": 0.4875,
+          "avg_return": 0.0013,
+          "median_return": -0.0025,
+          "avg_excess_vs_spy": 0.0068,
+          "share_beating_spy": 0.55,
           "best_return": 0.1405,
-          "worst_return": -0.0693
+          "worst_return": -0.1341
         },
         "5": {
-          "n": 20,
-          "hit_rate": 0.8,
-          "avg_return": 0.0314,
-          "median_return": 0.0305,
-          "avg_excess_vs_spy": 0.0311,
-          "share_beating_spy": 0.8,
+          "n": 40,
+          "hit_rate": 0.55,
+          "avg_return": 0.0023,
+          "median_return": 0.0135,
+          "avg_excess_vs_spy": 0.008,
+          "share_beating_spy": 0.575,
           "best_return": 0.1297,
-          "worst_return": -0.0506
+          "worst_return": -0.1054
         },
         "21": {
           "n": 0
         }
       },
       "current": {
-        "n": 100,
-        "hit_rate": 0.63,
-        "avg_return": 0.0079,
-        "median_return": 0.0071,
-        "avg_excess_vs_spy": 0.0075,
-        "share_beating_spy": 0.57,
-        "best_return": 0.1297,
-        "worst_return": -0.0693
+        "n": 120,
+        "hit_rate": 0.3,
+        "avg_return": -0.0224,
+        "median_return": -0.0185,
+        "avg_excess_vs_spy": -0.0182,
+        "share_beating_spy": 0.3417,
+        "best_return": 0.0799,
+        "worst_return": -0.1465
       }
     }
   },
@@ -167,13 +167,13 @@
       },
       "current": {
         "n": 20,
-        "hit_rate": 0.8,
-        "avg_return": 0.0314,
-        "median_return": 0.0305,
-        "avg_excess_vs_spy": 0.0311,
-        "share_beating_spy": 0.8,
-        "best_return": 0.1297,
-        "worst_return": -0.0506
+        "hit_rate": 0.45,
+        "avg_return": -0.0012,
+        "median_return": -0.0028,
+        "avg_excess_vs_spy": 0.0029,
+        "share_beating_spy": 0.55,
+        "best_return": 0.0799,
+        "worst_return": -0.0646
       },
       "positions": [
         {
@@ -203,11 +203,11 @@
             "21": null
           },
           "current": {
-            "close": 516.13,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 5,
-            "return": 0.1297,
-            "excess_vs_spy": 0.1294
+            "close": 493.41,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 6,
+            "return": 0.0799,
+            "excess_vs_spy": 0.0841
           },
           "status": "scored"
         },
@@ -238,11 +238,11 @@
             "21": null
           },
           "current": {
-            "close": 975.26,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 5,
-            "return": 0.0245,
-            "excess_vs_spy": 0.0242
+            "close": 924.03,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 6,
+            "return": -0.0293,
+            "excess_vs_spy": -0.0251
           },
           "status": "scored"
         },
@@ -273,11 +273,11 @@
             "21": null
           },
           "current": {
-            "close": 456.49,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 5,
-            "return": 0.0274,
-            "excess_vs_spy": 0.0271
+            "close": 424.21,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 6,
+            "return": -0.0452,
+            "excess_vs_spy": -0.0411
           },
           "status": "scored"
         },
@@ -308,11 +308,11 @@
             "21": null
           },
           "current": {
-            "close": 112.13,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 5,
-            "return": 0.0273,
-            "excess_vs_spy": 0.027
+            "close": 110.06,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 6,
+            "return": 0.0083,
+            "excess_vs_spy": 0.0125
           },
           "status": "scored"
         },
@@ -343,11 +343,11 @@
             "21": null
           },
           "current": {
-            "close": 259.43,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 5,
-            "return": 0.0336,
-            "excess_vs_spy": 0.0333
+            "close": 254.63,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 6,
+            "return": 0.0145,
+            "excess_vs_spy": 0.0186
           },
           "status": "scored"
         },
@@ -378,11 +378,11 @@
             "21": null
           },
           "current": {
-            "close": 298.22,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 5,
-            "return": 0.0199,
-            "excess_vs_spy": 0.0196
+            "close": 273.49,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 6,
+            "return": -0.0646,
+            "excess_vs_spy": -0.0605
           },
           "status": "scored"
         },
@@ -413,11 +413,11 @@
             "21": null
           },
           "current": {
-            "close": 268.7,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 5,
-            "return": 0.0576,
-            "excess_vs_spy": 0.0573
+            "close": 263.42,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 6,
+            "return": 0.0368,
+            "excess_vs_spy": 0.041
           },
           "status": "scored"
         },
@@ -448,11 +448,11 @@
             "21": null
           },
           "current": {
-            "close": 239.79,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 5,
-            "return": 0.02,
-            "excess_vs_spy": 0.0197
+            "close": 234.53,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 6,
+            "return": -0.0024,
+            "excess_vs_spy": 0.0018
           },
           "status": "scored"
         },
@@ -483,11 +483,11 @@
             "21": null
           },
           "current": {
-            "close": 259.47,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 5,
-            "return": 0.0462,
-            "excess_vs_spy": 0.0459
+            "close": 257.06,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 6,
+            "return": 0.0364,
+            "excess_vs_spy": 0.0406
           },
           "status": "scored"
         },
@@ -518,11 +518,11 @@
             "21": null
           },
           "current": {
-            "close": 390.42,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 5,
-            "return": 0.0894,
-            "excess_vs_spy": 0.0891
+            "close": 382.95,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 6,
+            "return": 0.0686,
+            "excess_vs_spy": 0.0727
           },
           "status": "scored"
         },
@@ -553,11 +553,11 @@
             "21": null
           },
           "current": {
-            "close": 180.64,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 5,
-            "return": 0.0648,
-            "excess_vs_spy": 0.0645
+            "close": 169.09,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 6,
+            "return": -0.0033,
+            "excess_vs_spy": 0.0009
           },
           "status": "scored"
         },
@@ -588,11 +588,11 @@
             "21": null
           },
           "current": {
-            "close": 395.93,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 5,
-            "return": 0.0557,
-            "excess_vs_spy": 0.0554
+            "close": 396.45,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 6,
+            "return": 0.0571,
+            "excess_vs_spy": 0.0612
           },
           "status": "scored"
         },
@@ -623,11 +623,11 @@
             "21": null
           },
           "current": {
-            "close": 71.07,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 5,
-            "return": -0.0399,
-            "excess_vs_spy": -0.0402
+            "close": 69.34,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 6,
+            "return": -0.0632,
+            "excess_vs_spy": -0.0591
           },
           "status": "scored"
         },
@@ -658,11 +658,11 @@
             "21": null
           },
           "current": {
-            "close": 818.57,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 5,
-            "return": 0.0455,
-            "excess_vs_spy": 0.0452
+            "close": 784.0,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 6,
+            "return": 0.0013,
+            "excess_vs_spy": 0.0055
           },
           "status": "scored"
         },
@@ -693,11 +693,11 @@
             "21": null
           },
           "current": {
-            "close": 199.59,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 5,
-            "return": 0.0438,
-            "excess_vs_spy": 0.0435
+            "close": 187.81,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 6,
+            "return": -0.0178,
+            "excess_vs_spy": -0.0137
           },
           "status": "scored"
         },
@@ -728,11 +728,11 @@
             "21": null
           },
           "current": {
-            "close": 1698.3,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 5,
-            "return": 0.0245,
-            "excess_vs_spy": 0.0242
+            "close": 1575.15,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 6,
+            "return": -0.0498,
+            "excess_vs_spy": -0.0456
           },
           "status": "scored"
         },
@@ -763,11 +763,11 @@
             "21": null
           },
           "current": {
-            "close": 376.77,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 5,
-            "return": -0.0474,
-            "excess_vs_spy": -0.0477
+            "close": 383.55,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 6,
+            "return": -0.0302,
+            "excess_vs_spy": -0.0261
           },
           "status": "scored"
         },
@@ -798,11 +798,11 @@
             "21": null
           },
           "current": {
-            "close": 378.78,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 5,
-            "return": 0.0748,
-            "excess_vs_spy": 0.0745
+            "close": 361.02,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 6,
+            "return": 0.0244,
+            "excess_vs_spy": 0.0285
           },
           "status": "scored"
         },
@@ -833,11 +833,11 @@
             "21": null
           },
           "current": {
-            "close": 155.83,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 5,
-            "return": -0.0506,
-            "excess_vs_spy": -0.0509
+            "close": 158.7,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 6,
+            "return": -0.0331,
+            "excess_vs_spy": -0.0289
           },
           "status": "scored"
         },
@@ -868,11 +868,11 @@
             "21": null
           },
           "current": {
-            "close": 989.12,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 5,
-            "return": -0.0179,
-            "excess_vs_spy": -0.0182
+            "close": 993.8,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 6,
+            "return": -0.0132,
+            "excess_vs_spy": -0.0091
           },
           "status": "scored"
         }
@@ -904,7 +904,14 @@
           "worst_return": -0.053
         },
         "5": {
-          "n": 0
+          "n": 20,
+          "hit_rate": 0.3,
+          "avg_return": -0.0268,
+          "median_return": -0.0305,
+          "avg_excess_vs_spy": -0.0151,
+          "share_beating_spy": 0.35,
+          "best_return": 0.0444,
+          "worst_return": -0.1054
         },
         "21": {
           "n": 0
@@ -912,13 +919,13 @@
       },
       "current": {
         "n": 20,
-        "hit_rate": 0.55,
-        "avg_return": 0.0059,
-        "median_return": 0.0031,
-        "avg_excess_vs_spy": 0.0131,
-        "share_beating_spy": 0.6,
-        "best_return": 0.0925,
-        "worst_return": -0.0524
+        "hit_rate": 0.3,
+        "avg_return": -0.0268,
+        "median_return": -0.0305,
+        "avg_excess_vs_spy": -0.0151,
+        "share_beating_spy": 0.35,
+        "best_return": 0.0444,
+        "worst_return": -0.1054
       },
       "positions": [
         {
@@ -939,15 +946,20 @@
               "return": 0.066,
               "excess_vs_spy": 0.0816
             },
-            "5": null,
+            "5": {
+              "close": 493.41,
+              "date": "2026-09-14",
+              "return": 0.0444,
+              "excess_vs_spy": 0.0561
+            },
             "21": null
           },
           "current": {
-            "close": 516.13,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 4,
-            "return": 0.0925,
-            "excess_vs_spy": 0.0998
+            "close": 493.41,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 5,
+            "return": 0.0444,
+            "excess_vs_spy": 0.0561
           },
           "status": "scored"
         },
@@ -969,15 +981,20 @@
               "return": -0.0318,
               "excess_vs_spy": -0.0161
             },
-            "5": null,
+            "5": {
+              "close": 924.03,
+              "date": "2026-09-14",
+              "return": -0.0846,
+              "excess_vs_spy": -0.0729
+            },
             "21": null
           },
           "current": {
-            "close": 975.26,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 4,
-            "return": -0.0339,
-            "excess_vs_spy": -0.0266
+            "close": 924.03,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 5,
+            "return": -0.0846,
+            "excess_vs_spy": -0.0729
           },
           "status": "scored"
         },
@@ -999,15 +1016,20 @@
               "return": -0.0049,
               "excess_vs_spy": 0.0108
             },
-            "5": null,
+            "5": {
+              "close": 424.21,
+              "date": "2026-09-14",
+              "return": -0.0702,
+              "excess_vs_spy": -0.0585
+            },
             "21": null
           },
           "current": {
-            "close": 456.49,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 4,
-            "return": 0.0005,
-            "excess_vs_spy": 0.0078
+            "close": 424.21,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 5,
+            "return": -0.0702,
+            "excess_vs_spy": -0.0585
           },
           "status": "scored"
         },
@@ -1029,15 +1051,20 @@
               "return": -0.0172,
               "excess_vs_spy": -0.0015
             },
-            "5": null,
+            "5": {
+              "close": 110.06,
+              "date": "2026-09-14",
+              "return": 0.0068,
+              "excess_vs_spy": 0.0185
+            },
             "21": null
           },
           "current": {
-            "close": 112.13,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 4,
-            "return": 0.0257,
-            "excess_vs_spy": 0.033
+            "close": 110.06,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 5,
+            "return": 0.0068,
+            "excess_vs_spy": 0.0185
           },
           "status": "scored"
         },
@@ -1059,15 +1086,20 @@
               "return": -0.0215,
               "excess_vs_spy": -0.0058
             },
-            "5": null,
+            "5": {
+              "close": 254.63,
+              "date": "2026-09-14",
+              "return": -0.0247,
+              "excess_vs_spy": -0.013
+            },
             "21": null
           },
           "current": {
-            "close": 259.43,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 4,
-            "return": -0.0063,
-            "excess_vs_spy": 0.001
+            "close": 254.63,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 5,
+            "return": -0.0247,
+            "excess_vs_spy": -0.013
           },
           "status": "scored"
         },
@@ -1089,15 +1121,20 @@
               "return": -0.0206,
               "excess_vs_spy": -0.0049
             },
-            "5": null,
+            "5": {
+              "close": 234.53,
+              "date": "2026-09-14",
+              "return": -0.0311,
+              "excess_vs_spy": -0.0194
+            },
             "21": null
           },
           "current": {
-            "close": 239.79,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 4,
-            "return": -0.0094,
-            "excess_vs_spy": -0.0021
+            "close": 234.53,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 5,
+            "return": -0.0311,
+            "excess_vs_spy": -0.0194
           },
           "status": "scored"
         },
@@ -1119,15 +1156,20 @@
               "return": 0.0015,
               "excess_vs_spy": 0.0171
             },
-            "5": null,
+            "5": {
+              "close": 263.42,
+              "date": "2026-09-14",
+              "return": 0.0193,
+              "excess_vs_spy": 0.031
+            },
             "21": null
           },
           "current": {
-            "close": 268.7,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 4,
-            "return": 0.0397,
-            "excess_vs_spy": 0.047
+            "close": 263.42,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 5,
+            "return": 0.0193,
+            "excess_vs_spy": 0.031
           },
           "status": "scored"
         },
@@ -1149,15 +1191,20 @@
               "return": -0.0252,
               "excess_vs_spy": -0.0095
             },
-            "5": null,
+            "5": {
+              "close": 273.49,
+              "date": "2026-09-14",
+              "return": -0.1054,
+              "excess_vs_spy": -0.0937
+            },
             "21": null
           },
           "current": {
-            "close": 298.22,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 4,
-            "return": -0.0245,
-            "excess_vs_spy": -0.0172
+            "close": 273.49,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 5,
+            "return": -0.1054,
+            "excess_vs_spy": -0.0937
           },
           "status": "scored"
         },
@@ -1179,15 +1226,20 @@
               "return": 0.0134,
               "excess_vs_spy": 0.0291
             },
-            "5": null,
+            "5": {
+              "close": 257.06,
+              "date": "2026-09-14",
+              "return": 0.0077,
+              "excess_vs_spy": 0.0194
+            },
             "21": null
           },
           "current": {
-            "close": 259.47,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 4,
-            "return": 0.0172,
-            "excess_vs_spy": 0.0244
+            "close": 257.06,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 5,
+            "return": 0.0077,
+            "excess_vs_spy": 0.0194
           },
           "status": "scored"
         },
@@ -1209,15 +1261,20 @@
               "return": -0.0425,
               "excess_vs_spy": -0.0268
             },
-            "5": null,
+            "5": {
+              "close": 169.09,
+              "date": "2026-09-14",
+              "return": -0.0862,
+              "excess_vs_spy": -0.0745
+            },
             "21": null
           },
           "current": {
-            "close": 180.64,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 4,
-            "return": -0.0238,
-            "excess_vs_spy": -0.0165
+            "close": 169.09,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 5,
+            "return": -0.0862,
+            "excess_vs_spy": -0.0745
           },
           "status": "scored"
         },
@@ -1239,15 +1296,20 @@
               "return": 0.0397,
               "excess_vs_spy": 0.0553
             },
-            "5": null,
+            "5": {
+              "close": 382.95,
+              "date": "2026-09-14",
+              "return": 0.033,
+              "excess_vs_spy": 0.0447
+            },
             "21": null
           },
           "current": {
-            "close": 390.42,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 4,
-            "return": 0.0531,
-            "excess_vs_spy": 0.0604
+            "close": 382.95,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 5,
+            "return": 0.033,
+            "excess_vs_spy": 0.0447
           },
           "status": "scored"
         },
@@ -1269,15 +1331,20 @@
               "return": -0.0206,
               "excess_vs_spy": -0.0049
             },
-            "5": null,
+            "5": {
+              "close": 993.8,
+              "date": "2026-09-14",
+              "return": -0.0159,
+              "excess_vs_spy": -0.0042
+            },
             "21": null
           },
           "current": {
-            "close": 989.12,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 4,
-            "return": -0.0205,
-            "excess_vs_spy": -0.0133
+            "close": 993.8,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 5,
+            "return": -0.0159,
+            "excess_vs_spy": -0.0042
           },
           "status": "scored"
         },
@@ -1299,15 +1366,20 @@
               "return": -0.0247,
               "excess_vs_spy": -0.0091
             },
-            "5": null,
+            "5": {
+              "close": 187.81,
+              "date": "2026-09-14",
+              "return": -0.0308,
+              "excess_vs_spy": -0.0191
+            },
             "21": null
           },
           "current": {
-            "close": 199.59,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 4,
-            "return": 0.03,
-            "excess_vs_spy": 0.0372
+            "close": 187.81,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 5,
+            "return": -0.0308,
+            "excess_vs_spy": -0.0191
           },
           "status": "scored"
         },
@@ -1329,15 +1401,20 @@
               "return": 0.0091,
               "excess_vs_spy": 0.0247
             },
-            "5": null,
+            "5": {
+              "close": 396.45,
+              "date": "2026-09-14",
+              "return": 0.0194,
+              "excess_vs_spy": 0.0311
+            },
             "21": null
           },
           "current": {
-            "close": 395.93,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 4,
-            "return": 0.0181,
-            "excess_vs_spy": 0.0253
+            "close": 396.45,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 5,
+            "return": 0.0194,
+            "excess_vs_spy": 0.0311
           },
           "status": "scored"
         },
@@ -1359,15 +1436,20 @@
               "return": -0.011,
               "excess_vs_spy": 0.0047
             },
-            "5": null,
+            "5": {
+              "close": 784.0,
+              "date": "2026-09-14",
+              "return": -0.0368,
+              "excess_vs_spy": -0.0251
+            },
             "21": null
           },
           "current": {
-            "close": 818.57,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 4,
-            "return": 0.0057,
-            "excess_vs_spy": 0.0129
+            "close": 784.0,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 5,
+            "return": -0.0368,
+            "excess_vs_spy": -0.0251
           },
           "status": "scored"
         },
@@ -1389,15 +1471,20 @@
               "return": -0.0182,
               "excess_vs_spy": -0.0026
             },
-            "5": null,
+            "5": {
+              "close": 383.55,
+              "date": "2026-09-14",
+              "return": -0.0302,
+              "excess_vs_spy": -0.0185
+            },
             "21": null
           },
           "current": {
-            "close": 376.77,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 4,
-            "return": -0.0473,
-            "excess_vs_spy": -0.0401
+            "close": 383.55,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 5,
+            "return": -0.0302,
+            "excess_vs_spy": -0.0185
           },
           "status": "scored"
         },
@@ -1419,15 +1506,20 @@
               "return": -0.015,
               "excess_vs_spy": 0.0007
             },
-            "5": null,
+            "5": {
+              "close": 1575.15,
+              "date": "2026-09-14",
+              "return": -0.0805,
+              "excess_vs_spy": -0.0688
+            },
             "21": null
           },
           "current": {
-            "close": 1698.3,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 4,
-            "return": -0.0086,
-            "excess_vs_spy": -0.0014
+            "close": 1575.15,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 5,
+            "return": -0.0805,
+            "excess_vs_spy": -0.0688
           },
           "status": "scored"
         },
@@ -1449,15 +1541,20 @@
               "return": -0.0028,
               "excess_vs_spy": 0.0129
             },
-            "5": null,
+            "5": {
+              "close": 361.02,
+              "date": "2026-09-14",
+              "return": -0.0034,
+              "excess_vs_spy": 0.0083
+            },
             "21": null
           },
           "current": {
-            "close": 378.78,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 4,
-            "return": 0.0456,
-            "excess_vs_spy": 0.0529
+            "close": 361.02,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 5,
+            "return": -0.0034,
+            "excess_vs_spy": 0.0083
           },
           "status": "scored"
         },
@@ -1479,15 +1576,20 @@
               "return": -0.053,
               "excess_vs_spy": -0.0373
             },
-            "5": null,
+            "5": {
+              "close": 158.7,
+              "date": "2026-09-14",
+              "return": -0.0349,
+              "excess_vs_spy": -0.0232
+            },
             "21": null
           },
           "current": {
-            "close": 155.83,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 4,
-            "return": -0.0524,
-            "excess_vs_spy": -0.0451
+            "close": 158.7,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 5,
+            "return": -0.0349,
+            "excess_vs_spy": -0.0232
           },
           "status": "scored"
         },
@@ -1509,15 +1611,20 @@
               "return": 0.0126,
               "excess_vs_spy": 0.0283
             },
-            "5": null,
+            "5": {
+              "close": 344.72,
+              "date": "2026-09-14",
+              "return": -0.0326,
+              "excess_vs_spy": -0.0209
+            },
             "21": null
           },
           "current": {
-            "close": 361.99,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 4,
-            "return": 0.0159,
-            "excess_vs_spy": 0.0231
+            "close": 344.72,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 5,
+            "return": -0.0326,
+            "excess_vs_spy": -0.0209
           },
           "status": "scored"
         }
@@ -1557,13 +1664,13 @@
       },
       "current": {
         "n": 20,
-        "hit_rate": 0.45,
-        "avg_return": -0.0048,
-        "median_return": -0.0034,
-        "avg_excess_vs_spy": -0.0026,
-        "share_beating_spy": 0.5,
-        "best_return": 0.0453,
-        "worst_return": -0.0693
+        "hit_rate": 0.2,
+        "avg_return": -0.0381,
+        "median_return": -0.0242,
+        "avg_excess_vs_spy": -0.0315,
+        "share_beating_spy": 0.3,
+        "best_return": 0.0348,
+        "worst_return": -0.1465
       },
       "positions": [
         {
@@ -1588,11 +1695,11 @@
             "21": null
           },
           "current": {
-            "close": 516.13,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 3,
-            "return": 0.0205,
-            "excess_vs_spy": 0.0227
+            "close": 493.41,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 4,
+            "return": -0.0244,
+            "excess_vs_spy": -0.0177
           },
           "status": "scored"
         },
@@ -1618,11 +1725,11 @@
             "21": null
           },
           "current": {
-            "close": 975.26,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 3,
-            "return": -0.025,
-            "excess_vs_spy": -0.0228
+            "close": 924.03,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 4,
+            "return": -0.0762,
+            "excess_vs_spy": -0.0696
           },
           "status": "scored"
         },
@@ -1648,11 +1755,11 @@
             "21": null
           },
           "current": {
-            "close": 112.13,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 3,
-            "return": 0.0271,
-            "excess_vs_spy": 0.0293
+            "close": 110.06,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 4,
+            "return": 0.0082,
+            "excess_vs_spy": 0.0148
           },
           "status": "scored"
         },
@@ -1678,11 +1785,11 @@
             "21": null
           },
           "current": {
-            "close": 456.49,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 3,
-            "return": -0.0345,
-            "excess_vs_spy": -0.0323
+            "close": 424.21,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 4,
+            "return": -0.1028,
+            "excess_vs_spy": -0.0961
           },
           "status": "scored"
         },
@@ -1708,11 +1815,11 @@
             "21": null
           },
           "current": {
-            "close": 259.43,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 3,
-            "return": 0.0118,
-            "excess_vs_spy": 0.014
+            "close": 254.63,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 4,
+            "return": -0.0069,
+            "excess_vs_spy": -0.0003
           },
           "status": "scored"
         },
@@ -1738,11 +1845,11 @@
             "21": null
           },
           "current": {
-            "close": 239.79,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 3,
-            "return": -0.0022,
-            "excess_vs_spy": 0.0
+            "close": 234.53,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 4,
+            "return": -0.0241,
+            "excess_vs_spy": -0.0174
           },
           "status": "scored"
         },
@@ -1768,11 +1875,11 @@
             "21": null
           },
           "current": {
-            "close": 268.7,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 3,
-            "return": 0.0378,
-            "excess_vs_spy": 0.04
+            "close": 263.42,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 4,
+            "return": 0.0174,
+            "excess_vs_spy": 0.024
           },
           "status": "scored"
         },
@@ -1798,11 +1905,11 @@
             "21": null
           },
           "current": {
-            "close": 298.22,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 3,
-            "return": -0.0693,
-            "excess_vs_spy": -0.0671
+            "close": 273.49,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 4,
+            "return": -0.1465,
+            "excess_vs_spy": -0.1398
           },
           "status": "scored"
         },
@@ -1828,11 +1935,11 @@
             "21": null
           },
           "current": {
-            "close": 180.64,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 3,
-            "return": -0.0441,
-            "excess_vs_spy": -0.042
+            "close": 169.09,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 4,
+            "return": -0.1052,
+            "excess_vs_spy": -0.0986
           },
           "status": "scored"
         },
@@ -1858,11 +1965,11 @@
             "21": null
           },
           "current": {
-            "close": 989.12,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 3,
-            "return": -0.0257,
-            "excess_vs_spy": -0.0235
+            "close": 993.8,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 4,
+            "return": -0.0211,
+            "excess_vs_spy": -0.0144
           },
           "status": "scored"
         },
@@ -1888,11 +1995,11 @@
             "21": null
           },
           "current": {
-            "close": 259.47,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 3,
-            "return": 0.0013,
-            "excess_vs_spy": 0.0035
+            "close": 257.06,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 4,
+            "return": -0.008,
+            "excess_vs_spy": -0.0014
           },
           "status": "scored"
         },
@@ -1918,11 +2025,11 @@
             "21": null
           },
           "current": {
-            "close": 818.57,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 3,
-            "return": -0.0048,
-            "excess_vs_spy": -0.0026
+            "close": 784.0,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 4,
+            "return": -0.0468,
+            "excess_vs_spy": -0.0402
           },
           "status": "scored"
         },
@@ -1948,11 +2055,11 @@
             "21": null
           },
           "current": {
-            "close": 395.93,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 3,
-            "return": -0.0046,
-            "excess_vs_spy": -0.0024
+            "close": 396.45,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 4,
+            "return": -0.0033,
+            "excess_vs_spy": 0.0033
           },
           "status": "scored"
         },
@@ -1978,11 +2085,11 @@
             "21": null
           },
           "current": {
-            "close": 390.42,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 3,
-            "return": 0.0198,
-            "excess_vs_spy": 0.022
+            "close": 382.95,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 4,
+            "return": 0.0003,
+            "excess_vs_spy": 0.0069
           },
           "status": "scored"
         },
@@ -2008,11 +2115,11 @@
             "21": null
           },
           "current": {
-            "close": 378.78,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 3,
-            "return": 0.0429,
-            "excess_vs_spy": 0.0451
+            "close": 361.02,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 4,
+            "return": -0.006,
+            "excess_vs_spy": 0.0006
           },
           "status": "scored"
         },
@@ -2038,11 +2145,11 @@
             "21": null
           },
           "current": {
-            "close": 1698.3,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 3,
-            "return": -0.0377,
-            "excess_vs_spy": -0.0355
+            "close": 1575.15,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 4,
+            "return": -0.1075,
+            "excess_vs_spy": -0.1009
           },
           "status": "scored"
         },
@@ -2068,11 +2175,11 @@
             "21": null
           },
           "current": {
-            "close": 376.77,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 3,
-            "return": -0.06,
-            "excess_vs_spy": -0.0579
+            "close": 383.55,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 4,
+            "return": -0.0431,
+            "excess_vs_spy": -0.0365
           },
           "status": "scored"
         },
@@ -2098,11 +2205,11 @@
             "21": null
           },
           "current": {
-            "close": 199.59,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 3,
-            "return": 0.0237,
-            "excess_vs_spy": 0.0259
+            "close": 187.81,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 4,
+            "return": -0.0367,
+            "excess_vs_spy": -0.03
           },
           "status": "scored"
         },
@@ -2128,11 +2235,11 @@
             "21": null
           },
           "current": {
-            "close": 181.97,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 3,
-            "return": 0.0453,
-            "excess_vs_spy": 0.0474
+            "close": 180.15,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 4,
+            "return": 0.0348,
+            "excess_vs_spy": 0.0414
           },
           "status": "scored"
         },
@@ -2158,11 +2265,11 @@
             "21": null
           },
           "current": {
-            "close": 361.99,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 3,
-            "return": -0.0178,
-            "excess_vs_spy": -0.0156
+            "close": 344.72,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 4,
+            "return": -0.0647,
+            "excess_vs_spy": -0.0581
           },
           "status": "scored"
         }
@@ -2184,7 +2291,14 @@
           "worst_return": -0.0565
         },
         "3": {
-          "n": 0
+          "n": 20,
+          "hit_rate": 0.3,
+          "avg_return": -0.0245,
+          "median_return": -0.0148,
+          "avg_excess_vs_spy": -0.0226,
+          "share_beating_spy": 0.3,
+          "best_return": 0.0567,
+          "worst_return": -0.1341
         },
         "5": {
           "n": 0
@@ -2195,13 +2309,13 @@
       },
       "current": {
         "n": 20,
-        "hit_rate": 0.45,
-        "avg_return": -0.0054,
-        "median_return": -0.0043,
-        "avg_excess_vs_spy": -0.0079,
-        "share_beating_spy": 0.4,
-        "best_return": 0.0376,
-        "worst_return": -0.0558
+        "hit_rate": 0.3,
+        "avg_return": -0.0245,
+        "median_return": -0.0148,
+        "avg_excess_vs_spy": -0.0226,
+        "share_beating_spy": 0.3,
+        "best_return": 0.0567,
+        "worst_return": -0.1341
       },
       "positions": [
         {
@@ -2216,16 +2330,21 @@
               "return": -0.0336,
               "excess_vs_spy": -0.0276
             },
-            "3": null,
+            "3": {
+              "close": 493.41,
+              "date": "2026-09-14",
+              "return": -0.0531,
+              "excess_vs_spy": -0.0511
+            },
             "5": null,
             "21": null
           },
           "current": {
-            "close": 516.13,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 2,
-            "return": -0.0095,
-            "excess_vs_spy": -0.012
+            "close": 493.41,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 3,
+            "return": -0.0531,
+            "excess_vs_spy": -0.0511
           },
           "status": "scored"
         },
@@ -2241,16 +2360,21 @@
               "return": -0.049,
               "excess_vs_spy": -0.043
             },
-            "3": null,
+            "3": {
+              "close": 924.03,
+              "date": "2026-09-14",
+              "return": -0.1009,
+              "excess_vs_spy": -0.0989
+            },
             "5": null,
             "21": null
           },
           "current": {
-            "close": 975.26,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 2,
-            "return": -0.0511,
-            "excess_vs_spy": -0.0536
+            "close": 924.03,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 3,
+            "return": -0.1009,
+            "excess_vs_spy": -0.0989
           },
           "status": "scored"
         },
@@ -2266,16 +2390,21 @@
               "return": -0.0182,
               "excess_vs_spy": -0.0122
             },
-            "3": null,
+            "3": {
+              "close": 110.06,
+              "date": "2026-09-14",
+              "return": 0.0058,
+              "excess_vs_spy": 0.0078
+            },
             "5": null,
             "21": null
           },
           "current": {
-            "close": 112.13,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 2,
-            "return": 0.0247,
-            "excess_vs_spy": 0.0222
+            "close": 110.06,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 3,
+            "return": 0.0058,
+            "excess_vs_spy": 0.0078
           },
           "status": "scored"
         },
@@ -2291,16 +2420,21 @@
               "return": -0.0095,
               "excess_vs_spy": -0.0035
             },
-            "3": null,
+            "3": {
+              "close": 254.63,
+              "date": "2026-09-14",
+              "return": -0.0127,
+              "excess_vs_spy": -0.0107
+            },
             "5": null,
             "21": null
           },
           "current": {
-            "close": 259.43,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 2,
-            "return": 0.0059,
-            "excess_vs_spy": 0.0034
+            "close": 254.63,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 3,
+            "return": -0.0127,
+            "excess_vs_spy": -0.0107
           },
           "status": "scored"
         },
@@ -2316,16 +2450,21 @@
               "return": -0.015,
               "excess_vs_spy": -0.009
             },
-            "3": null,
+            "3": {
+              "close": 234.53,
+              "date": "2026-09-14",
+              "return": -0.0256,
+              "excess_vs_spy": -0.0236
+            },
             "5": null,
             "21": null
           },
           "current": {
-            "close": 239.79,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 2,
-            "return": -0.0037,
-            "excess_vs_spy": -0.0062
+            "close": 234.53,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 3,
+            "return": -0.0256,
+            "excess_vs_spy": -0.0236
           },
           "status": "scored"
         },
@@ -2341,16 +2480,21 @@
               "return": -0.0317,
               "excess_vs_spy": -0.0257
             },
-            "3": null,
+            "3": {
+              "close": 424.21,
+              "date": "2026-09-14",
+              "return": -0.0952,
+              "excess_vs_spy": -0.0932
+            },
             "5": null,
             "21": null
           },
           "current": {
-            "close": 456.49,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 2,
-            "return": -0.0264,
-            "excess_vs_spy": -0.0288
+            "close": 424.21,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 3,
+            "return": -0.0952,
+            "excess_vs_spy": -0.0932
           },
           "status": "scored"
         },
@@ -2366,16 +2510,21 @@
               "return": -0.0106,
               "excess_vs_spy": -0.0046
             },
-            "3": null,
+            "3": {
+              "close": 263.42,
+              "date": "2026-09-14",
+              "return": 0.007,
+              "excess_vs_spy": 0.009
+            },
             "5": null,
             "21": null
           },
           "current": {
-            "close": 268.7,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 2,
-            "return": 0.0272,
-            "excess_vs_spy": 0.0247
+            "close": 263.42,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 3,
+            "return": 0.007,
+            "excess_vs_spy": 0.009
           },
           "status": "scored"
         },
@@ -2391,16 +2540,21 @@
               "return": -0.0386,
               "excess_vs_spy": -0.0326
             },
-            "3": null,
+            "3": {
+              "close": 993.8,
+              "date": "2026-09-14",
+              "return": -0.034,
+              "excess_vs_spy": -0.032
+            },
             "5": null,
             "21": null
           },
           "current": {
-            "close": 989.12,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 2,
-            "return": -0.0385,
-            "excess_vs_spy": -0.041
+            "close": 993.8,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 3,
+            "return": -0.034,
+            "excess_vs_spy": -0.032
           },
           "status": "scored"
         },
@@ -2416,16 +2570,21 @@
               "return": -0.0122,
               "excess_vs_spy": -0.0062
             },
-            "3": null,
+            "3": {
+              "close": 383.55,
+              "date": "2026-09-14",
+              "return": -0.0242,
+              "excess_vs_spy": -0.0222
+            },
             "5": null,
             "21": null
           },
           "current": {
-            "close": 376.77,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 2,
-            "return": -0.0414,
-            "excess_vs_spy": -0.0439
+            "close": 383.55,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 3,
+            "return": -0.0242,
+            "excess_vs_spy": -0.0222
           },
           "status": "scored"
         },
@@ -2441,16 +2600,21 @@
               "return": -0.0087,
               "excess_vs_spy": -0.0027
             },
-            "3": null,
+            "3": {
+              "close": 257.06,
+              "date": "2026-09-14",
+              "return": -0.0143,
+              "excess_vs_spy": -0.0123
+            },
             "5": null,
             "21": null
           },
           "current": {
-            "close": 259.47,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 2,
-            "return": -0.005,
-            "excess_vs_spy": -0.0075
+            "close": 257.06,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 3,
+            "return": -0.0143,
+            "excess_vs_spy": -0.0123
           },
           "status": "scored"
         },
@@ -2466,16 +2630,21 @@
               "return": -0.0176,
               "excess_vs_spy": -0.0116
             },
-            "3": null,
+            "3": {
+              "close": 396.45,
+              "date": "2026-09-14",
+              "return": -0.0075,
+              "excess_vs_spy": -0.0055
+            },
             "5": null,
             "21": null
           },
           "current": {
-            "close": 395.93,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 2,
-            "return": -0.0088,
-            "excess_vs_spy": -0.0113
+            "close": 396.45,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 3,
+            "return": -0.0075,
+            "excess_vs_spy": -0.0055
           },
           "status": "scored"
         },
@@ -2491,16 +2660,21 @@
               "return": -0.0091,
               "excess_vs_spy": -0.0031
             },
-            "3": null,
+            "3": {
+              "close": 382.95,
+              "date": "2026-09-14",
+              "return": -0.0154,
+              "excess_vs_spy": -0.0134
+            },
             "5": null,
             "21": null
           },
           "current": {
-            "close": 390.42,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 2,
-            "return": 0.0038,
-            "excess_vs_spy": 0.0013
+            "close": 382.95,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 3,
+            "return": -0.0154,
+            "excess_vs_spy": -0.0134
           },
           "status": "scored"
         },
@@ -2516,16 +2690,21 @@
               "return": -0.0313,
               "excess_vs_spy": -0.0253
             },
-            "3": null,
+            "3": {
+              "close": 169.09,
+              "date": "2026-09-14",
+              "return": -0.0756,
+              "excess_vs_spy": -0.0736
+            },
             "5": null,
             "21": null
           },
           "current": {
-            "close": 180.64,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 2,
-            "return": -0.0124,
-            "excess_vs_spy": -0.0149
+            "close": 169.09,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 3,
+            "return": -0.0756,
+            "excess_vs_spy": -0.0736
           },
           "status": "scored"
         },
@@ -2541,16 +2720,21 @@
               "return": -0.0565,
               "excess_vs_spy": -0.0505
             },
-            "3": null,
+            "3": {
+              "close": 273.49,
+              "date": "2026-09-14",
+              "return": -0.1341,
+              "excess_vs_spy": -0.1321
+            },
             "5": null,
             "21": null
           },
           "current": {
-            "close": 298.22,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 2,
-            "return": -0.0558,
-            "excess_vs_spy": -0.0583
+            "close": 273.49,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 3,
+            "return": -0.1341,
+            "excess_vs_spy": -0.1321
           },
           "status": "scored"
         },
@@ -2566,16 +2750,21 @@
               "return": -0.0129,
               "excess_vs_spy": -0.007
             },
-            "3": null,
+            "3": {
+              "close": 784.0,
+              "date": "2026-09-14",
+              "return": -0.0387,
+              "excess_vs_spy": -0.0367
+            },
             "5": null,
             "21": null
           },
           "current": {
-            "close": 818.57,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 2,
-            "return": 0.0037,
-            "excess_vs_spy": 0.0012
+            "close": 784.0,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 3,
+            "return": -0.0387,
+            "excess_vs_spy": -0.0367
           },
           "status": "scored"
         },
@@ -2591,16 +2780,21 @@
               "return": 0.0007,
               "excess_vs_spy": 0.0067
             },
-            "3": null,
+            "3": {
+              "close": 204.97,
+              "date": "2026-09-14",
+              "return": 0.0022,
+              "excess_vs_spy": 0.0041
+            },
             "5": null,
             "21": null
           },
           "current": {
-            "close": 204.83,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 2,
-            "return": 0.0015,
-            "excess_vs_spy": -0.001
+            "close": 204.97,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 3,
+            "return": 0.0022,
+            "excess_vs_spy": 0.0041
           },
           "status": "scored"
         },
@@ -2616,16 +2810,21 @@
               "return": -0.0105,
               "excess_vs_spy": -0.0045
             },
-            "3": null,
+            "3": {
+              "close": 361.02,
+              "date": "2026-09-14",
+              "return": -0.0111,
+              "excess_vs_spy": -0.0091
+            },
             "5": null,
             "21": null
           },
           "current": {
-            "close": 378.78,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 2,
-            "return": 0.0376,
-            "excess_vs_spy": 0.0351
+            "close": 361.02,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 3,
+            "return": -0.0111,
+            "excess_vs_spy": -0.0091
           },
           "status": "scored"
         },
@@ -2641,16 +2840,21 @@
               "return": -0.0124,
               "excess_vs_spy": -0.0065
             },
-            "3": null,
+            "3": {
+              "close": 75.09,
+              "date": "2026-09-14",
+              "return": 0.0271,
+              "excess_vs_spy": 0.0291
+            },
             "5": null,
             "21": null
           },
           "current": {
-            "close": 72.76,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 2,
-            "return": -0.0048,
-            "excess_vs_spy": -0.0073
+            "close": 75.09,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 3,
+            "return": 0.0271,
+            "excess_vs_spy": 0.0291
           },
           "status": "scored"
         },
@@ -2666,16 +2870,21 @@
               "return": 0.0059,
               "excess_vs_spy": 0.0119
             },
-            "3": null,
+            "3": {
+              "close": 349.39,
+              "date": "2026-09-14",
+              "return": 0.0567,
+              "excess_vs_spy": 0.0587
+            },
             "5": null,
             "21": null
           },
           "current": {
-            "close": 338.5,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 2,
-            "return": 0.0237,
-            "excess_vs_spy": 0.0213
+            "close": 349.39,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 3,
+            "return": 0.0567,
+            "excess_vs_spy": 0.0587
           },
           "status": "scored"
         },
@@ -2691,16 +2900,21 @@
               "return": 0.0061,
               "excess_vs_spy": 0.0121
             },
-            "3": null,
+            "3": {
+              "close": 345.71,
+              "date": "2026-09-14",
+              "return": 0.0528,
+              "excess_vs_spy": 0.0548
+            },
             "5": null,
             "21": null
           },
           "current": {
-            "close": 335.45,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 2,
-            "return": 0.0215,
-            "excess_vs_spy": 0.0191
+            "close": 345.71,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 3,
+            "return": 0.0528,
+            "excess_vs_spy": 0.0548
           },
           "status": "scored"
         }
@@ -2733,13 +2947,13 @@
       },
       "current": {
         "n": 20,
-        "hit_rate": 0.9,
-        "avg_return": 0.0124,
-        "median_return": 0.0102,
-        "avg_excess_vs_spy": 0.0039,
-        "share_beating_spy": 0.55,
-        "best_return": 0.0485,
-        "worst_return": -0.0296
+        "hit_rate": 0.25,
+        "avg_return": -0.0182,
+        "median_return": -0.0115,
+        "avg_excess_vs_spy": -0.0222,
+        "share_beating_spy": 0.25,
+        "best_return": 0.04,
+        "worst_return": -0.0823
       },
       "positions": [
         {
@@ -2759,11 +2973,11 @@
             "21": null
           },
           "current": {
-            "close": 975.26,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 1,
-            "return": -0.0022,
-            "excess_vs_spy": -0.0107
+            "close": 924.03,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 2,
+            "return": -0.0546,
+            "excess_vs_spy": -0.0586
           },
           "status": "scored"
         },
@@ -2784,11 +2998,11 @@
             "21": null
           },
           "current": {
-            "close": 516.13,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 1,
-            "return": 0.0249,
-            "excess_vs_spy": 0.0164
+            "close": 493.41,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 2,
+            "return": -0.0202,
+            "excess_vs_spy": -0.0243
           },
           "status": "scored"
         },
@@ -2809,11 +3023,11 @@
             "21": null
           },
           "current": {
-            "close": 112.13,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 1,
-            "return": 0.0437,
-            "excess_vs_spy": 0.0351
+            "close": 110.06,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 2,
+            "return": 0.0244,
+            "excess_vs_spy": 0.0204
           },
           "status": "scored"
         },
@@ -2834,11 +3048,11 @@
             "21": null
           },
           "current": {
-            "close": 456.49,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 1,
-            "return": 0.0055,
-            "excess_vs_spy": -0.0031
+            "close": 424.21,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 2,
+            "return": -0.0656,
+            "excess_vs_spy": -0.0697
           },
           "status": "scored"
         },
@@ -2859,11 +3073,11 @@
             "21": null
           },
           "current": {
-            "close": 259.43,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 1,
-            "return": 0.0155,
-            "excess_vs_spy": 0.007
+            "close": 254.63,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 2,
+            "return": -0.0032,
+            "excess_vs_spy": -0.0073
           },
           "status": "scored"
         },
@@ -2884,11 +3098,11 @@
             "21": null
           },
           "current": {
-            "close": 239.79,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 1,
-            "return": 0.0114,
-            "excess_vs_spy": 0.0029
+            "close": 234.53,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 2,
+            "return": -0.0108,
+            "excess_vs_spy": -0.0148
           },
           "status": "scored"
         },
@@ -2909,11 +3123,11 @@
             "21": null
           },
           "current": {
-            "close": 268.7,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 1,
-            "return": 0.0382,
-            "excess_vs_spy": 0.0296
+            "close": 263.42,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 2,
+            "return": 0.0178,
+            "excess_vs_spy": 0.0137
           },
           "status": "scored"
         },
@@ -2934,11 +3148,11 @@
             "21": null
           },
           "current": {
-            "close": 989.12,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 1,
-            "return": 0.0,
-            "excess_vs_spy": -0.0085
+            "close": 993.8,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 2,
+            "return": 0.0048,
+            "excess_vs_spy": 0.0007
           },
           "status": "scored"
         },
@@ -2959,11 +3173,11 @@
             "21": null
           },
           "current": {
-            "close": 298.22,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 1,
-            "return": 0.0007,
-            "excess_vs_spy": -0.0078
+            "close": 273.49,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 2,
+            "return": -0.0823,
+            "excess_vs_spy": -0.0863
           },
           "status": "scored"
         },
@@ -2984,11 +3198,11 @@
             "21": null
           },
           "current": {
-            "close": 376.77,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 1,
-            "return": -0.0296,
-            "excess_vs_spy": -0.0382
+            "close": 383.55,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 2,
+            "return": -0.0122,
+            "excess_vs_spy": -0.0162
           },
           "status": "scored"
         },
@@ -3009,11 +3223,11 @@
             "21": null
           },
           "current": {
-            "close": 180.64,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 1,
-            "return": 0.0195,
-            "excess_vs_spy": 0.011
+            "close": 169.09,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 2,
+            "return": -0.0457,
+            "excess_vs_spy": -0.0497
           },
           "status": "scored"
         },
@@ -3034,11 +3248,11 @@
             "21": null
           },
           "current": {
-            "close": 72.76,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 1,
-            "return": 0.0078,
-            "excess_vs_spy": -0.0008
+            "close": 75.09,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 2,
+            "return": 0.04,
+            "excess_vs_spy": 0.036
           },
           "status": "scored"
         },
@@ -3059,11 +3273,11 @@
             "21": null
           },
           "current": {
-            "close": 1698.3,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 1,
-            "return": 0.0064,
-            "excess_vs_spy": -0.0021
+            "close": 1575.15,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 2,
+            "return": -0.0665,
+            "excess_vs_spy": -0.0706
           },
           "status": "scored"
         },
@@ -3084,11 +3298,11 @@
             "21": null
           },
           "current": {
-            "close": 259.47,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 1,
-            "return": 0.0037,
-            "excess_vs_spy": -0.0048
+            "close": 257.06,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 2,
+            "return": -0.0056,
+            "excess_vs_spy": -0.0096
           },
           "status": "scored"
         },
@@ -3109,11 +3323,11 @@
             "21": null
           },
           "current": {
-            "close": 818.57,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 1,
-            "return": 0.0169,
-            "excess_vs_spy": 0.0083
+            "close": 784.0,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 2,
+            "return": -0.0261,
+            "excess_vs_spy": -0.0301
           },
           "status": "scored"
         },
@@ -3134,11 +3348,11 @@
             "21": null
           },
           "current": {
-            "close": 390.42,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 1,
-            "return": 0.0129,
-            "excess_vs_spy": 0.0044
+            "close": 382.95,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 2,
+            "return": -0.0064,
+            "excess_vs_spy": -0.0105
           },
           "status": "scored"
         },
@@ -3159,11 +3373,11 @@
             "21": null
           },
           "current": {
-            "close": 395.93,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 1,
-            "return": 0.0089,
-            "excess_vs_spy": 0.0004
+            "close": 396.45,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 2,
+            "return": 0.0103,
+            "excess_vs_spy": 0.0062
           },
           "status": "scored"
         },
@@ -3184,11 +3398,11 @@
             "21": null
           },
           "current": {
-            "close": 378.78,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 1,
-            "return": 0.0485,
-            "excess_vs_spy": 0.04
+            "close": 361.02,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 2,
+            "return": -0.0006,
+            "excess_vs_spy": -0.0047
           },
           "status": "scored"
         },
@@ -3209,11 +3423,11 @@
             "21": null
           },
           "current": {
-            "close": 361.99,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 1,
-            "return": 0.0032,
-            "excess_vs_spy": -0.0053
+            "close": 344.72,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 2,
+            "return": -0.0446,
+            "excess_vs_spy": -0.0487
           },
           "status": "scored"
         },
@@ -3234,11 +3448,11 @@
             "21": null
           },
           "current": {
-            "close": 556.75,
-            "as_of": "2026-09-11",
-            "sessions_elapsed": 1,
-            "return": 0.0122,
-            "excess_vs_spy": 0.0037
+            "close": 541.1,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 2,
+            "return": -0.0162,
+            "excess_vs_spy": -0.0203
           },
           "status": "scored"
         }
@@ -3246,6 +3460,544 @@
     },
     {
       "observation_date": "2026-09-11",
+      "positions_count": 20,
+      "fully_matured": false,
+      "by_horizon": {
+        "1": {
+          "n": 20,
+          "hit_rate": 0.3,
+          "avg_return": -0.0254,
+          "median_return": -0.0194,
+          "avg_excess_vs_spy": -0.021,
+          "share_beating_spy": 0.3,
+          "best_return": 0.032,
+          "worst_return": -0.0829
+        },
+        "3": {
+          "n": 0
+        },
+        "5": {
+          "n": 0
+        },
+        "21": {
+          "n": 0
+        }
+      },
+      "current": {
+        "n": 20,
+        "hit_rate": 0.3,
+        "avg_return": -0.0254,
+        "median_return": -0.0194,
+        "avg_excess_vs_spy": -0.021,
+        "share_beating_spy": 0.3,
+        "best_return": 0.032,
+        "worst_return": -0.0829
+      },
+      "positions": [
+        {
+          "rank": 1,
+          "symbol": "MU",
+          "score": 100,
+          "entry_close": 975.26,
+          "outcomes": {
+            "1": {
+              "close": 924.03,
+              "date": "2026-09-14",
+              "return": -0.0525,
+              "excess_vs_spy": -0.0481
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 924.03,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 1,
+            "return": -0.0525,
+            "excess_vs_spy": -0.0481
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 2,
+          "symbol": "AMD",
+          "score": 99,
+          "entry_close": 516.13,
+          "outcomes": {
+            "1": {
+              "close": 493.41,
+              "date": "2026-09-14",
+              "return": -0.044,
+              "excess_vs_spy": -0.0396
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 493.41,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 1,
+            "return": -0.044,
+            "excess_vs_spy": -0.0396
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 3,
+          "symbol": "AMAT",
+          "score": 99,
+          "entry_close": 456.49,
+          "outcomes": {
+            "1": {
+              "close": 424.21,
+              "date": "2026-09-14",
+              "return": -0.0707,
+              "excess_vs_spy": -0.0663
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 424.21,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 1,
+            "return": -0.0707,
+            "excess_vs_spy": -0.0663
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 4,
+          "symbol": "CSCO",
+          "score": 98,
+          "entry_close": 112.13,
+          "outcomes": {
+            "1": {
+              "close": 110.06,
+              "date": "2026-09-14",
+              "return": -0.0185,
+              "excess_vs_spy": -0.014
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 110.06,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 1,
+            "return": -0.0185,
+            "excess_vs_spy": -0.014
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 5,
+          "symbol": "STLD",
+          "score": 98,
+          "entry_close": 239.79,
+          "outcomes": {
+            "1": {
+              "close": 234.53,
+              "date": "2026-09-14",
+              "return": -0.0219,
+              "excess_vs_spy": -0.0175
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 234.53,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 1,
+            "return": -0.0219,
+            "excess_vs_spy": -0.0175
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 6,
+          "symbol": "NUE",
+          "score": 97,
+          "entry_close": 259.43,
+          "outcomes": {
+            "1": {
+              "close": 254.63,
+              "date": "2026-09-14",
+              "return": -0.0185,
+              "excess_vs_spy": -0.014
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 254.63,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 1,
+            "return": -0.0185,
+            "excess_vs_spy": -0.014
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 7,
+          "symbol": "UNH",
+          "score": 96,
+          "entry_close": 376.77,
+          "outcomes": {
+            "1": {
+              "close": 383.55,
+              "date": "2026-09-14",
+              "return": 0.018,
+              "excess_vs_spy": 0.0225
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 383.55,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 1,
+            "return": 0.018,
+            "excess_vs_spy": 0.0225
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 8,
+          "symbol": "URI",
+          "score": 96,
+          "entry_close": 989.12,
+          "outcomes": {
+            "1": {
+              "close": 993.8,
+              "date": "2026-09-14",
+              "return": 0.0047,
+              "excess_vs_spy": 0.0092
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 993.8,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 1,
+            "return": 0.0047,
+            "excess_vs_spy": 0.0092
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 9,
+          "symbol": "LRCX",
+          "score": 95,
+          "entry_close": 298.22,
+          "outcomes": {
+            "1": {
+              "close": 273.49,
+              "date": "2026-09-14",
+              "return": -0.0829,
+              "excess_vs_spy": -0.0785
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 273.49,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 1,
+            "return": -0.0829,
+            "excess_vs_spy": -0.0785
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 10,
+          "symbol": "TXN",
+          "score": 94,
+          "entry_close": 268.7,
+          "outcomes": {
+            "1": {
+              "close": 263.42,
+              "date": "2026-09-14",
+              "return": -0.0197,
+              "excess_vs_spy": -0.0152
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 263.42,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 1,
+            "return": -0.0197,
+            "excess_vs_spy": -0.0152
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 11,
+          "symbol": "KLAC",
+          "score": 94,
+          "entry_close": 180.64,
+          "outcomes": {
+            "1": {
+              "close": 169.09,
+              "date": "2026-09-14",
+              "return": -0.0639,
+              "excess_vs_spy": -0.0595
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 169.09,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 1,
+            "return": -0.0639,
+            "excess_vs_spy": -0.0595
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 12,
+          "symbol": "ASML",
+          "score": 93,
+          "entry_close": 1698.3,
+          "outcomes": {
+            "1": {
+              "close": 1575.15,
+              "date": "2026-09-14",
+              "return": -0.0725,
+              "excess_vs_spy": -0.0681
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 1575.15,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 1,
+            "return": -0.0725,
+            "excess_vs_spy": -0.0681
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 13,
+          "symbol": "PSX",
+          "score": 92,
+          "entry_close": 259.47,
+          "outcomes": {
+            "1": {
+              "close": 257.06,
+              "date": "2026-09-14",
+              "return": -0.0093,
+              "excess_vs_spy": -0.0048
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 257.06,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 1,
+            "return": -0.0093,
+            "excess_vs_spy": -0.0048
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 14,
+          "symbol": "SFM",
+          "score": 92,
+          "entry_close": 72.76,
+          "outcomes": {
+            "1": {
+              "close": 75.09,
+              "date": "2026-09-14",
+              "return": 0.032,
+              "excess_vs_spy": 0.0365
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 75.09,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 1,
+            "return": 0.032,
+            "excess_vs_spy": 0.0365
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 15,
+          "symbol": "MPC",
+          "score": 91,
+          "entry_close": 395.93,
+          "outcomes": {
+            "1": {
+              "close": 396.45,
+              "date": "2026-09-14",
+              "return": 0.0013,
+              "excess_vs_spy": 0.0058
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 396.45,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 1,
+            "return": 0.0013,
+            "excess_vs_spy": 0.0058
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 16,
+          "symbol": "VLO",
+          "score": 91,
+          "entry_close": 390.42,
+          "outcomes": {
+            "1": {
+              "close": 382.95,
+              "date": "2026-09-14",
+              "return": -0.0191,
+              "excess_vs_spy": -0.0147
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 382.95,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 1,
+            "return": -0.0191,
+            "excess_vs_spy": -0.0147
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 17,
+          "symbol": "TGT",
+          "score": 90,
+          "entry_close": 155.83,
+          "outcomes": {
+            "1": {
+              "close": 158.7,
+              "date": "2026-09-14",
+              "return": 0.0184,
+              "excess_vs_spy": 0.0229
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 158.7,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 1,
+            "return": 0.0184,
+            "excess_vs_spy": 0.0229
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 18,
+          "symbol": "SPG",
+          "score": 89,
+          "entry_close": 204.83,
+          "outcomes": {
+            "1": {
+              "close": 204.97,
+              "date": "2026-09-14",
+              "return": 0.0007,
+              "excess_vs_spy": 0.0051
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 204.97,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 1,
+            "return": 0.0007,
+            "excess_vs_spy": 0.0051
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 19,
+          "symbol": "CAT",
+          "score": 89,
+          "entry_close": 818.57,
+          "outcomes": {
+            "1": {
+              "close": 784.0,
+              "date": "2026-09-14",
+              "return": -0.0422,
+              "excess_vs_spy": -0.0378
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 784.0,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 1,
+            "return": -0.0422,
+            "excess_vs_spy": -0.0378
+          },
+          "status": "scored"
+        },
+        {
+          "rank": 20,
+          "symbol": "AVGO",
+          "score": 88,
+          "entry_close": 361.99,
+          "outcomes": {
+            "1": {
+              "close": 344.72,
+              "date": "2026-09-14",
+              "return": -0.0477,
+              "excess_vs_spy": -0.0432
+            },
+            "3": null,
+            "5": null,
+            "21": null
+          },
+          "current": {
+            "close": 344.72,
+            "as_of": "2026-09-14",
+            "sessions_elapsed": 1,
+            "return": -0.0477,
+            "excess_vs_spy": -0.0432
+          },
+          "status": "scored"
+        }
+      ]
+    },
+    {
+      "observation_date": "2026-09-14",
       "positions_count": 20,
       "fully_matured": false,
       "by_horizon": {
@@ -3270,7 +4022,7 @@
           "rank": 1,
           "symbol": "MU",
           "score": 100,
-          "entry_close": 975.26,
+          "entry_close": 924.03,
           "outcomes": {
             "1": null,
             "3": null,
@@ -3283,7 +4035,7 @@
           "rank": 2,
           "symbol": "AMD",
           "score": 99,
-          "entry_close": 516.13,
+          "entry_close": 493.41,
           "outcomes": {
             "1": null,
             "3": null,
@@ -3296,7 +4048,7 @@
           "rank": 3,
           "symbol": "AMAT",
           "score": 99,
-          "entry_close": 456.49,
+          "entry_close": 424.21,
           "outcomes": {
             "1": null,
             "3": null,
@@ -3309,7 +4061,7 @@
           "rank": 4,
           "symbol": "CSCO",
           "score": 98,
-          "entry_close": 112.13,
+          "entry_close": 110.06,
           "outcomes": {
             "1": null,
             "3": null,
@@ -3320,9 +4072,9 @@
         },
         {
           "rank": 5,
-          "symbol": "STLD",
+          "symbol": "NUE",
           "score": 98,
-          "entry_close": 239.79,
+          "entry_close": 254.63,
           "outcomes": {
             "1": null,
             "3": null,
@@ -3333,9 +4085,9 @@
         },
         {
           "rank": 6,
-          "symbol": "NUE",
+          "symbol": "STLD",
           "score": 97,
-          "entry_close": 259.43,
+          "entry_close": 234.53,
           "outcomes": {
             "1": null,
             "3": null,
@@ -3346,9 +4098,9 @@
         },
         {
           "rank": 7,
-          "symbol": "UNH",
+          "symbol": "KLAC",
           "score": 96,
-          "entry_close": 376.77,
+          "entry_close": 169.09,
           "outcomes": {
             "1": null,
             "3": null,
@@ -3359,9 +4111,9 @@
         },
         {
           "rank": 8,
-          "symbol": "URI",
+          "symbol": "LRCX",
           "score": 96,
-          "entry_close": 989.12,
+          "entry_close": 273.49,
           "outcomes": {
             "1": null,
             "3": null,
@@ -3372,9 +4124,9 @@
         },
         {
           "rank": 9,
-          "symbol": "LRCX",
+          "symbol": "URI",
           "score": 95,
-          "entry_close": 298.22,
+          "entry_close": 993.8,
           "outcomes": {
             "1": null,
             "3": null,
@@ -3385,9 +4137,9 @@
         },
         {
           "rank": 10,
-          "symbol": "TXN",
+          "symbol": "ASML",
           "score": 94,
-          "entry_close": 268.7,
+          "entry_close": 1575.15,
           "outcomes": {
             "1": null,
             "3": null,
@@ -3398,9 +4150,9 @@
         },
         {
           "rank": 11,
-          "symbol": "KLAC",
+          "symbol": "UNH",
           "score": 94,
-          "entry_close": 180.64,
+          "entry_close": 383.55,
           "outcomes": {
             "1": null,
             "3": null,
@@ -3411,9 +4163,9 @@
         },
         {
           "rank": 12,
-          "symbol": "ASML",
+          "symbol": "TXN",
           "score": 93,
-          "entry_close": 1698.3,
+          "entry_close": 263.42,
           "outcomes": {
             "1": null,
             "3": null,
@@ -3426,7 +4178,7 @@
           "rank": 13,
           "symbol": "PSX",
           "score": 92,
-          "entry_close": 259.47,
+          "entry_close": 257.06,
           "outcomes": {
             "1": null,
             "3": null,
@@ -3439,7 +4191,7 @@
           "rank": 14,
           "symbol": "SFM",
           "score": 92,
-          "entry_close": 72.76,
+          "entry_close": 75.09,
           "outcomes": {
             "1": null,
             "3": null,
@@ -3450,9 +4202,9 @@
         },
         {
           "rank": 15,
-          "symbol": "MPC",
+          "symbol": "TGT",
           "score": 91,
-          "entry_close": 395.93,
+          "entry_close": 158.7,
           "outcomes": {
             "1": null,
             "3": null,
@@ -3463,9 +4215,9 @@
         },
         {
           "rank": 16,
-          "symbol": "VLO",
+          "symbol": "MPC",
           "score": 91,
-          "entry_close": 390.42,
+          "entry_close": 396.45,
           "outcomes": {
             "1": null,
             "3": null,
@@ -3476,9 +4228,9 @@
         },
         {
           "rank": 17,
-          "symbol": "TGT",
+          "symbol": "VLO",
           "score": 90,
-          "entry_close": 155.83,
+          "entry_close": 382.95,
           "outcomes": {
             "1": null,
             "3": null,
@@ -3489,9 +4241,9 @@
         },
         {
           "rank": 18,
-          "symbol": "SPG",
+          "symbol": "CAT",
           "score": 89,
-          "entry_close": 204.83,
+          "entry_close": 784.0,
           "outcomes": {
             "1": null,
             "3": null,
@@ -3502,9 +4254,9 @@
         },
         {
           "rank": 19,
-          "symbol": "CAT",
+          "symbol": "ANET",
           "score": 89,
-          "entry_close": 818.57,
+          "entry_close": 187.81,
           "outcomes": {
             "1": null,
             "3": null,
@@ -3515,9 +4267,9 @@
         },
         {
           "rank": 20,
-          "symbol": "AVGO",
+          "symbol": "MS",
           "score": 88,
-          "entry_close": 361.99,
+          "entry_close": 206.58,
           "outcomes": {
             "1": null,
             "3": null,
