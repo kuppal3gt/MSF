@@ -1,0 +1,787 @@
+{
+  "schema_version": "2.0",
+  "published_at": "2026-10-12T18:10:01+00:00",
+  "model": {
+    "id": "locked_defensive_staggered_v25",
+    "display_name": "Trend Quality Rankings",
+    "observation_date": "2026-10-09",
+    "research_horizon": "approximately 21 trading sessions",
+    "universe_analyzed": 160
+  },
+  "rankings": [
+    {
+      "rank": 1,
+      "symbol": "MU",
+      "score": 100,
+      "previous_rank": 1,
+      "rank_change": 0,
+      "days_in_top_20": 42,
+      "setup": "Trend continuation",
+      "trend_state": "Strong",
+      "price_position": "Near 20-day MA",
+      "risk_label": "High",
+      "summary": "MU shows an established long-term trend. Its score also benefits from avoiding some of the overextension characteristics the model penalises.",
+      "components": {
+        "trend": 98,
+        "momentum": 93,
+        "trend_efficiency": 32,
+        "acceleration": 45,
+        "price_position": 97,
+        "volatility_quality": 10
+      },
+      "reference_levels": {
+        "latest_close": 1029.0,
+        "ma_20": 1038.25,
+        "ma_50": 970.4,
+        "ma_200": 694.77,
+        "range_low_20": 902.6,
+        "range_high_20": 1108.72,
+        "atr": 43.97,
+        "atr_percent": 4.27
+      },
+      "research_prompts": [
+        "Review the next earnings date",
+        "Check recent company and industry news",
+        "Compare valuation with historical levels",
+        "Review recent support and resistance areas",
+        "Consider whether current volatility fits your risk tolerance"
+      ]
+    },
+    {
+      "rank": 2,
+      "symbol": "AMD",
+      "score": 99,
+      "previous_rank": 3,
+      "rank_change": 1,
+      "days_in_top_20": 42,
+      "setup": "Early trend improvement",
+      "trend_state": "Strong",
+      "price_position": "Near 20-day MA",
+      "risk_label": "Elevated",
+      "summary": "AMD shows an established long-term trend, improving short-term behaviour, relatively efficient price movement. Its score also benefits from avoiding some of the overextension characteristics the model penalises.",
+      "components": {
+        "trend": 99,
+        "momentum": 97,
+        "trend_efficiency": 79,
+        "acceleration": 85,
+        "price_position": 98,
+        "volatility_quality": 31
+      },
+      "reference_levels": {
+        "latest_close": 608.1,
+        "ma_20": 598.07,
+        "ma_50": 528.8,
+        "ma_200": 382.86,
+        "range_low_20": 480.33,
+        "range_high_20": 658.52,
+        "atr": 22.18,
+        "atr_percent": 3.65
+      },
+      "research_prompts": [
+        "Review the next earnings date",
+        "Check recent company and industry news",
+        "Compare valuation with historical levels",
+        "Review recent support and resistance areas",
+        "Consider whether current volatility fits your risk tolerance"
+      ]
+    },
+    {
+      "rank": 3,
+      "symbol": "AMAT",
+      "score": 99,
+      "previous_rank": 2,
+      "rank_change": -1,
+      "days_in_top_20": 42,
+      "setup": "Extended trend",
+      "trend_state": "Strong",
+      "price_position": "Moderately extended",
+      "risk_label": "Moderate",
+      "summary": "AMAT shows an established long-term trend, improving short-term behaviour, relatively efficient price movement. Its score also benefits from avoiding some of the overextension characteristics the model penalises.",
+      "components": {
+        "trend": 96,
+        "momentum": 81,
+        "trend_efficiency": 62,
+        "acceleration": 91,
+        "price_position": 95,
+        "volatility_quality": 20
+      },
+      "reference_levels": {
+        "latest_close": 507.03,
+        "ma_20": 484.12,
+        "ma_50": 491.12,
+        "ma_200": 431.87,
+        "range_low_20": 411.51,
+        "range_high_20": 547.25,
+        "atr": 16.86,
+        "atr_percent": 3.32
+      },
+      "research_prompts": [
+        "Review the next earnings date",
+        "Check recent company and industry news",
+        "Compare valuation with historical levels",
+        "Review recent support and resistance areas",
+        "Consider whether current volatility fits your risk tolerance"
+      ]
+    },
+    {
+      "rank": 4,
+      "symbol": "LRCX",
+      "score": 98,
+      "previous_rank": 4,
+      "rank_change": 0,
+      "days_in_top_20": 42,
+      "setup": "Trend continuation",
+      "trend_state": "Strong",
+      "price_position": "Above 200-day MA",
+      "risk_label": "Moderate",
+      "summary": "LRCX shows an established long-term trend. Its score also benefits from avoiding some of the overextension characteristics the model penalises.",
+      "components": {
+        "trend": 96,
+        "momentum": 94,
+        "trend_efficiency": 40,
+        "acceleration": 59,
+        "price_position": 96,
+        "volatility_quality": 4
+      },
+      "reference_levels": {
+        "latest_close": 318.84,
+        "ma_20": 310.83,
+        "ma_50": 310.07,
+        "ma_200": 277.82,
+        "range_low_20": 265.37,
+        "range_high_20": 352.56,
+        "atr": 12.06,
+        "atr_percent": 3.78
+      },
+      "research_prompts": [
+        "Review the next earnings date",
+        "Check recent company and industry news",
+        "Compare valuation with historical levels",
+        "Review recent support and resistance areas",
+        "Consider whether current volatility fits your risk tolerance"
+      ]
+    },
+    {
+      "rank": 5,
+      "symbol": "KLAC",
+      "score": 98,
+      "previous_rank": 5,
+      "rank_change": 0,
+      "days_in_top_20": 42,
+      "setup": "Early trend improvement",
+      "trend_state": "Strong",
+      "price_position": "Above 200-day MA",
+      "risk_label": "Moderate",
+      "summary": "KLAC shows an established long-term trend, improving short-term behaviour. Its score also benefits from avoiding some of the overextension characteristics the model penalises.",
+      "components": {
+        "trend": 86,
+        "momentum": 76,
+        "trend_efficiency": 54,
+        "acceleration": 86,
+        "price_position": 78,
+        "volatility_quality": 9
+      },
+      "reference_levels": {
+        "latest_close": 195.57,
+        "ma_20": 188.34,
+        "ma_50": 188.0,
+        "ma_200": 178.94,
+        "range_low_20": 165.89,
+        "range_high_20": 208.68,
+        "atr": 7.29,
+        "atr_percent": 3.73
+      },
+      "research_prompts": [
+        "Review the next earnings date",
+        "Check recent company and industry news",
+        "Compare valuation with historical levels",
+        "Review recent support and resistance areas",
+        "Consider whether current volatility fits your risk tolerance"
+      ]
+    },
+    {
+      "rank": 6,
+      "symbol": "PSX",
+      "score": 97,
+      "previous_rank": 9,
+      "rank_change": 3,
+      "days_in_top_20": 15,
+      "setup": "Extended trend",
+      "trend_state": "Strong",
+      "price_position": "Moderately extended",
+      "risk_label": "Moderate",
+      "summary": "PSX shows an established long-term trend, improving short-term behaviour, relatively efficient price movement. Its score also benefits from avoiding some of the overextension characteristics the model penalises.",
+      "components": {
+        "trend": 98,
+        "momentum": 96,
+        "trend_efficiency": 64,
+        "acceleration": 89,
+        "price_position": 99,
+        "volatility_quality": 28
+      },
+      "reference_levels": {
+        "latest_close": 278.18,
+        "ma_20": 264.07,
+        "ma_50": 245.04,
+        "ma_200": 184.78,
+        "range_low_20": 248.51,
+        "range_high_20": 286.57,
+        "atr": 8.89,
+        "atr_percent": 3.2
+      },
+      "research_prompts": [
+        "Review the next earnings date",
+        "Check recent company and industry news",
+        "Compare valuation with historical levels",
+        "Review recent support and resistance areas",
+        "Consider whether current volatility fits your risk tolerance"
+      ]
+    },
+    {
+      "rank": 7,
+      "symbol": "ANET",
+      "score": 96,
+      "previous_rank": 7,
+      "rank_change": 0,
+      "days_in_top_20": 2,
+      "setup": "Approaching breakout",
+      "trend_state": "Strong",
+      "price_position": "Near recent high",
+      "risk_label": "Moderate",
+      "summary": "ANET shows an established long-term trend, improving short-term behaviour, relatively efficient price movement. Its score also benefits from avoiding some of the overextension characteristics the model penalises.",
+      "components": {
+        "trend": 97,
+        "momentum": 70,
+        "trend_efficiency": 72,
+        "acceleration": 89,
+        "price_position": 98,
+        "volatility_quality": 43
+      },
+      "reference_levels": {
+        "latest_close": 216.74,
+        "ma_20": 204.62,
+        "ma_50": 196.93,
+        "ma_200": 160.5,
+        "range_low_20": 186.11,
+        "range_high_20": 217.41,
+        "atr": 6.16,
+        "atr_percent": 2.84
+      },
+      "research_prompts": [
+        "Review the next earnings date",
+        "Check recent company and industry news",
+        "Compare valuation with historical levels",
+        "Review recent support and resistance areas",
+        "Consider whether current volatility fits your risk tolerance"
+      ]
+    },
+    {
+      "rank": 8,
+      "symbol": "MPC",
+      "score": 96,
+      "previous_rank": 19,
+      "rank_change": 11,
+      "days_in_top_20": 4,
+      "setup": "Extended trend",
+      "trend_state": "Strong",
+      "price_position": "Moderately extended",
+      "risk_label": "Elevated",
+      "summary": "MPC shows an established long-term trend, improving short-term behaviour, relatively efficient price movement. Its score also benefits from avoiding some of the overextension characteristics the model penalises.",
+      "components": {
+        "trend": 99,
+        "momentum": 88,
+        "trend_efficiency": 86,
+        "acceleration": 99,
+        "price_position": 100,
+        "volatility_quality": 91
+      },
+      "reference_levels": {
+        "latest_close": 455.03,
+        "ma_20": 413.94,
+        "ma_50": 375.51,
+        "ma_200": 265.22,
+        "range_low_20": 378.8,
+        "range_high_20": 470.0,
+        "atr": 16.75,
+        "atr_percent": 3.68
+      },
+      "research_prompts": [
+        "Review the next earnings date",
+        "Check recent company and industry news",
+        "Compare valuation with historical levels",
+        "Review recent support and resistance areas",
+        "Consider whether current volatility fits your risk tolerance"
+      ]
+    },
+    {
+      "rank": 9,
+      "symbol": "BAC",
+      "score": 95,
+      "previous_rank": 10,
+      "rank_change": 1,
+      "days_in_top_20": 7,
+      "setup": "Near trend support",
+      "trend_state": "Mixed",
+      "price_position": "Below 200-day MA",
+      "risk_label": "Low",
+      "summary": "BAC shows relatively efficient price movement.",
+      "components": {
+        "trend": 49,
+        "momentum": 36,
+        "trend_efficiency": 99,
+        "acceleration": 14,
+        "price_position": 30,
+        "volatility_quality": 68
+      },
+      "reference_levels": {
+        "latest_close": 54.32,
+        "ma_20": 55.88,
+        "ma_50": 60.02,
+        "ma_200": 54.98,
+        "range_low_20": 52.24,
+        "range_high_20": 62.44,
+        "atr": 1.02,
+        "atr_percent": 1.87
+      },
+      "research_prompts": [
+        "Review the next earnings date",
+        "Check recent company and industry news",
+        "Compare valuation with historical levels",
+        "Review recent support and resistance areas",
+        "Consider whether current volatility fits your risk tolerance"
+      ]
+    },
+    {
+      "rank": 10,
+      "symbol": "CSCO",
+      "score": 94,
+      "previous_rank": 13,
+      "rank_change": 3,
+      "days_in_top_20": 2,
+      "setup": "Approaching breakout",
+      "trend_state": "Strong",
+      "price_position": "Near recent high",
+      "risk_label": "Low",
+      "summary": "CSCO shows an established long-term trend, improving short-term behaviour. Its score also benefits from avoiding some of the overextension characteristics the model penalises.",
+      "components": {
+        "trend": 95,
+        "momentum": 19,
+        "trend_efficiency": 51,
+        "acceleration": 95,
+        "price_position": 94,
+        "volatility_quality": 59
+      },
+      "reference_levels": {
+        "latest_close": 118.39,
+        "ma_20": 110.47,
+        "ma_50": 112.47,
+        "ma_200": 97.99,
+        "range_low_20": 104.51,
+        "range_high_20": 118.65,
+        "atr": 2.71,
+        "atr_percent": 2.29
+      },
+      "research_prompts": [
+        "Review the next earnings date",
+        "Check recent company and industry news",
+        "Compare valuation with historical levels",
+        "Review recent support and resistance areas",
+        "Consider whether current volatility fits your risk tolerance"
+      ]
+    },
+    {
+      "rank": 11,
+      "symbol": "TGT",
+      "score": 94,
+      "previous_rank": 8,
+      "rank_change": -3,
+      "days_in_top_20": 22,
+      "setup": "Trend continuation",
+      "trend_state": "Strong",
+      "price_position": "Near 20-day MA",
+      "risk_label": "Low",
+      "summary": "TGT shows an established long-term trend. Its score also benefits from avoiding some of the overextension characteristics the model penalises.",
+      "components": {
+        "trend": 94,
+        "momentum": 95,
+        "trend_efficiency": 16,
+        "acceleration": 18,
+        "price_position": 79,
+        "volatility_quality": 61
+      },
+      "reference_levels": {
+        "latest_close": 153.64,
+        "ma_20": 156.16,
+        "ma_50": 155.82,
+        "ma_200": 128.08,
+        "range_low_20": 150.46,
+        "range_high_20": 160.8,
+        "atr": 3.63,
+        "atr_percent": 2.36
+      },
+      "research_prompts": [
+        "Review the next earnings date",
+        "Check recent company and industry news",
+        "Compare valuation with historical levels",
+        "Review recent support and resistance areas",
+        "Consider whether current volatility fits your risk tolerance"
+      ]
+    },
+    {
+      "rank": 12,
+      "symbol": "TXN",
+      "score": 93,
+      "previous_rank": 12,
+      "rank_change": 0,
+      "days_in_top_20": 2,
+      "setup": "Early trend improvement",
+      "trend_state": "Strong",
+      "price_position": "Above 200-day MA",
+      "risk_label": "Low",
+      "summary": "TXN shows an established long-term trend, improving short-term behaviour. Its score also benefits from avoiding some of the overextension characteristics the model penalises.",
+      "components": {
+        "trend": 91,
+        "momentum": 76,
+        "trend_efficiency": 54,
+        "acceleration": 76,
+        "price_position": 88,
+        "volatility_quality": 93
+      },
+      "reference_levels": {
+        "latest_close": 283.74,
+        "ma_20": 277.21,
+        "ma_50": 272.67,
+        "ma_200": 249.3,
+        "range_low_20": 256.78,
+        "range_high_20": 298.75,
+        "atr": 7.36,
+        "atr_percent": 2.59
+      },
+      "research_prompts": [
+        "Review the next earnings date",
+        "Check recent company and industry news",
+        "Compare valuation with historical levels",
+        "Review recent support and resistance areas",
+        "Consider whether current volatility fits your risk tolerance"
+      ]
+    },
+    {
+      "rank": 13,
+      "symbol": "VLO",
+      "score": 92,
+      "previous_rank": null,
+      "rank_change": null,
+      "days_in_top_20": 1,
+      "setup": "Extended trend",
+      "trend_state": "Strong",
+      "price_position": "Moderately extended",
+      "risk_label": "Elevated",
+      "summary": "VLO shows an established long-term trend, improving short-term behaviour, relatively efficient price movement. Its score also benefits from avoiding some of the overextension characteristics the model penalises.",
+      "components": {
+        "trend": 99,
+        "momentum": 91,
+        "trend_efficiency": 71,
+        "acceleration": 98,
+        "price_position": 99,
+        "volatility_quality": 64
+      },
+      "reference_levels": {
+        "latest_close": 433.75,
+        "ma_20": 402.26,
+        "ma_50": 364.91,
+        "ma_200": 263.48,
+        "range_low_20": 364.96,
+        "range_high_20": 449.77,
+        "atr": 17.38,
+        "atr_percent": 4.01
+      },
+      "research_prompts": [
+        "Review the next earnings date",
+        "Check recent company and industry news",
+        "Compare valuation with historical levels",
+        "Review recent support and resistance areas",
+        "Consider whether current volatility fits your risk tolerance"
+      ]
+    },
+    {
+      "rank": 14,
+      "symbol": "MS",
+      "score": 92,
+      "previous_rank": 11,
+      "rank_change": -3,
+      "days_in_top_20": 13,
+      "setup": "Trend continuation",
+      "trend_state": "Positive",
+      "price_position": "Below 200-day MA",
+      "risk_label": "Low",
+      "summary": "MS shows a developing long-term trend, relatively efficient price movement.",
+      "components": {
+        "trend": 56,
+        "momentum": 32,
+        "trend_efficiency": 96,
+        "acceleration": 11,
+        "price_position": 34,
+        "volatility_quality": 8
+      },
+      "reference_levels": {
+        "latest_close": 190.02,
+        "ma_20": 195.99,
+        "ma_50": 207.02,
+        "ma_200": 192.53,
+        "range_low_20": 182.47,
+        "range_high_20": 212.97,
+        "atr": 4.18,
+        "atr_percent": 2.2
+      },
+      "research_prompts": [
+        "Review the next earnings date",
+        "Check recent company and industry news",
+        "Compare valuation with historical levels",
+        "Review recent support and resistance areas",
+        "Consider whether current volatility fits your risk tolerance"
+      ]
+    },
+    {
+      "rank": 15,
+      "symbol": "UNH",
+      "score": 91,
+      "previous_rank": 6,
+      "rank_change": -9,
+      "days_in_top_20": 42,
+      "setup": "Trend continuation",
+      "trend_state": "Positive",
+      "price_position": "Near 20-day MA",
+      "risk_label": "Low",
+      "summary": "UNH shows a developing long-term trend. Its score also benefits from avoiding some of the overextension characteristics the model penalises.",
+      "components": {
+        "trend": 65,
+        "momentum": 18,
+        "trend_efficiency": 11,
+        "acceleration": 52,
+        "price_position": 73,
+        "volatility_quality": 79
+      },
+      "reference_levels": {
+        "latest_close": 379.3,
+        "ma_20": 374.92,
+        "ma_50": 389.91,
+        "ma_200": 355.03,
+        "range_low_20": 362.6,
+        "range_high_20": 387.52,
+        "atr": 8.86,
+        "atr_percent": 2.34
+      },
+      "research_prompts": [
+        "Review the next earnings date",
+        "Check recent company and industry news",
+        "Compare valuation with historical levels",
+        "Review recent support and resistance areas",
+        "Consider whether current volatility fits your risk tolerance"
+      ]
+    },
+    {
+      "rank": 16,
+      "symbol": "ASML",
+      "score": 91,
+      "previous_rank": 17,
+      "rank_change": 1,
+      "days_in_top_20": 2,
+      "setup": "Trend continuation",
+      "trend_state": "Strong",
+      "price_position": "Above 200-day MA",
+      "risk_label": "Low",
+      "summary": "ASML shows an established long-term trend. Its score also benefits from avoiding some of the overextension characteristics the model penalises.",
+      "components": {
+        "trend": 92,
+        "momentum": 89,
+        "trend_efficiency": 36,
+        "acceleration": 55,
+        "price_position": 89,
+        "volatility_quality": 44
+      },
+      "reference_levels": {
+        "latest_close": 1780.34,
+        "ma_20": 1744.55,
+        "ma_50": 1735.9,
+        "ma_200": 1553.16,
+        "range_low_20": 1572.84,
+        "range_high_20": 1873.5,
+        "atr": 48.75,
+        "atr_percent": 2.74
+      },
+      "research_prompts": [
+        "Review the next earnings date",
+        "Check recent company and industry news",
+        "Compare valuation with historical levels",
+        "Review recent support and resistance areas",
+        "Consider whether current volatility fits your risk tolerance"
+      ]
+    },
+    {
+      "rank": 17,
+      "symbol": "GS",
+      "score": 90,
+      "previous_rank": 20,
+      "rank_change": 3,
+      "days_in_top_20": 2,
+      "setup": "Near trend support",
+      "trend_state": "Mixed",
+      "price_position": "Below 200-day MA",
+      "risk_label": "Low",
+      "summary": "GS shows relatively efficient price movement.",
+      "components": {
+        "trend": 40,
+        "momentum": 35,
+        "trend_efficiency": 94,
+        "acceleration": 8,
+        "price_position": 26,
+        "volatility_quality": 13
+      },
+      "reference_levels": {
+        "latest_close": 895.32,
+        "ma_20": 924.42,
+        "ma_50": 987.1,
+        "ma_200": 951.34,
+        "range_low_20": 868.52,
+        "range_high_20": 1013.69,
+        "atr": 19.65,
+        "atr_percent": 2.19
+      },
+      "research_prompts": [
+        "Review the next earnings date",
+        "Check recent company and industry news",
+        "Compare valuation with historical levels",
+        "Review recent support and resistance areas",
+        "Consider whether current volatility fits your risk tolerance"
+      ]
+    },
+    {
+      "rank": 18,
+      "symbol": "SBUX",
+      "score": 89,
+      "previous_rank": null,
+      "rank_change": null,
+      "days_in_top_20": 1,
+      "setup": "Recovery setup",
+      "trend_state": "Weak",
+      "price_position": "Below 200-day MA",
+      "risk_label": "Low",
+      "summary": "SBUX shows relatively efficient price movement.",
+      "components": {
+        "trend": 34,
+        "momentum": 68,
+        "trend_efficiency": 89,
+        "acceleration": 8,
+        "price_position": 12,
+        "volatility_quality": 35
+      },
+      "reference_levels": {
+        "latest_close": 90.75,
+        "ma_20": 95.02,
+        "ma_50": 101.08,
+        "ma_200": 97.89,
+        "range_low_20": 87.35,
+        "range_high_20": 99.88,
+        "atr": 2.3,
+        "atr_percent": 2.53
+      },
+      "research_prompts": [
+        "Review the next earnings date",
+        "Check recent company and industry news",
+        "Compare valuation with historical levels",
+        "Review recent support and resistance areas",
+        "Consider whether current volatility fits your risk tolerance"
+      ]
+    },
+    {
+      "rank": 19,
+      "symbol": "SPG",
+      "score": 89,
+      "previous_rank": 14,
+      "rank_change": -5,
+      "days_in_top_20": 11,
+      "setup": "Near trend support",
+      "trend_state": "Mixed",
+      "price_position": "Near 20-day MA",
+      "risk_label": "Low",
+      "summary": "SPG shows relatively efficient price movement.",
+      "components": {
+        "trend": 48,
+        "momentum": 49,
+        "trend_efficiency": 72,
+        "acceleration": 38,
+        "price_position": 23,
+        "volatility_quality": 98
+      },
+      "reference_levels": {
+        "latest_close": 199.42,
+        "ma_20": 202.88,
+        "ma_50": 212.54,
+        "ma_200": 202.18,
+        "range_low_20": 196.76,
+        "range_high_20": 207.32,
+        "atr": 2.65,
+        "atr_percent": 1.33
+      },
+      "research_prompts": [
+        "Review the next earnings date",
+        "Check recent company and industry news",
+        "Compare valuation with historical levels",
+        "Review recent support and resistance areas",
+        "Consider whether current volatility fits your risk tolerance"
+      ]
+    },
+    {
+      "rank": 20,
+      "symbol": "SFM",
+      "score": 88,
+      "previous_rank": null,
+      "rank_change": null,
+      "days_in_top_20": 1,
+      "setup": "Near trend support",
+      "trend_state": "Weak",
+      "price_position": "Below 200-day MA",
+      "risk_label": "Moderate",
+      "summary": "SFM shows relatively efficient price movement.",
+      "components": {
+        "trend": 7,
+        "momentum": 12,
+        "trend_efficiency": 76,
+        "acceleration": 10,
+        "price_position": 5,
+        "volatility_quality": 24
+      },
+      "reference_levels": {
+        "latest_close": 65.14,
+        "ma_20": 67.06,
+        "ma_50": 76.21,
+        "ma_200": 77.54,
+        "range_low_20": 61.88,
+        "range_high_20": 76.12,
+        "atr": 2.39,
+        "atr_percent": 3.67
+      },
+      "research_prompts": [
+        "Review the next earnings date",
+        "Check recent company and industry news",
+        "Compare valuation with historical levels",
+        "Review recent support and resistance areas",
+        "Consider whether current volatility fits your risk tolerance"
+      ]
+    }
+  ],
+  "departures": [
+    {
+      "symbol": "WELL",
+      "previous_rank": 15
+    },
+    {
+      "symbol": "MRK",
+      "previous_rank": 16
+    },
+    {
+      "symbol": "CAT",
+      "previous_rank": 18
+    }
+  ]
+}
