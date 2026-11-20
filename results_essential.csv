@@ -1,7 +1,6 @@
 "Symbol","MarketCap","Fundamental Strength Index","Price","Last 5min Average","Last 20min Average","Previous Day Close","% Change","Health Rating","Micro Trend Rating","Macro Trend Rating","Support","Resistance","Buy Signal Range","Volume Surge","EPS","UpdateTime"
 "PANW","-",NA,358.55,359.186,360.41,339.92,5.48,"-","Mixed trend","Uptrend",358.55,362.45,"334.86-361.3","True",NA,"2026-11-19 19:59:00"
 "WST","Large","Good",387,391.423,395.166,404.02,-4.21,"-","Mixed trend","Mixed trend",387,398.39,"336.56-395.57","True",8.91,"2026-11-19 19:59:00"
-"AMT","Large","Good",181.15,181.175,181.221,184.82,-1.99,"-","Mixed trend","Mixed trend",180.97,181.6,"174.45-181.21","True",7.1,"2026-11-19 16:39:00"
 "AMD","Large","Moderate",472.5097,471.84,471.832,530.14,-10.87,"Moderate","Mixed trend","Mixed trend",470,473.8,"431.03-495.3","True",4.68,"2026-11-19 19:59:00"
 "KEYS","Large","Good",282.3,282.817,283.799,286.3,-1.4,"Very Weak","Mixed trend","Mixed trend",282.3,285.4145,"263.21-285.35","True",7.39,"2026-11-19 19:58:00"
 "INTU","Large","Good",279.74,279.594,279.418,313.24,-10.69,"Moderate","Uptrend","Downtrend",279,279.8,"262.88-308.86","True",16.46,"2026-11-19 19:59:00"
